@@ -8,10 +8,10 @@
     "lastCommitUser": "The Developer"
   },
   "64a3d55d-2ff3-485b-8699-5c90436dc2e5": {
-    "gitAppName": "git app2",
-    "lastCommitMessage": "first commit",
+    "gitAppName": "git app2renamed",
+    "lastCommitMessage": "App git app2  is renamed to git app2",
     "gitVersionId": "7c07f9c2-baf4-4299-b1f7-cc8b189c8789",
-    "lastpushDate": "2024-07-24T16:43:44.074Z",
+    "lastpushDate": "2024-07-24T16:45:30.912Z",
     "gitVersionName": "v2",
     "lastCommitUser": "The Developer"
   }

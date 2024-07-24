@@ -6,7 +6,7 @@
         "appV2": {
           "id": "64a3d55d-2ff3-485b-8699-5c90436dc2e5",
           "type": "front-end",
-          "name": "git app2",
+          "name": "git app2renamed",
           "slug": "64a3d55d-2ff3-485b-8699-5c90436dc2e5",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -18,7 +18,7 @@
           "workflowEnabled": false,
           "createdAt": "2024-07-24T16:39:47.639Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2024-07-24T16:39:47.630Z",
+          "updatedAt": "2024-07-24T16:45:28.223Z",
           "editingVersion": {
             "id": "7c07f9c2-baf4-4299-b1f7-cc8b189c8789",
             "name": "v2",
