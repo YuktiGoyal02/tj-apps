@@ -6,7 +6,7 @@
         "appV2": {
           "id": "3ae74347-5dee-449c-8630-35ded7dc4ffd",
           "type": "front-end",
-          "name": "Current user",
+          "name": "Current user rename",
           "slug": "3ae74347-5dee-449c-8630-35ded7dc4ffd",
           "isPublic": true,
           "isMaintenanceOn": false,
@@ -18,7 +18,7 @@
           "workflowEnabled": false,
           "createdAt": "2024-07-30T08:31:57.232Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2024-07-30T08:49:25.952Z",
+          "updatedAt": "2024-07-30T09:24:52.308Z",
           "editingVersion": {
             "id": "8adf9413-ac3e-47c1-8e3f-877963833cea",
             "name": "v4",
