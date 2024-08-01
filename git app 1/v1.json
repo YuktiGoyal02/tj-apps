@@ -6,19 +6,19 @@
         "appV2": {
           "id": "c3f8f62b-9e09-4e91-bbb3-0c435760f1dc",
           "type": "front-end",
-          "name": "git app",
+          "name": "git app 1",
           "slug": "c3f8f62b-9e09-4e91-bbb3-0c435760f1dc",
           "isPublic": null,
           "isMaintenanceOn": false,
           "icon": "menuhome",
           "organizationId": "2393470a-0b9f-4558-aceb-a9638680ab70",
-          "currentVersionId": null,
+          "currentVersionId": "f7d5e2f6-a07d-4c53-b4fb-9bdf0d33414c",
           "userId": "545f2a62-4acf-46d8-a6c2-821d24877de3",
           "workflowApiToken": null,
           "workflowEnabled": false,
           "createdAt": "2024-08-01T10:06:19.645Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2024-08-01T10:06:19.644Z",
+          "updatedAt": "2024-08-01T10:17:27.137Z",
           "editingVersion": {
             "id": "f7d5e2f6-a07d-4c53-b4fb-9bdf0d33414c",
             "name": "v1",
@@ -36,10 +36,10 @@
             "showViewerNavigation": true,
             "homePageId": "9b714eb3-ea2e-49b0-859f-89a87a3cc6cd",
             "appId": "c3f8f62b-9e09-4e91-bbb3-0c435760f1dc",
-            "currentEnvironmentId": "7da5cb00-ffcc-40ed-b0e9-fc86126b378c",
+            "currentEnvironmentId": "97c664f1-787a-4d23-8e19-03187dda1099",
             "promotedFrom": null,
             "createdAt": "2024-08-01T10:06:19.657Z",
-            "updatedAt": "2024-08-01T10:06:19.644Z"
+            "updatedAt": "2024-08-01T10:10:20.561Z"
           },
           "components": [
             {
@@ -805,7 +805,7 @@
               "dataSourceId": "57991e59-6738-4add-a1e5-300bb995fc91",
               "appVersionId": "f7d5e2f6-a07d-4c53-b4fb-9bdf0d33414c",
               "createdAt": "2024-08-01T10:06:51.157Z",
-              "updatedAt": "2024-08-01T10:08:03.984Z"
+              "updatedAt": "2024-08-01T10:10:27.434Z"
             }
           ],
           "dataSources": [
@@ -840,10 +840,10 @@
               "showViewerNavigation": true,
               "homePageId": "9b714eb3-ea2e-49b0-859f-89a87a3cc6cd",
               "appId": "c3f8f62b-9e09-4e91-bbb3-0c435760f1dc",
-              "currentEnvironmentId": "7da5cb00-ffcc-40ed-b0e9-fc86126b378c",
+              "currentEnvironmentId": "97c664f1-787a-4d23-8e19-03187dda1099",
               "promotedFrom": null,
               "createdAt": "2024-08-01T10:06:19.657Z",
-              "updatedAt": "2024-08-01T10:06:19.644Z"
+              "updatedAt": "2024-08-01T10:10:20.561Z"
             }
           ],
           "appEnvironments": [
