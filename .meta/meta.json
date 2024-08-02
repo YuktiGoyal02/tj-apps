@@ -38,5 +38,13 @@
     "lastpushDate": "2024-08-01T10:17:29.954Z",
     "gitVersionName": "v1",
     "lastCommitUser": "The Developer"
+  },
+  "c6a3652f-fa29-4013-b033-5b3fbfd58851": {
+    "gitAppName": "app rename test",
+    "lastCommitMessage": "app git sync",
+    "gitVersionId": "63127cfa-a9a5-44d4-b112-f9511e24a968",
+    "lastpushDate": "2024-08-02T10:45:59.812Z",
+    "gitVersionName": "v4",
+    "lastCommitUser": "test "
   }
 }
