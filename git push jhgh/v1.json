@@ -6,7 +6,7 @@
         "appV2": {
           "id": "3252e1e8-7a95-43aa-ab15-3da9f2cfbfd9",
           "type": "front-end",
-          "name": "git push",
+          "name": "git push jhgh",
           "slug": "3252e1e8-7a95-43aa-ab15-3da9f2cfbfd9",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -18,7 +18,7 @@
           "workflowEnabled": false,
           "createdAt": "2024-08-09T10:44:03.569Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2024-08-09T10:44:03.569Z",
+          "updatedAt": "2024-08-09T10:45:09.441Z",
           "editingVersion": {
             "id": "8a7d532a-6798-41bd-bfb8-ff51e0529d66",
             "name": "v1",
