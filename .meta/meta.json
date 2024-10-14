@@ -80,10 +80,10 @@
     "lastCommitUser": "The Developer"
   },
   "4e288236-898e-41c8-bdd2-1978a6cbe2a4": {
-    "gitAppName": "git sync App 2",
-    "lastCommitMessage": "App git  is renamed to git",
-    "gitVersionId": "09022dec-f0ee-4289-bb94-6dc7175972b4",
-    "lastpushDate": "2024-10-14T11:18:37.966Z",
+    "gitAppName": "git check",
+    "lastCommitMessage": "test",
+    "gitVersionId": "7d1b76f7-eb89-434a-a389-ccdad7e5ad84",
+    "lastpushDate": "2024-10-14T11:18:46.242Z",
     "gitVersionName": "v1",
     "lastCommitUser": "The Developer"
   }
