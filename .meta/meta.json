@@ -134,5 +134,13 @@
     "lastpushDate": "2024-10-14T12:21:47.948Z",
     "gitVersionName": "v1",
     "lastCommitUser": "QA test"
+  },
+  "02b29098-d2f7-4ec1-a805-a2d3195c70a8": {
+    "gitAppName": "local git app",
+    "lastCommitMessage": "first commit",
+    "gitVersionId": "929238ee-f671-426f-a32c-5a6086eb236c",
+    "lastpushDate": "2024-10-14T12:23:41.290Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "The Developer"
   }
 }
