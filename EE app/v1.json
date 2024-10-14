@@ -295,6 +295,52 @@
                   "updatedAt": "2024-10-14T12:21:20.156Z"
                 }
               ]
+            },
+            {
+              "id": "23ed9c96-6402-4bb5-9b20-f538c7d0a815",
+              "name": "button3",
+              "type": "Button",
+              "pageId": "f2b293cf-1b0d-4b0b-b5ff-ca6d6cd8b65c",
+              "parent": null,
+              "properties": {},
+              "general": null,
+              "styles": {},
+              "generalStyles": null,
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-10-14T12:26:08.764Z",
+              "updatedAt": "2024-10-14T12:26:08.764Z",
+              "layouts": [
+                {
+                  "id": "53abec37-0bc3-4569-9074-be4bbe7b8339",
+                  "type": "desktop",
+                  "top": 30,
+                  "left": 28,
+                  "width": 4,
+                  "height": 40,
+                  "componentId": "23ed9c96-6402-4bb5-9b20-f538c7d0a815",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-14T12:26:08.764Z"
+                },
+                {
+                  "id": "13cbc113-8349-4a4a-9eaf-818e202b2ed7",
+                  "type": "mobile",
+                  "top": 30,
+                  "left": 28,
+                  "width": 4,
+                  "height": 40,
+                  "componentId": "23ed9c96-6402-4bb5-9b20-f538c7d0a815",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-14T12:26:08.764Z"
+                }
+              ]
             }
           ],
           "pages": [
