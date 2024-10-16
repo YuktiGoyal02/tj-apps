@@ -150,5 +150,13 @@
     "lastpushDate": "2024-10-16T06:45:13.746Z",
     "gitVersionName": "v2",
     "lastCommitUser": "QA test"
+  },
+  "551d949b-d895-4ef9-97e8-faae4e0bc242": {
+    "gitAppName": "test app",
+    "lastCommitMessage": " v1 Version of app test app promoted from development to staging",
+    "gitVersionId": "96d881b0-1454-4dd7-a48a-e66df8ffdbca",
+    "lastpushDate": "2024-10-16T06:50:34.484Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "QA test"
   }
 }
