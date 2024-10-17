@@ -1126,6 +1126,1585 @@
                   "updatedAt": "2024-10-17T12:19:43.270Z"
                 }
               ]
+            },
+            {
+              "id": "0cbb261d-6a12-4d56-92d1-12b59c9d6933",
+              "name": "image1",
+              "type": "Image",
+              "pageId": "4559734f-2f00-4720-8776-8434250bd0e8",
+              "parent": "2a3a4036-bf83-4385-936d-e4f351642faf-0",
+              "properties": {
+                "source": {
+                  "value": "https://uploads-ssl.webflow.com/6266634263b9179f76b2236e/62666392f32677b5cb2fb84b_logo.svg"
+                },
+                "visible": {
+                  "value": "{{true}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "alternativeText": {
+                  "value": ""
+                },
+                "zoomButtons": {
+                  "value": "{{false}}"
+                },
+                "rotateButton": {
+                  "value": "{{false}}"
+                }
+              },
+              "general": {},
+              "styles": {
+                "borderType": {
+                  "value": "none"
+                },
+                "padding": {
+                  "value": "0"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "imageFit": {
+                  "value": "contain"
+                },
+                "backgroundColor": {
+                  "value": ""
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-10-17T12:20:19.877Z",
+              "updatedAt": "2024-10-17T12:20:19.877Z",
+              "layouts": [
+                {
+                  "id": "64b9ab5b-267c-4ca0-87fa-4b93520d83cb",
+                  "type": "desktop",
+                  "top": 60,
+                  "left": 17,
+                  "width": 6.976744186046512,
+                  "height": 100,
+                  "componentId": "0cbb261d-6a12-4d56-92d1-12b59c9d6933",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:19.877Z"
+                },
+                {
+                  "id": "db89ad38-7efe-44c8-83c5-a6517176aa69",
+                  "type": "mobile",
+                  "top": 60,
+                  "left": 17,
+                  "width": 6.976744186046512,
+                  "height": 100,
+                  "componentId": "0cbb261d-6a12-4d56-92d1-12b59c9d6933",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:19.877Z"
+                }
+              ]
+            },
+            {
+              "id": "b85d9780-5acf-4225-b0b7-0916899a397e",
+              "name": "text1",
+              "type": "Text",
+              "pageId": "4559734f-2f00-4720-8776-8434250bd0e8",
+              "parent": "2a3a4036-bf83-4385-936d-e4f351642faf-1",
+              "properties": {
+                "textFormat": {
+                  "value": "html"
+                },
+                "text": {
+                  "value": "Open-source low-code framework to build & deploy internal tools within minutes."
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                }
+              },
+              "general": {},
+              "styles": {
+                "backgroundColor": {
+                  "value": "#fff00000"
+                },
+                "textColor": {
+                  "value": "#000000"
+                },
+                "textSize": {
+                  "value": "{{14}}"
+                },
+                "textAlign": {
+                  "value": "left"
+                },
+                "fontWeight": {
+                  "value": "normal"
+                },
+                "decoration": {
+                  "value": "none"
+                },
+                "transformation": {
+                  "value": "none"
+                },
+                "fontStyle": {
+                  "value": "normal"
+                },
+                "lineHeight": {
+                  "value": "{{1.5}}"
+                },
+                "textIndent": {
+                  "value": "{{0}}"
+                },
+                "letterSpacing": {
+                  "value": "{{0}}"
+                },
+                "wordSpacing": {
+                  "value": "{{0}}"
+                },
+                "fontVariant": {
+                  "value": "normal"
+                },
+                "verticalAlignment": {
+                  "value": "center"
+                },
+                "padding": {
+                  "value": "default"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000090"
+                },
+                "borderColor": {
+                  "value": ""
+                },
+                "borderRadius": {
+                  "value": "{{6}}"
+                },
+                "isScrollRequired": {
+                  "value": "enabled"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-10-17T12:20:19.877Z",
+              "updatedAt": "2024-10-17T12:20:19.877Z",
+              "layouts": [
+                {
+                  "id": "529618cf-47a2-45fb-8b47-83c4a457f70b",
+                  "type": "desktop",
+                  "top": 100,
+                  "left": 5,
+                  "width": 34,
+                  "height": 50,
+                  "componentId": "b85d9780-5acf-4225-b0b7-0916899a397e",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:19.877Z"
+                },
+                {
+                  "id": "c4fcc8f3-9b99-4adb-8daf-aa918e474a6e",
+                  "type": "mobile",
+                  "top": 100,
+                  "left": 5,
+                  "width": 34,
+                  "height": 50,
+                  "componentId": "b85d9780-5acf-4225-b0b7-0916899a397e",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:19.877Z"
+                }
+              ]
+            },
+            {
+              "id": "6a682711-0ed5-4d69-a2a0-cbb7a5875000",
+              "name": "table1",
+              "type": "Table",
+              "pageId": "4559734f-2f00-4720-8776-8434250bd0e8",
+              "parent": "2a3a4036-bf83-4385-936d-e4f351642faf-2",
+              "properties": {
+                "title": {
+                  "value": "Table"
+                },
+                "visible": {
+                  "value": "{{true}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "data": {
+                  "value": "{{ [ \n\t\t{ id: 1, name: 'Olivia Nguyen', email: 'olivia.nguyen@example.com', date: '15/05/2022', mobile_number: 9876543210, interest: ['Reading', 'Traveling','Photography'], photo: 'https://reqres.in/img/faces/7-image.jpg' }, \n\t\t{ id: 2, name: 'Liam Patel', email: 'liam.patel@example.com', date: '20/09/2021', mobile_number: 8765432109, interest: ['Cooking','Gardening','Hiking'], photo: 'https://reqres.in/img/faces/5-image.jpg' }, \n\t\t{ id: 3, name: 'Sophia Reyes', email: 'sophia.reyes@example.com', date: '01/01/2023', mobile_number: 7654321098, interest: ['Music','Dancing','Crafting'], photo: 'https://reqres.in/img/faces/3-image.jpg' }, \n\t\t{ id: 4, name: 'Jacob Hernandez', email: 'jacob.hernandez@example.com', date: '10/11/2022', mobile_number: 6543210987, interest: ['Reading', 'Traveling', 'Volunteering'], photo: 'https://reqres.in/img/faces/1-image.jpg' }, \n\t\t{ id: 5, name: 'William Sanchez', email: 'william.sanchez@example.com', date: '07/01/2021', mobile_number: 4321098765, interest: ['Music', 'Dancing', 'Hiking'], photo: 'https://reqres.in/img/faces/4-image.jpg' }, \n\t\t{ id: 6, name: 'Ethan Morales', email: 'ethan.morales@example.com', date: '05/11/2021', mobile_number: 2109876543, interest: ['Cooking', 'Traveling', 'Photography'], photo: 'https://reqres.in/img/faces/6-image.jpg' }, \n\t\t{ id: 7, name: 'Mia Tiana', email: 'mia.tiana@example.com', date: '21/11/2022', mobile_number: 1098705217, interest: ['Music', 'Gardening', 'Hiking'], photo: 'https://reqres.in/img/faces/2-image.jpg' }, \n\t\t{ id: 8, name: 'Lucas Ramirez', email: 'lucas.ramirez@example.com', date: '31/03/2023', mobile_number: 9876543210, interest: ['Reading', 'Dancing', 'Crafting'], photo: 'https://reqres.in/img/faces/9-image.jpg' }, \n\t\t{ id: 9, name: 'Alexander Vela', email: 'alexander.vela@example.com', date: '07/09/2022', mobile_number: 7654321098, interest: ['Music','Gardening','Photography'], photo: 'https://reqres.in/img/faces/8-image.jpg' }, \n\t\t{ id: 10, name: 'Michael Reyes', email: 'michael.reyes@example.com', date: '25/12/2021', mobile_number: 5432109876, interest: ['Cooking','Crafting','Volunteering'], photo: 'https://reqres.in/img/faces/10-image.jpg' } \n] }}"
+                },
+                "useDynamicColumn": {
+                  "value": "{{false}}"
+                },
+                "columnData": {
+                  "value": "{{[{name: 'email', key: 'email', id: '1'}, {name: 'Full name', key: 'name', id: '2', isEditable: true}]}}"
+                },
+                "rowsPerPage": {
+                  "value": "{{10}}"
+                },
+                "serverSidePagination": {
+                  "value": "{{false}}"
+                },
+                "enableNextButton": {
+                  "value": "{{true}}"
+                },
+                "enablePrevButton": {
+                  "value": "{{true}}"
+                },
+                "totalRecords": {
+                  "value": "{{10}}"
+                },
+                "enablePagination": {
+                  "value": "{{true}}"
+                },
+                "serverSideSort": {
+                  "value": "{{false}}"
+                },
+                "serverSideFilter": {
+                  "value": "{{false}}"
+                },
+                "displaySearchBox": {
+                  "value": "{{true}}"
+                },
+                "showDownloadButton": {
+                  "value": "{{true}}"
+                },
+                "showFilterButton": {
+                  "value": "{{true}}"
+                },
+                "autogenerateColumns": {
+                  "value": true,
+                  "generateNestedColumns": true
+                },
+                "isAllColumnsEditable": {
+                  "value": "{{false}}"
+                },
+                "columns": {
+                  "value": [
+                    {
+                      "name": "id",
+                      "id": "e3ecbf7fa52c4d7210a93edb8f43776267a489bad52bd108be9588f790126737",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnSize": 30,
+                      "columnType": "string"
+                    },
+                    {
+                      "name": "photo",
+                      "key": "photo",
+                      "id": "f23b7d134b2e490ea41e3bb8eeb8c8e37472af243bf6b70d5af294482097e3a2",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnType": "image",
+                      "objectFit": "contain",
+                      "borderRadius": "100",
+                      "columnSize": 70
+                    },
+                    {
+                      "name": "name",
+                      "id": "5d2a3744a006388aadd012fcc15cc0dbcb5f9130e0fbb64c558561c97118754a",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnSize": 130,
+                      "columnType": "string"
+                    },
+                    {
+                      "name": "email",
+                      "id": "afc9a5091750a1bd4760e38760de3b4be11a43452ae8ae07ce2eebc569fe9a7f",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnSize": 230,
+                      "columnType": "string"
+                    },
+                    {
+                      "name": "date",
+                      "id": "27b75c8af9d34d1eaa1f9bb7f8f9f7b0abf1823e799748c8bb57e74f53b2c1dc",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnType": "datepicker",
+                      "isTimeChecked": false,
+                      "dateFormat": "DD/MM/YYYY",
+                      "parseDateFormat": "DD/MM/YYYY",
+                      "isDateSelectionEnabled": true,
+                      "columnSize": 130
+                    },
+                    {
+                      "name": "mobile_number",
+                      "id": "9c2e3c40572a4aefb8e179ee39a0e1ac9dc2b2e6634be56e1c05be13c3d1de56",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnType": "number",
+                      "columnSize": 140
+                    },
+                    {
+                      "name": "interest",
+                      "key": "interest",
+                      "id": "f23b7d134b2e490ea41e3bb8eeb8c8e37472af243bf6b70d5af294482097e3a1",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnType": "newMultiSelect",
+                      "columnSize": 300,
+                      "options": [
+                        {
+                          "label": "Reading",
+                          "value": "Reading"
+                        },
+                        {
+                          "label": "Traveling",
+                          "value": "Traveling"
+                        },
+                        {
+                          "label": "Photography",
+                          "value": "Photography"
+                        },
+                        {
+                          "label": "Music",
+                          "value": "Music"
+                        },
+                        {
+                          "label": "Cooking",
+                          "value": "Cooking"
+                        },
+                        {
+                          "label": "Crafting",
+                          "value": "Crafting"
+                        },
+                        {
+                          "label": "Voluntering",
+                          "value": "Voluntering"
+                        },
+                        {
+                          "label": "Garndening",
+                          "value": "Garndening"
+                        },
+                        {
+                          "label": "Dancing",
+                          "value": "Dancing"
+                        },
+                        {
+                          "label": "Hiking",
+                          "value": "Hiking"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "showBulkUpdateActions": {
+                  "value": "{{true}}"
+                },
+                "showBulkSelector": {
+                  "value": "{{false}}"
+                },
+                "highlightSelectedRow": {
+                  "value": "{{false}}"
+                },
+                "columnSizes": {
+                  "value": "{{({})}}"
+                },
+                "actions": {
+                  "value": []
+                },
+                "enabledSort": {
+                  "value": "{{true}}"
+                },
+                "hideColumnSelectorButton": {
+                  "value": "{{false}}"
+                },
+                "defaultSelectedRow": {
+                  "value": "{{{\"id\":1}}}"
+                },
+                "showAddNewRowButton": {
+                  "value": "{{true}}"
+                },
+                "allowSelection": {
+                  "value": "{{true}}"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                }
+              },
+              "general": {},
+              "styles": {
+                "textColor": {
+                  "value": "#000"
+                },
+                "columnHeaderWrap": {
+                  "value": "fixed"
+                },
+                "actionButtonRadius": {
+                  "value": "0"
+                },
+                "cellSize": {
+                  "value": "regular"
+                },
+                "borderRadius": {
+                  "value": "8"
+                },
+                "tableType": {
+                  "value": "table-classic"
+                },
+                "maxRowHeight": {
+                  "value": "auto"
+                },
+                "maxRowHeightValue": {
+                  "value": "{{0}}"
+                },
+                "contentWrap": {
+                  "value": "{{true}}"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000090"
+                },
+                "padding": {
+                  "value": "default"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-10-17T12:20:19.877Z",
+              "updatedAt": "2024-10-17T12:20:19.877Z",
+              "layouts": [
+                {
+                  "id": "17893dad-2163-485a-8c82-7efa9925a79b",
+                  "type": "desktop",
+                  "top": 0,
+                  "left": 1,
+                  "width": 41,
+                  "height": 250,
+                  "componentId": "6a682711-0ed5-4d69-a2a0-cbb7a5875000",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:19.877Z"
+                },
+                {
+                  "id": "ce542b97-98b7-445c-aca1-f71e9e253f64",
+                  "type": "mobile",
+                  "top": 0,
+                  "left": 1,
+                  "width": 41,
+                  "height": 250,
+                  "componentId": "6a682711-0ed5-4d69-a2a0-cbb7a5875000",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:19.877Z"
+                }
+              ]
+            },
+            {
+              "id": "6bd82e13-c3df-4751-9117-a750e1591bb1",
+              "name": "image2",
+              "type": "Image",
+              "pageId": "4559734f-2f00-4720-8776-8434250bd0e8",
+              "parent": "1654ec64-0fb6-4986-8d26-1a6aea67ead8-0",
+              "properties": {
+                "source": {
+                  "value": "https://uploads-ssl.webflow.com/6266634263b9179f76b2236e/62666392f32677b5cb2fb84b_logo.svg"
+                },
+                "visible": {
+                  "value": "{{true}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "alternativeText": {
+                  "value": ""
+                },
+                "zoomButtons": {
+                  "value": "{{false}}"
+                },
+                "rotateButton": {
+                  "value": "{{false}}"
+                }
+              },
+              "general": {},
+              "styles": {
+                "borderType": {
+                  "value": "none"
+                },
+                "padding": {
+                  "value": "0"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "imageFit": {
+                  "value": "contain"
+                },
+                "backgroundColor": {
+                  "value": ""
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-10-17T12:20:35.001Z",
+              "updatedAt": "2024-10-17T12:20:35.001Z",
+              "layouts": [
+                {
+                  "id": "eb3f4ac1-f59b-4a00-bee9-3db13e0a5fde",
+                  "type": "desktop",
+                  "top": 60,
+                  "left": 17,
+                  "width": 6.976744186046512,
+                  "height": 100,
+                  "componentId": "6bd82e13-c3df-4751-9117-a750e1591bb1",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:35.001Z"
+                },
+                {
+                  "id": "276d7b12-dd12-4a12-871e-b42d0bfde70b",
+                  "type": "mobile",
+                  "top": 60,
+                  "left": 17,
+                  "width": 6.976744186046512,
+                  "height": 100,
+                  "componentId": "6bd82e13-c3df-4751-9117-a750e1591bb1",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:35.001Z"
+                }
+              ]
+            },
+            {
+              "id": "f13a4ee1-27be-46b4-bba0-8f2ea5e85d6d",
+              "name": "text2",
+              "type": "Text",
+              "pageId": "4559734f-2f00-4720-8776-8434250bd0e8",
+              "parent": "1654ec64-0fb6-4986-8d26-1a6aea67ead8-1",
+              "properties": {
+                "textFormat": {
+                  "value": "html"
+                },
+                "text": {
+                  "value": "Open-source low-code framework to build & deploy internal tools within minutes."
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                }
+              },
+              "general": {},
+              "styles": {
+                "backgroundColor": {
+                  "value": "#fff00000"
+                },
+                "textColor": {
+                  "value": "#000000"
+                },
+                "textSize": {
+                  "value": "{{14}}"
+                },
+                "textAlign": {
+                  "value": "left"
+                },
+                "fontWeight": {
+                  "value": "normal"
+                },
+                "decoration": {
+                  "value": "none"
+                },
+                "transformation": {
+                  "value": "none"
+                },
+                "fontStyle": {
+                  "value": "normal"
+                },
+                "lineHeight": {
+                  "value": "{{1.5}}"
+                },
+                "textIndent": {
+                  "value": "{{0}}"
+                },
+                "letterSpacing": {
+                  "value": "{{0}}"
+                },
+                "wordSpacing": {
+                  "value": "{{0}}"
+                },
+                "fontVariant": {
+                  "value": "normal"
+                },
+                "verticalAlignment": {
+                  "value": "center"
+                },
+                "padding": {
+                  "value": "default"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000090"
+                },
+                "borderColor": {
+                  "value": ""
+                },
+                "borderRadius": {
+                  "value": "{{6}}"
+                },
+                "isScrollRequired": {
+                  "value": "enabled"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-10-17T12:20:35.001Z",
+              "updatedAt": "2024-10-17T12:20:35.001Z",
+              "layouts": [
+                {
+                  "id": "c69bba37-7a05-44d0-b432-808436b5abfd",
+                  "type": "desktop",
+                  "top": 100,
+                  "left": 5,
+                  "width": 34,
+                  "height": 50,
+                  "componentId": "f13a4ee1-27be-46b4-bba0-8f2ea5e85d6d",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:35.001Z"
+                },
+                {
+                  "id": "252bcf93-1ffd-4b59-b56b-52370ac468fe",
+                  "type": "mobile",
+                  "top": 100,
+                  "left": 5,
+                  "width": 34,
+                  "height": 50,
+                  "componentId": "f13a4ee1-27be-46b4-bba0-8f2ea5e85d6d",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:35.001Z"
+                }
+              ]
+            },
+            {
+              "id": "d7bfb968-4840-455d-9dfe-451fd782b87c",
+              "name": "table2",
+              "type": "Table",
+              "pageId": "4559734f-2f00-4720-8776-8434250bd0e8",
+              "parent": "1654ec64-0fb6-4986-8d26-1a6aea67ead8-2",
+              "properties": {
+                "title": {
+                  "value": "Table"
+                },
+                "visible": {
+                  "value": "{{true}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "data": {
+                  "value": "{{ [ \n\t\t{ id: 1, name: 'Olivia Nguyen', email: 'olivia.nguyen@example.com', date: '15/05/2022', mobile_number: 9876543210, interest: ['Reading', 'Traveling','Photography'], photo: 'https://reqres.in/img/faces/7-image.jpg' }, \n\t\t{ id: 2, name: 'Liam Patel', email: 'liam.patel@example.com', date: '20/09/2021', mobile_number: 8765432109, interest: ['Cooking','Gardening','Hiking'], photo: 'https://reqres.in/img/faces/5-image.jpg' }, \n\t\t{ id: 3, name: 'Sophia Reyes', email: 'sophia.reyes@example.com', date: '01/01/2023', mobile_number: 7654321098, interest: ['Music','Dancing','Crafting'], photo: 'https://reqres.in/img/faces/3-image.jpg' }, \n\t\t{ id: 4, name: 'Jacob Hernandez', email: 'jacob.hernandez@example.com', date: '10/11/2022', mobile_number: 6543210987, interest: ['Reading', 'Traveling', 'Volunteering'], photo: 'https://reqres.in/img/faces/1-image.jpg' }, \n\t\t{ id: 5, name: 'William Sanchez', email: 'william.sanchez@example.com', date: '07/01/2021', mobile_number: 4321098765, interest: ['Music', 'Dancing', 'Hiking'], photo: 'https://reqres.in/img/faces/4-image.jpg' }, \n\t\t{ id: 6, name: 'Ethan Morales', email: 'ethan.morales@example.com', date: '05/11/2021', mobile_number: 2109876543, interest: ['Cooking', 'Traveling', 'Photography'], photo: 'https://reqres.in/img/faces/6-image.jpg' }, \n\t\t{ id: 7, name: 'Mia Tiana', email: 'mia.tiana@example.com', date: '21/11/2022', mobile_number: 1098705217, interest: ['Music', 'Gardening', 'Hiking'], photo: 'https://reqres.in/img/faces/2-image.jpg' }, \n\t\t{ id: 8, name: 'Lucas Ramirez', email: 'lucas.ramirez@example.com', date: '31/03/2023', mobile_number: 9876543210, interest: ['Reading', 'Dancing', 'Crafting'], photo: 'https://reqres.in/img/faces/9-image.jpg' }, \n\t\t{ id: 9, name: 'Alexander Vela', email: 'alexander.vela@example.com', date: '07/09/2022', mobile_number: 7654321098, interest: ['Music','Gardening','Photography'], photo: 'https://reqres.in/img/faces/8-image.jpg' }, \n\t\t{ id: 10, name: 'Michael Reyes', email: 'michael.reyes@example.com', date: '25/12/2021', mobile_number: 5432109876, interest: ['Cooking','Crafting','Volunteering'], photo: 'https://reqres.in/img/faces/10-image.jpg' } \n] }}"
+                },
+                "useDynamicColumn": {
+                  "value": "{{false}}"
+                },
+                "columnData": {
+                  "value": "{{[{name: 'email', key: 'email', id: '1'}, {name: 'Full name', key: 'name', id: '2', isEditable: true}]}}"
+                },
+                "rowsPerPage": {
+                  "value": "{{10}}"
+                },
+                "serverSidePagination": {
+                  "value": "{{false}}"
+                },
+                "enableNextButton": {
+                  "value": "{{true}}"
+                },
+                "enablePrevButton": {
+                  "value": "{{true}}"
+                },
+                "totalRecords": {
+                  "value": "{{10}}"
+                },
+                "enablePagination": {
+                  "value": "{{true}}"
+                },
+                "serverSideSort": {
+                  "value": "{{false}}"
+                },
+                "serverSideFilter": {
+                  "value": "{{false}}"
+                },
+                "displaySearchBox": {
+                  "value": "{{true}}"
+                },
+                "showDownloadButton": {
+                  "value": "{{true}}"
+                },
+                "showFilterButton": {
+                  "value": "{{true}}"
+                },
+                "autogenerateColumns": {
+                  "value": true,
+                  "generateNestedColumns": true
+                },
+                "isAllColumnsEditable": {
+                  "value": "{{false}}"
+                },
+                "columns": {
+                  "value": [
+                    {
+                      "name": "id",
+                      "id": "e3ecbf7fa52c4d7210a93edb8f43776267a489bad52bd108be9588f790126737",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnSize": 30,
+                      "columnType": "string"
+                    },
+                    {
+                      "name": "photo",
+                      "key": "photo",
+                      "id": "f23b7d134b2e490ea41e3bb8eeb8c8e37472af243bf6b70d5af294482097e3a2",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnType": "image",
+                      "objectFit": "contain",
+                      "borderRadius": "100",
+                      "columnSize": 70
+                    },
+                    {
+                      "name": "name",
+                      "id": "5d2a3744a006388aadd012fcc15cc0dbcb5f9130e0fbb64c558561c97118754a",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnSize": 130,
+                      "columnType": "string"
+                    },
+                    {
+                      "name": "email",
+                      "id": "afc9a5091750a1bd4760e38760de3b4be11a43452ae8ae07ce2eebc569fe9a7f",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnSize": 230,
+                      "columnType": "string"
+                    },
+                    {
+                      "name": "date",
+                      "id": "27b75c8af9d34d1eaa1f9bb7f8f9f7b0abf1823e799748c8bb57e74f53b2c1dc",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnType": "datepicker",
+                      "isTimeChecked": false,
+                      "dateFormat": "DD/MM/YYYY",
+                      "parseDateFormat": "DD/MM/YYYY",
+                      "isDateSelectionEnabled": true,
+                      "columnSize": 130
+                    },
+                    {
+                      "name": "mobile_number",
+                      "id": "9c2e3c40572a4aefb8e179ee39a0e1ac9dc2b2e6634be56e1c05be13c3d1de56",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnType": "number",
+                      "columnSize": 140
+                    },
+                    {
+                      "name": "interest",
+                      "key": "interest",
+                      "id": "f23b7d134b2e490ea41e3bb8eeb8c8e37472af243bf6b70d5af294482097e3a1",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnType": "newMultiSelect",
+                      "columnSize": 300,
+                      "options": [
+                        {
+                          "label": "Reading",
+                          "value": "Reading"
+                        },
+                        {
+                          "label": "Traveling",
+                          "value": "Traveling"
+                        },
+                        {
+                          "label": "Photography",
+                          "value": "Photography"
+                        },
+                        {
+                          "label": "Music",
+                          "value": "Music"
+                        },
+                        {
+                          "label": "Cooking",
+                          "value": "Cooking"
+                        },
+                        {
+                          "label": "Crafting",
+                          "value": "Crafting"
+                        },
+                        {
+                          "label": "Voluntering",
+                          "value": "Voluntering"
+                        },
+                        {
+                          "label": "Garndening",
+                          "value": "Garndening"
+                        },
+                        {
+                          "label": "Dancing",
+                          "value": "Dancing"
+                        },
+                        {
+                          "label": "Hiking",
+                          "value": "Hiking"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "showBulkUpdateActions": {
+                  "value": "{{true}}"
+                },
+                "showBulkSelector": {
+                  "value": "{{false}}"
+                },
+                "highlightSelectedRow": {
+                  "value": "{{false}}"
+                },
+                "columnSizes": {
+                  "value": "{{({})}}"
+                },
+                "actions": {
+                  "value": []
+                },
+                "enabledSort": {
+                  "value": "{{true}}"
+                },
+                "hideColumnSelectorButton": {
+                  "value": "{{false}}"
+                },
+                "defaultSelectedRow": {
+                  "value": "{{{\"id\":1}}}"
+                },
+                "showAddNewRowButton": {
+                  "value": "{{true}}"
+                },
+                "allowSelection": {
+                  "value": "{{true}}"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                }
+              },
+              "general": {},
+              "styles": {
+                "textColor": {
+                  "value": "#000"
+                },
+                "columnHeaderWrap": {
+                  "value": "fixed"
+                },
+                "actionButtonRadius": {
+                  "value": "0"
+                },
+                "cellSize": {
+                  "value": "regular"
+                },
+                "borderRadius": {
+                  "value": "8"
+                },
+                "tableType": {
+                  "value": "table-classic"
+                },
+                "maxRowHeight": {
+                  "value": "auto"
+                },
+                "maxRowHeightValue": {
+                  "value": "{{0}}"
+                },
+                "contentWrap": {
+                  "value": "{{true}}"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000090"
+                },
+                "padding": {
+                  "value": "default"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-10-17T12:20:35.001Z",
+              "updatedAt": "2024-10-17T12:20:35.001Z",
+              "layouts": [
+                {
+                  "id": "920b6995-befe-45ba-8d45-3ff092a2995f",
+                  "type": "desktop",
+                  "top": 0,
+                  "left": 1,
+                  "width": 41,
+                  "height": 250,
+                  "componentId": "d7bfb968-4840-455d-9dfe-451fd782b87c",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:35.001Z"
+                },
+                {
+                  "id": "4414e9d8-9055-4800-92e2-b8ae502f3fcb",
+                  "type": "mobile",
+                  "top": 0,
+                  "left": 1,
+                  "width": 41,
+                  "height": 250,
+                  "componentId": "d7bfb968-4840-455d-9dfe-451fd782b87c",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:35.001Z"
+                }
+              ]
+            },
+            {
+              "id": "533fd3d8-6c5c-47eb-93bc-6c79754ba202",
+              "name": "tabs1",
+              "type": "Tabs",
+              "pageId": "4559734f-2f00-4720-8776-8434250bd0e8",
+              "parent": null,
+              "properties": {
+                "tabs": {
+                  "value": "{{[ \n\t\t{ title: 'Home', id: '0' }, \n\t\t{ title: 'Profile', id: '1' }, \n\t\t{ title: 'Settings', id: '2' } \n ]}}"
+                },
+                "defaultTab": {
+                  "value": "0"
+                },
+                "hideTabs": {
+                  "value": false
+                },
+                "renderOnlyActiveTab": {
+                  "value": false
+                }
+              },
+              "general": {},
+              "styles": {
+                "highlightColor": {
+                  "value": "#375FCF"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "tabWidth": {
+                  "value": "auto"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-10-17T12:20:44.269Z",
+              "updatedAt": "2024-10-17T12:20:44.269Z",
+              "layouts": [
+                {
+                  "id": "20aab5ae-15a7-4a13-a898-c046a8445aae",
+                  "type": "desktop",
+                  "top": 100,
+                  "left": 6,
+                  "width": 30,
+                  "height": 300,
+                  "componentId": "533fd3d8-6c5c-47eb-93bc-6c79754ba202",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:44.269Z"
+                },
+                {
+                  "id": "6e9b015e-c5e9-47ce-9287-c0d1fa7ce183",
+                  "type": "mobile",
+                  "top": 100,
+                  "left": 6,
+                  "width": 30,
+                  "height": 300,
+                  "componentId": "533fd3d8-6c5c-47eb-93bc-6c79754ba202",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:44.269Z"
+                }
+              ]
+            },
+            {
+              "id": "f5c30d49-ae2e-4513-a992-03803905e425",
+              "name": "image3",
+              "type": "Image",
+              "pageId": "4559734f-2f00-4720-8776-8434250bd0e8",
+              "parent": "533fd3d8-6c5c-47eb-93bc-6c79754ba202-0",
+              "properties": {
+                "source": {
+                  "value": "https://uploads-ssl.webflow.com/6266634263b9179f76b2236e/62666392f32677b5cb2fb84b_logo.svg"
+                },
+                "visible": {
+                  "value": "{{true}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "alternativeText": {
+                  "value": ""
+                },
+                "zoomButtons": {
+                  "value": "{{false}}"
+                },
+                "rotateButton": {
+                  "value": "{{false}}"
+                }
+              },
+              "general": {},
+              "styles": {
+                "borderType": {
+                  "value": "none"
+                },
+                "padding": {
+                  "value": "0"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "imageFit": {
+                  "value": "contain"
+                },
+                "backgroundColor": {
+                  "value": ""
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-10-17T12:20:44.269Z",
+              "updatedAt": "2024-10-17T12:20:44.269Z",
+              "layouts": [
+                {
+                  "id": "a1fc660f-d669-4c49-b042-7f4b976325d8",
+                  "type": "desktop",
+                  "top": 60,
+                  "left": 17,
+                  "width": 6.976744186046512,
+                  "height": 100,
+                  "componentId": "f5c30d49-ae2e-4513-a992-03803905e425",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:44.269Z"
+                },
+                {
+                  "id": "e9e8e38a-86e1-43e2-a0f7-d2dfd707761d",
+                  "type": "mobile",
+                  "top": 60,
+                  "left": 17,
+                  "width": 6.976744186046512,
+                  "height": 100,
+                  "componentId": "f5c30d49-ae2e-4513-a992-03803905e425",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:44.269Z"
+                }
+              ]
+            },
+            {
+              "id": "7eb9f399-57b9-4b78-ae31-b9611111fcb6",
+              "name": "text3",
+              "type": "Text",
+              "pageId": "4559734f-2f00-4720-8776-8434250bd0e8",
+              "parent": "533fd3d8-6c5c-47eb-93bc-6c79754ba202-1",
+              "properties": {
+                "textFormat": {
+                  "value": "html"
+                },
+                "text": {
+                  "value": "Open-source low-code framework to build & deploy internal tools within minutes."
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                }
+              },
+              "general": {},
+              "styles": {
+                "backgroundColor": {
+                  "value": "#fff00000"
+                },
+                "textColor": {
+                  "value": "#000000"
+                },
+                "textSize": {
+                  "value": "{{14}}"
+                },
+                "textAlign": {
+                  "value": "left"
+                },
+                "fontWeight": {
+                  "value": "normal"
+                },
+                "decoration": {
+                  "value": "none"
+                },
+                "transformation": {
+                  "value": "none"
+                },
+                "fontStyle": {
+                  "value": "normal"
+                },
+                "lineHeight": {
+                  "value": "{{1.5}}"
+                },
+                "textIndent": {
+                  "value": "{{0}}"
+                },
+                "letterSpacing": {
+                  "value": "{{0}}"
+                },
+                "wordSpacing": {
+                  "value": "{{0}}"
+                },
+                "fontVariant": {
+                  "value": "normal"
+                },
+                "verticalAlignment": {
+                  "value": "center"
+                },
+                "padding": {
+                  "value": "default"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000090"
+                },
+                "borderColor": {
+                  "value": ""
+                },
+                "borderRadius": {
+                  "value": "{{6}}"
+                },
+                "isScrollRequired": {
+                  "value": "enabled"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-10-17T12:20:44.269Z",
+              "updatedAt": "2024-10-17T12:20:44.269Z",
+              "layouts": [
+                {
+                  "id": "37c7756e-7f76-47b7-82b8-c8d220239386",
+                  "type": "desktop",
+                  "top": 100,
+                  "left": 5,
+                  "width": 34,
+                  "height": 50,
+                  "componentId": "7eb9f399-57b9-4b78-ae31-b9611111fcb6",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:44.269Z"
+                },
+                {
+                  "id": "efbd1964-de76-4923-b681-9acc3ca08f49",
+                  "type": "mobile",
+                  "top": 100,
+                  "left": 5,
+                  "width": 34,
+                  "height": 50,
+                  "componentId": "7eb9f399-57b9-4b78-ae31-b9611111fcb6",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:44.269Z"
+                }
+              ]
+            },
+            {
+              "id": "5ed6e8b7-fb36-47a5-b671-a8510dd254d4",
+              "name": "table3",
+              "type": "Table",
+              "pageId": "4559734f-2f00-4720-8776-8434250bd0e8",
+              "parent": "533fd3d8-6c5c-47eb-93bc-6c79754ba202-2",
+              "properties": {
+                "title": {
+                  "value": "Table"
+                },
+                "visible": {
+                  "value": "{{true}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "data": {
+                  "value": "{{ [ \n\t\t{ id: 1, name: 'Olivia Nguyen', email: 'olivia.nguyen@example.com', date: '15/05/2022', mobile_number: 9876543210, interest: ['Reading', 'Traveling','Photography'], photo: 'https://reqres.in/img/faces/7-image.jpg' }, \n\t\t{ id: 2, name: 'Liam Patel', email: 'liam.patel@example.com', date: '20/09/2021', mobile_number: 8765432109, interest: ['Cooking','Gardening','Hiking'], photo: 'https://reqres.in/img/faces/5-image.jpg' }, \n\t\t{ id: 3, name: 'Sophia Reyes', email: 'sophia.reyes@example.com', date: '01/01/2023', mobile_number: 7654321098, interest: ['Music','Dancing','Crafting'], photo: 'https://reqres.in/img/faces/3-image.jpg' }, \n\t\t{ id: 4, name: 'Jacob Hernandez', email: 'jacob.hernandez@example.com', date: '10/11/2022', mobile_number: 6543210987, interest: ['Reading', 'Traveling', 'Volunteering'], photo: 'https://reqres.in/img/faces/1-image.jpg' }, \n\t\t{ id: 5, name: 'William Sanchez', email: 'william.sanchez@example.com', date: '07/01/2021', mobile_number: 4321098765, interest: ['Music', 'Dancing', 'Hiking'], photo: 'https://reqres.in/img/faces/4-image.jpg' }, \n\t\t{ id: 6, name: 'Ethan Morales', email: 'ethan.morales@example.com', date: '05/11/2021', mobile_number: 2109876543, interest: ['Cooking', 'Traveling', 'Photography'], photo: 'https://reqres.in/img/faces/6-image.jpg' }, \n\t\t{ id: 7, name: 'Mia Tiana', email: 'mia.tiana@example.com', date: '21/11/2022', mobile_number: 1098705217, interest: ['Music', 'Gardening', 'Hiking'], photo: 'https://reqres.in/img/faces/2-image.jpg' }, \n\t\t{ id: 8, name: 'Lucas Ramirez', email: 'lucas.ramirez@example.com', date: '31/03/2023', mobile_number: 9876543210, interest: ['Reading', 'Dancing', 'Crafting'], photo: 'https://reqres.in/img/faces/9-image.jpg' }, \n\t\t{ id: 9, name: 'Alexander Vela', email: 'alexander.vela@example.com', date: '07/09/2022', mobile_number: 7654321098, interest: ['Music','Gardening','Photography'], photo: 'https://reqres.in/img/faces/8-image.jpg' }, \n\t\t{ id: 10, name: 'Michael Reyes', email: 'michael.reyes@example.com', date: '25/12/2021', mobile_number: 5432109876, interest: ['Cooking','Crafting','Volunteering'], photo: 'https://reqres.in/img/faces/10-image.jpg' } \n] }}"
+                },
+                "useDynamicColumn": {
+                  "value": "{{false}}"
+                },
+                "columnData": {
+                  "value": "{{[{name: 'email', key: 'email', id: '1'}, {name: 'Full name', key: 'name', id: '2', isEditable: true}]}}"
+                },
+                "rowsPerPage": {
+                  "value": "{{10}}"
+                },
+                "serverSidePagination": {
+                  "value": "{{false}}"
+                },
+                "enableNextButton": {
+                  "value": "{{true}}"
+                },
+                "enablePrevButton": {
+                  "value": "{{true}}"
+                },
+                "totalRecords": {
+                  "value": "{{10}}"
+                },
+                "enablePagination": {
+                  "value": "{{true}}"
+                },
+                "serverSideSort": {
+                  "value": "{{false}}"
+                },
+                "serverSideFilter": {
+                  "value": "{{false}}"
+                },
+                "displaySearchBox": {
+                  "value": "{{true}}"
+                },
+                "showDownloadButton": {
+                  "value": "{{true}}"
+                },
+                "showFilterButton": {
+                  "value": "{{true}}"
+                },
+                "autogenerateColumns": {
+                  "value": true,
+                  "generateNestedColumns": true
+                },
+                "isAllColumnsEditable": {
+                  "value": "{{false}}"
+                },
+                "columns": {
+                  "value": [
+                    {
+                      "name": "id",
+                      "id": "e3ecbf7fa52c4d7210a93edb8f43776267a489bad52bd108be9588f790126737",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnSize": 30,
+                      "columnType": "string"
+                    },
+                    {
+                      "name": "photo",
+                      "key": "photo",
+                      "id": "f23b7d134b2e490ea41e3bb8eeb8c8e37472af243bf6b70d5af294482097e3a2",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnType": "image",
+                      "objectFit": "contain",
+                      "borderRadius": "100",
+                      "columnSize": 70
+                    },
+                    {
+                      "name": "name",
+                      "id": "5d2a3744a006388aadd012fcc15cc0dbcb5f9130e0fbb64c558561c97118754a",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnSize": 130,
+                      "columnType": "string"
+                    },
+                    {
+                      "name": "email",
+                      "id": "afc9a5091750a1bd4760e38760de3b4be11a43452ae8ae07ce2eebc569fe9a7f",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnSize": 230,
+                      "columnType": "string"
+                    },
+                    {
+                      "name": "date",
+                      "id": "27b75c8af9d34d1eaa1f9bb7f8f9f7b0abf1823e799748c8bb57e74f53b2c1dc",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnType": "datepicker",
+                      "isTimeChecked": false,
+                      "dateFormat": "DD/MM/YYYY",
+                      "parseDateFormat": "DD/MM/YYYY",
+                      "isDateSelectionEnabled": true,
+                      "columnSize": 130
+                    },
+                    {
+                      "name": "mobile_number",
+                      "id": "9c2e3c40572a4aefb8e179ee39a0e1ac9dc2b2e6634be56e1c05be13c3d1de56",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnType": "number",
+                      "columnSize": 140
+                    },
+                    {
+                      "name": "interest",
+                      "key": "interest",
+                      "id": "f23b7d134b2e490ea41e3bb8eeb8c8e37472af243bf6b70d5af294482097e3a1",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnType": "newMultiSelect",
+                      "columnSize": 300,
+                      "options": [
+                        {
+                          "label": "Reading",
+                          "value": "Reading"
+                        },
+                        {
+                          "label": "Traveling",
+                          "value": "Traveling"
+                        },
+                        {
+                          "label": "Photography",
+                          "value": "Photography"
+                        },
+                        {
+                          "label": "Music",
+                          "value": "Music"
+                        },
+                        {
+                          "label": "Cooking",
+                          "value": "Cooking"
+                        },
+                        {
+                          "label": "Crafting",
+                          "value": "Crafting"
+                        },
+                        {
+                          "label": "Voluntering",
+                          "value": "Voluntering"
+                        },
+                        {
+                          "label": "Garndening",
+                          "value": "Garndening"
+                        },
+                        {
+                          "label": "Dancing",
+                          "value": "Dancing"
+                        },
+                        {
+                          "label": "Hiking",
+                          "value": "Hiking"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "showBulkUpdateActions": {
+                  "value": "{{true}}"
+                },
+                "showBulkSelector": {
+                  "value": "{{false}}"
+                },
+                "highlightSelectedRow": {
+                  "value": "{{false}}"
+                },
+                "columnSizes": {
+                  "value": "{{({})}}"
+                },
+                "actions": {
+                  "value": []
+                },
+                "enabledSort": {
+                  "value": "{{true}}"
+                },
+                "hideColumnSelectorButton": {
+                  "value": "{{false}}"
+                },
+                "defaultSelectedRow": {
+                  "value": "{{{\"id\":1}}}"
+                },
+                "showAddNewRowButton": {
+                  "value": "{{true}}"
+                },
+                "allowSelection": {
+                  "value": "{{true}}"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                }
+              },
+              "general": {},
+              "styles": {
+                "textColor": {
+                  "value": "#000"
+                },
+                "columnHeaderWrap": {
+                  "value": "fixed"
+                },
+                "actionButtonRadius": {
+                  "value": "0"
+                },
+                "cellSize": {
+                  "value": "regular"
+                },
+                "borderRadius": {
+                  "value": "8"
+                },
+                "tableType": {
+                  "value": "table-classic"
+                },
+                "maxRowHeight": {
+                  "value": "auto"
+                },
+                "maxRowHeightValue": {
+                  "value": "{{0}}"
+                },
+                "contentWrap": {
+                  "value": "{{true}}"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000090"
+                },
+                "padding": {
+                  "value": "default"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-10-17T12:20:44.269Z",
+              "updatedAt": "2024-10-17T12:20:44.269Z",
+              "layouts": [
+                {
+                  "id": "7307c978-ffff-4584-86c9-71f92a76f930",
+                  "type": "desktop",
+                  "top": 0,
+                  "left": 1,
+                  "width": 41,
+                  "height": 250,
+                  "componentId": "5ed6e8b7-fb36-47a5-b671-a8510dd254d4",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:44.269Z"
+                },
+                {
+                  "id": "84ab1f25-f20d-4e47-b34e-f3f022773884",
+                  "type": "mobile",
+                  "top": 0,
+                  "left": 1,
+                  "width": 41,
+                  "height": 250,
+                  "componentId": "5ed6e8b7-fb36-47a5-b671-a8510dd254d4",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T12:20:44.269Z"
+                }
+              ]
             }
           ],
           "pages": [
@@ -1158,6 +2737,22 @@
               "autoComputeLayout": false,
               "appVersionId": "121a4a09-9108-439f-8407-3af34b65bc64",
               "pageGroupIndex": 1,
+              "pageGroupId": null,
+              "isPageGroup": false
+            },
+            {
+              "id": "4559734f-2f00-4720-8776-8434250bd0e8",
+              "name": "p2",
+              "handle": "p-2",
+              "index": 999,
+              "disabled": null,
+              "hidden": null,
+              "icon": null,
+              "createdAt": "2024-10-17T12:20:10.398Z",
+              "updatedAt": "2024-10-17T12:20:10.398Z",
+              "autoComputeLayout": true,
+              "appVersionId": "121a4a09-9108-439f-8407-3af34b65bc64",
+              "pageGroupIndex": 3,
               "pageGroupId": null,
               "isPageGroup": false
             }
