@@ -32,6 +32,14 @@
               "backgroundFxQuery": "",
               "appMode": "auto"
             },
+            "pageSettings": {
+              "properties": {
+                "disableMenu": {
+                  "value": "{{false}}",
+                  "fxActive": false
+                }
+              }
+            },
             "showViewerNavigation": true,
             "homePageId": "572f4eba-5a72-4709-91f2-e2b53c8938ab",
             "appId": "e0cfe6ad-c01d-4708-b41e-d2ced76d3b0d",
@@ -875,6 +883,112 @@
                   "updatedAt": "2024-10-16T08:40:25.081Z"
                 }
               ]
+            },
+            {
+              "id": "80c59737-162f-474c-bcf9-3f4e6f377c68",
+              "name": "modal1",
+              "type": "Modal",
+              "pageId": "658621ac-4880-49b4-954b-0aa137a7c646",
+              "parent": null,
+              "properties": {
+                "title": {
+                  "value": "This title can be changed"
+                },
+                "titleAlignment": {
+                  "value": "left"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "useDefaultButton": {
+                  "value": "{{true}}"
+                },
+                "triggerButtonLabel": {
+                  "value": "Launch Modal"
+                },
+                "size": {
+                  "value": "lg"
+                },
+                "hideTitleBar": {
+                  "value": "{{false}}"
+                },
+                "hideCloseButton": {
+                  "value": "{{false}}"
+                },
+                "hideOnEsc": {
+                  "value": "{{true}}"
+                },
+                "closeOnClickingOutside": {
+                  "value": "{{false}}"
+                },
+                "modalHeight": {
+                  "value": "400px"
+                }
+              },
+              "general": {},
+              "styles": {
+                "headerBackgroundColor": {
+                  "value": "#ffffffff"
+                },
+                "headerTextColor": {
+                  "value": "#000000"
+                },
+                "bodyBackgroundColor": {
+                  "value": "#ffffffff"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "triggerButtonBackgroundColor": {
+                  "value": "#4D72FA"
+                },
+                "triggerButtonTextColor": {
+                  "value": "#ffffffff"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2024-10-17T11:52:11.605Z",
+              "updatedAt": "2024-10-17T11:52:11.605Z",
+              "layouts": [
+                {
+                  "id": "b64d41eb-794b-4423-a195-810705fd0790",
+                  "type": "desktop",
+                  "top": 120,
+                  "left": 29,
+                  "width": 10,
+                  "height": 34,
+                  "componentId": "80c59737-162f-474c-bcf9-3f4e6f377c68",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T11:52:11.605Z"
+                },
+                {
+                  "id": "a11a8cef-3093-48d6-aa6f-ba74ee3b5951",
+                  "type": "mobile",
+                  "top": 120,
+                  "left": 29,
+                  "width": 10,
+                  "height": 34,
+                  "componentId": "80c59737-162f-474c-bcf9-3f4e6f377c68",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2024-10-17T11:52:11.605Z"
+                }
+              ]
             }
           ],
           "pages": [
@@ -885,10 +999,14 @@
               "index": 1,
               "disabled": null,
               "hidden": null,
+              "icon": null,
               "createdAt": "2024-10-16T08:37:48.881Z",
-              "updatedAt": "2024-10-16T08:37:48.881Z",
+              "updatedAt": "2024-10-17T11:50:02.400Z",
               "autoComputeLayout": true,
-              "appVersionId": "ecaf47a8-c5e8-4ab9-8cd3-20f68684e4cb"
+              "appVersionId": "ecaf47a8-c5e8-4ab9-8cd3-20f68684e4cb",
+              "pageGroupIndex": 1,
+              "pageGroupId": null,
+              "isPageGroup": false
             },
             {
               "id": "658621ac-4880-49b4-954b-0aa137a7c646",
@@ -897,10 +1015,14 @@
               "index": 2,
               "disabled": null,
               "hidden": null,
+              "icon": null,
               "createdAt": "2024-10-16T08:40:17.900Z",
-              "updatedAt": "2024-10-16T08:40:17.900Z",
+              "updatedAt": "2024-10-17T11:50:02.400Z",
               "autoComputeLayout": true,
-              "appVersionId": "ecaf47a8-c5e8-4ab9-8cd3-20f68684e4cb"
+              "appVersionId": "ecaf47a8-c5e8-4ab9-8cd3-20f68684e4cb",
+              "pageGroupIndex": 2,
+              "pageGroupId": null,
+              "isPageGroup": false
             }
           ],
           "events": [],
@@ -920,6 +1042,14 @@
                 "canvasBackgroundColor": "#edeff5",
                 "backgroundFxQuery": "",
                 "appMode": "auto"
+              },
+              "pageSettings": {
+                "properties": {
+                  "disableMenu": {
+                    "value": "{{false}}",
+                    "fxActive": false
+                  }
+                }
               },
               "showViewerNavigation": true,
               "homePageId": "572f4eba-5a72-4709-91f2-e2b53c8938ab",
@@ -972,5 +1102,5 @@
       }
     }
   ],
-  "tooljet_version": "2.69.0-ee2.23.1"
+  "tooljet_version": "2.70.0-ee2.25.1"
 }
