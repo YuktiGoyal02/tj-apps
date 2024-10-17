@@ -198,5 +198,13 @@
     "lastpushDate": "2024-10-16T08:49:07.163Z",
     "gitVersionName": "v1",
     "lastCommitUser": "QA test"
+  },
+  "847a9523-dae7-400f-af81-2b249d1e67a9": {
+    "gitAppName": "constants",
+    "lastCommitMessage": " v1 Version of app constants promoted from development to staging",
+    "gitVersionId": "7e550aa8-ef65-4521-9c34-ec7a91b304c1",
+    "lastpushDate": "2024-10-17T05:43:42.520Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "QA test"
   }
 }
