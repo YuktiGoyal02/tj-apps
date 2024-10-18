@@ -262,5 +262,13 @@
     "lastpushDate": "2024-10-17T18:20:15.225Z",
     "gitVersionName": "v1",
     "lastCommitUser": "QA test"
+  },
+  "48d2c0ef-756d-48c2-a450-c04312152b3a": {
+    "gitAppName": "admin app 2",
+    "lastCommitMessage": " v1 Version of app admin app 2 promoted from development to staging",
+    "gitVersionId": "a06ef964-4037-4a60-a4f8-28ba38b7f9ff",
+    "lastpushDate": "2024-10-18T05:46:45.007Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "The Developer"
   }
 }
