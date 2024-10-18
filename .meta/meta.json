@@ -278,5 +278,13 @@
     "lastpushDate": "2024-10-18T09:30:33.647Z",
     "gitVersionName": "v1",
     "lastCommitUser": "The Developer"
+  },
+  "d5b61805-6c27-4c1a-9ca0-da4cb988ea71": {
+    "gitAppName": "test crash",
+    "lastCommitMessage": " v1 Version of app test crash promoted from development to staging",
+    "gitVersionId": "d2997fb9-499b-4ac6-93e6-8d789baaab5f",
+    "lastpushDate": "2024-10-18T09:46:59.589Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "The Developer"
   }
 }
