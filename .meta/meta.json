@@ -294,5 +294,13 @@
     "lastpushDate": "2024-10-18T09:50:40.936Z",
     "gitVersionName": "v1",
     "lastCommitUser": "The Developer"
+  },
+  "3389d0a5-51af-4c3a-95c2-17de10e86d3f": {
+    "gitAppName": "app retest",
+    "lastCommitMessage": " v2 Version of app app retest promoted from development to staging",
+    "gitVersionId": "02b0dc9a-3054-48a4-854f-3113f66ec158",
+    "lastpushDate": "2024-10-23T06:10:20.702Z",
+    "gitVersionName": "v2",
+    "lastCommitUser": "QA test"
   }
 }
