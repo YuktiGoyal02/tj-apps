@@ -351,8 +351,68 @@
             }
           ],
           "events": [],
-          "dataQueries": [],
-          "dataSources": [],
+          "dataQueries": [
+            {
+              "id": "27f99c3d-71c0-4625-9bfb-1d087c1a538f",
+              "name": "restapi1",
+              "options": {
+                "method": "get",
+                "url": "http://34.66.166.236:4000/production",
+                "url_params": [
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "headers": [
+                  [
+                    "customHeader",
+                    "key=value"
+                  ],
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "cookies": [
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "body": [
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "json_body": null,
+                "body_toggle": false,
+                "retry_network_errors": true,
+                "transformationLanguage": "javascript",
+                "enableTransformation": false,
+                "arrayValuesChanged": true
+              },
+              "dataSourceId": "9719d8e2-dc4a-4718-b3d4-69315f844d5b",
+              "appVersionId": "30aa45c0-936d-46d8-ba2d-2473c4e83c80",
+              "createdAt": "2025-02-06T06:35:51.742Z",
+              "updatedAt": "2025-02-06T06:37:37.577Z"
+            }
+          ],
+          "dataSources": [
+            {
+              "id": "9719d8e2-dc4a-4718-b3d4-69315f844d5b",
+              "name": "restapidefault",
+              "kind": "restapi",
+              "type": "static",
+              "pluginId": null,
+              "appVersionId": "30aa45c0-936d-46d8-ba2d-2473c4e83c80",
+              "organizationId": null,
+              "scope": "local",
+              "createdAt": "2025-02-06T06:35:51.679Z",
+              "updatedAt": "2025-02-06T06:35:51.679Z"
+            }
+          ],
           "appVersions": [
             {
               "id": "30aa45c0-936d-46d8-ba2d-2473c4e83c80",
@@ -410,7 +470,32 @@
               "updatedAt": "2025-02-05T09:42:19.895Z"
             }
           ],
-          "dataSourceOptions": [],
+          "dataSourceOptions": [
+            {
+              "id": "07ce0b8d-ed97-4633-9d8a-f100e048a87e",
+              "dataSourceId": "9719d8e2-dc4a-4718-b3d4-69315f844d5b",
+              "environmentId": "1694595d-bc2c-4764-97a9-77bbd3e444b1",
+              "options": null,
+              "createdAt": "2025-02-06T06:35:51.707Z",
+              "updatedAt": "2025-02-06T06:35:51.707Z"
+            },
+            {
+              "id": "9859bd3a-d8af-40a9-884d-1f3caf97e2df",
+              "dataSourceId": "9719d8e2-dc4a-4718-b3d4-69315f844d5b",
+              "environmentId": "79f9a1f2-8001-4acc-a063-6df3f293e7ee",
+              "options": null,
+              "createdAt": "2025-02-06T06:35:51.707Z",
+              "updatedAt": "2025-02-06T06:35:51.707Z"
+            },
+            {
+              "id": "99738f21-9f1e-43b9-8573-2eb819386076",
+              "dataSourceId": "9719d8e2-dc4a-4718-b3d4-69315f844d5b",
+              "environmentId": "95e39ace-b2de-4a96-8cc9-973b887f1c53",
+              "options": null,
+              "createdAt": "2025-02-06T06:35:51.707Z",
+              "updatedAt": "2025-02-06T06:35:51.707Z"
+            }
+          ],
           "schemaDetails": {
             "multiPages": true,
             "multiEnv": true,
