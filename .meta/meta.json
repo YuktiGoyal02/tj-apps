@@ -385,10 +385,10 @@
   },
   "195b4b5d-89d5-457e-b867-ea0936176ff6": {
     "gitAppName": "with auto commit",
-    "lastCommitMessage": " v1 Version of app with auto commit promoted from development to staging",
-    "gitVersionId": "8bb36b5d-f72f-4625-893f-add89839f2a7",
-    "lastpushDate": "2025-02-14T19:44:28.063Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 Created of app with auto commit",
+    "gitVersionId": "af506f1d-0126-46e3-aeec-3776b1bfe72e",
+    "lastpushDate": "2025-02-14T19:47:22.818Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "admin1 "
   }
 }
