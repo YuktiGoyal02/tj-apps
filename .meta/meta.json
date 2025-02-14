@@ -374,5 +374,13 @@
     "lastpushDate": "2025-02-14T13:06:18.174Z",
     "gitVersionName": "v1",
     "lastCommitUser": "The Developer"
+  },
+  "44805c87-fa3d-4750-bdc5-56ea99e5c1d4": {
+    "gitAppName": "no auto commit 2",
+    "lastCommitMessage": "Version v2 Created of app no auto commit 2",
+    "gitVersionId": "33ac39d4-9524-4588-a1a5-489cd740aeff",
+    "lastpushDate": "2025-02-14T13:08:59.613Z",
+    "gitVersionName": "v2",
+    "lastCommitUser": "The Developer"
   }
 }
