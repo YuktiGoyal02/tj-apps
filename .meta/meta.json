@@ -417,10 +417,10 @@
   },
   "8b7cfd73-ba87-4a0d-b025-7f87833b4d19": {
     "gitAppName": "old flow app",
-    "lastCommitMessage": "table added",
-    "gitVersionId": "924cbf11-7f10-469d-a17b-d9e25961c856",
-    "lastpushDate": "2025-02-20T13:43:04.699Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 created Created of app old flow app",
+    "gitVersionId": "abf51fa3-38f6-45ee-a304-7328690debe4",
+    "lastpushDate": "2025-02-20T13:43:34.744Z",
+    "gitVersionName": "v2 created",
     "lastCommitUser": "The Developer"
   }
 }
