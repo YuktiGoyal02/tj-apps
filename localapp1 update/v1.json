@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "a0f0949c-0fe5-4a9a-8b6d-c1bed57ee096",
-          "name": "localapp1",
+          "name": "localapp1 update",
           "slug": "a0f0949c-0fe5-4a9a-8b6d-c1bed57ee096",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-02-20T08:53:07.200Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-02-20T08:53:07.199Z",
+          "updatedAt": "2025-02-20T08:53:42.804Z",
           "editingVersion": {
             "id": "db411342-1a3b-493d-b254-479ad99f5ff6",
             "name": "v1",
