@@ -305,7 +305,7 @@
               },
               "validation": {},
               "createdAt": "2025-02-20T14:45:53.329Z",
-              "updatedAt": "2025-02-20T14:46:57.685Z",
+              "updatedAt": "2025-02-20T14:49:21.433Z",
               "layouts": [
                 {
                   "id": "702068b0-02c5-4158-9cb4-838744bb0bce",
@@ -568,6 +568,86 @@
                   "componentId": "b3cd1b05-c4e7-4c7d-9ced-0c9db3a1618f",
                   "dimensionUnit": "count",
                   "updatedAt": "2025-02-20T14:47:00.375Z"
+                }
+              ]
+            },
+            {
+              "id": "118ee103-5057-4a01-9fce-3fc4cad25105",
+              "name": "datepicker1",
+              "type": "Datepicker",
+              "pageId": "1ac26f8f-27af-4f42-8dea-6d665bc7c8cb",
+              "parent": null,
+              "properties": {
+                "defaultValue": {
+                  "value": "01/01/2022"
+                },
+                "format": {
+                  "value": "DD/MM/YYYY"
+                },
+                "enableTime": {
+                  "value": "{{false}}"
+                },
+                "enableDate": {
+                  "value": "{{true}}"
+                },
+                "disabledDates": {
+                  "value": "{{[]}}"
+                }
+              },
+              "general": {},
+              "styles": {
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "borderRadius": {
+                  "value": "{{4}}"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {
+                "customRule": {
+                  "value": ""
+                }
+              },
+              "createdAt": "2025-02-20T14:49:26.552Z",
+              "updatedAt": "2025-02-20T14:49:26.552Z",
+              "layouts": [
+                {
+                  "id": "915c1ae8-8ba6-4dc0-bcd4-71cce6d23e69",
+                  "type": "desktop",
+                  "top": 270,
+                  "left": 36,
+                  "width": 5,
+                  "height": 30,
+                  "componentId": "118ee103-5057-4a01-9fce-3fc4cad25105",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-02-20T14:49:26.552Z"
+                },
+                {
+                  "id": "3d34d36c-293d-4124-be0b-4a97e40bbddb",
+                  "type": "mobile",
+                  "top": 270,
+                  "left": 36,
+                  "width": 5,
+                  "height": 30,
+                  "componentId": "118ee103-5057-4a01-9fce-3fc4cad25105",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-02-20T14:49:26.552Z"
                 }
               ]
             }
