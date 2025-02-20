@@ -422,5 +422,13 @@
     "lastpushDate": "2025-02-20T12:07:08.908Z",
     "gitVersionName": "v3",
     "lastCommitUser": "yukti "
+  },
+  "3a79e639-a238-467a-b118-da1de005452f": {
+    "gitAppName": "old app with new config",
+    "lastCommitMessage": "App old app with new config created",
+    "gitVersionId": "46fda928-5b1b-46ab-81ca-9507a829f0ab",
+    "lastpushDate": "2025-02-20T12:13:06.346Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "yukti "
   }
 }
