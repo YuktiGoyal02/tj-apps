@@ -409,10 +409,10 @@
   },
   "7fb37bf0-dc99-4d54-85fe-e4ad1157836a": {
     "gitAppName": "old app",
-    "lastCommitMessage": "button added",
-    "gitVersionId": "da8919b8-cbfa-48dd-acbd-f37ba15488bc",
-    "lastpushDate": "2025-02-20T11:52:30.626Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 Created of app old app",
+    "gitVersionId": "73a4626d-d344-49a1-854b-ad5156d5d2f1",
+    "lastpushDate": "2025-02-20T11:52:48.812Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "yukti "
   }
 }
