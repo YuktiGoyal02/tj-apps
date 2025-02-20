@@ -409,9 +409,9 @@
   },
   "7fb37bf0-dc99-4d54-85fe-e4ad1157836a": {
     "gitAppName": "old app",
-    "lastCommitMessage": "Version v2 Created of app old app",
+    "lastCommitMessage": " v2 Version of app old app promoted from development to staging",
     "gitVersionId": "73a4626d-d344-49a1-854b-ad5156d5d2f1",
-    "lastpushDate": "2025-02-20T11:52:48.812Z",
+    "lastpushDate": "2025-02-20T11:53:20.053Z",
     "gitVersionName": "v2",
     "lastCommitUser": "yukti "
   }
