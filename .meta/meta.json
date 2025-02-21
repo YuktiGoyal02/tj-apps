@@ -432,11 +432,11 @@
     "lastCommitUser": "The Developer"
   },
   "f90eeecc-32e5-499b-a57b-70f67efa7d05": {
-    "gitAppName": "retest old app",
-    "lastCommitMessage": "App retest old app created",
-    "gitVersionId": "f02def43-fb09-4eb2-874a-778b9771f2d7",
-    "lastpushDate": "2025-02-21T08:51:03.088Z",
-    "gitVersionName": "v1",
+    "gitAppName": "retest old app test",
+    "lastCommitMessage": "version 2 created",
+    "gitVersionId": "52b096fc-3207-4af6-a271-9d98e348fe8e",
+    "lastpushDate": "2025-02-21T09:02:27.431Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "The Developer"
   }
 }
