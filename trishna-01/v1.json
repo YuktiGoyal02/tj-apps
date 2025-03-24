@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "06a59c0d-b999-4f68-add4-3a71914c5f39",
-          "name": "trishna",
+          "name": "trishna-01",
           "slug": "06a59c0d-b999-4f68-add4-3a71914c5f39",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-03-24T06:31:16.984Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-03-24T06:31:16.983Z",
+          "updatedAt": "2025-03-24T06:33:02.147Z",
           "editingVersion": {
             "id": "bc75ba52-1ec7-4941-b7fa-3e6c9fde5bbd",
             "name": "v1",
