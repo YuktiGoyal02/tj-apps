@@ -521,10 +521,10 @@
   },
   "5b4ea448-f6dd-4cfb-ae70-fb442648d9cf": {
     "gitAppName": "custom app 1",
-    "lastCommitMessage": "Version vs2 Created of app custom app 1",
-    "gitVersionId": "3def7123-5c6a-46e4-a911-f546ca494250",
-    "lastpushDate": "2025-04-08T12:48:19.687Z",
-    "gitVersionName": "vs2",
+    "lastCommitMessage": "Version vss4 Created of app custom app 1",
+    "gitVersionId": "93156c8d-32fd-4b1b-9b0f-b8f9ba142d70",
+    "lastpushDate": "2025-04-08T13:04:34.474Z",
+    "gitVersionName": "vss4",
     "lastCommitUser": "The Developer"
   }
 }
