@@ -513,10 +513,10 @@
   },
   "fc26ca0e-68d1-430a-9834-1ddbf64390a1": {
     "gitAppName": "git app1 renamed inside app",
-    "lastCommitMessage": "App git app1 renamed is renamed to git app1 renamed inside app",
+    "lastCommitMessage": "Version v1 is renamed to v1 updated",
     "gitVersionId": "40283f2f-6abc-4998-ab6b-e36721f0ebb5",
-    "lastpushDate": "2025-04-08T11:51:10.472Z",
-    "gitVersionName": "v1",
+    "lastpushDate": "2025-04-08T11:51:43.709Z",
+    "gitVersionName": "v1 updated",
     "lastCommitUser": "The Developer"
   }
 }
