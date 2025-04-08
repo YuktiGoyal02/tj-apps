@@ -561,10 +561,10 @@
   },
   "562fda7d-7345-406f-9e80-9833260fa0bd": {
     "gitAppName": "old ssh mig app",
-    "lastCommitMessage": " v1 Version of app old ssh mig app promoted from development to staging",
-    "gitVersionId": "0b0e2569-1ce1-47b2-ba0d-0f653a03aece",
-    "lastpushDate": "2025-04-08T14:51:36.645Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 Created of app old ssh mig app",
+    "gitVersionId": "f51e8306-f65b-4ea2-89ad-f6870e91f0e2",
+    "lastpushDate": "2025-04-08T14:54:33.931Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "The Developer"
   }
 }
