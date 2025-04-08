@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "fc26ca0e-68d1-430a-9834-1ddbf64390a1",
-          "name": "git app1 renamed",
+          "name": "git app1 renamed inside app",
           "slug": "fc26ca0e-68d1-430a-9834-1ddbf64390a1",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-04-08T11:49:19.292Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-04-08T11:50:33.983Z",
+          "updatedAt": "2025-04-08T11:51:08.196Z",
           "editingVersion": {
             "id": "40283f2f-6abc-4998-ab6b-e36721f0ebb5",
             "name": "v1",
@@ -206,7 +206,7 @@
               },
               "validation": {},
               "createdAt": "2025-04-08T11:49:51.160Z",
-              "updatedAt": "2025-04-08T11:50:17.627Z",
+              "updatedAt": "2025-04-08T11:51:00.390Z",
               "layouts": [
                 {
                   "id": "d9724de1-0d94-48a6-bd59-6d927a33cb18",
@@ -266,7 +266,7 @@
               "dataSourceId": "a88bc55d-7c18-4191-b22c-ff3b7c1fe4ae",
               "appVersionId": "40283f2f-6abc-4998-ab6b-e36721f0ebb5",
               "createdAt": "2025-04-08T11:49:49.075Z",
-              "updatedAt": "2025-04-08T11:50:07.315Z"
+              "updatedAt": "2025-04-08T11:51:00.250Z"
             }
           ],
           "dataSources": [
