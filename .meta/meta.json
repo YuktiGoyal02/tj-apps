@@ -566,5 +566,13 @@
     "lastpushDate": "2025-04-08T14:55:02.171Z",
     "gitVersionName": "v2",
     "lastCommitUser": "The Developer"
+  },
+  "c89e7cac-d82f-49b6-b618-37709f3553b4": {
+    "gitAppName": "old app ssh 1",
+    "lastCommitMessage": "App old app ssh 1 created",
+    "gitVersionId": "7eb1ac75-a1e2-4e0c-9571-de6767f2065f",
+    "lastpushDate": "2025-04-09T06:06:27.537Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "The Developer"
   }
 }
