@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "642a8ad2-9565-420a-a122-4d1b1976a847",
-          "name": "old f ssh app",
+          "name": "old f ssh app renamed",
           "slug": "642a8ad2-9565-420a-a122-4d1b1976a847",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-04-10T13:07:31.572Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-04-10T13:07:31.570Z",
+          "updatedAt": "2025-04-10T13:08:41.861Z",
           "editingVersion": {
             "id": "9337d524-afaa-4164-b94e-132f263c7ad1",
             "name": "v1",
