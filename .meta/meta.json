@@ -630,5 +630,13 @@
     "lastpushDate": "2025-04-11T11:47:21.070Z",
     "gitVersionName": "v1",
     "lastCommitUser": "test1 "
+  },
+  "0d57a1c0-8527-4541-930c-03699b0f57c6": {
+    "gitAppName": "git ssh old normal setup app",
+    "lastCommitMessage": "App git ssh old normal setup app created",
+    "gitVersionId": "1e41eca6-e5cd-4b48-9310-681cb5391eae",
+    "lastpushDate": "2025-04-11T11:56:30.211Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "lts-dev "
   }
 }
