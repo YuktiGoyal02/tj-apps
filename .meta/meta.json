@@ -641,10 +641,10 @@
   },
   "8f5d03fe-969e-440e-afc0-a0bfb5b269a9": {
     "gitAppName": "testd",
-    "lastCommitMessage": " v1 Version of app testd promoted from development to staging",
-    "gitVersionId": "98da4361-8ce7-4be6-b426-8a3343480cce",
-    "lastpushDate": "2025-04-11T12:15:29.966Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": " v2 Version of app testd promoted from development to staging",
+    "gitVersionId": "8a793154-8edc-4b4c-bb1c-35dab078059e",
+    "lastpushDate": "2025-04-11T12:15:43.797Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "lts-dev "
   }
 }
