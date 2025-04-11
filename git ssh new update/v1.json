@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "8d184550-f0d6-4525-8e7a-60fb213a844e",
-          "name": "git ssh new",
+          "name": "git ssh new update",
           "slug": "8d184550-f0d6-4525-8e7a-60fb213a844e",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-04-11T07:48:16.370Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-04-11T07:48:16.369Z",
+          "updatedAt": "2025-04-11T07:49:38.853Z",
           "editingVersion": {
             "id": "7f410d0c-228d-4dc5-bcb6-84511d0319df",
             "name": "v1",
