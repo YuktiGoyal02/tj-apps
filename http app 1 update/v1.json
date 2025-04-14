@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "54c456c2-c32c-4cb5-b40a-4ff2abc2302c",
-          "name": "http app 1",
+          "name": "http app 1 update",
           "slug": "54c456c2-c32c-4cb5-b40a-4ff2abc2302c",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-04-14T07:41:34.606Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-04-14T07:41:34.605Z",
+          "updatedAt": "2025-04-14T07:42:19.206Z",
           "editingVersion": {
             "id": "c9638a95-41d0-4014-a5f3-83f1a9e794dc",
             "name": "v1",
