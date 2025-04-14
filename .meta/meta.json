@@ -649,10 +649,10 @@
   },
   "6dd5561e-9f2f-46a0-bfca-073d08ddb29b": {
     "gitAppName": "old ssh test system",
-    "lastCommitMessage": "Version v3 Created of app old ssh test system",
+    "lastCommitMessage": "Version v3 is renamed to v3 updated",
     "gitVersionId": "40c53525-ee49-4cb4-aa27-f3482b68e7a8",
-    "lastpushDate": "2025-04-14T05:13:21.017Z",
-    "gitVersionName": "v3",
+    "lastpushDate": "2025-04-14T05:13:37.592Z",
+    "gitVersionName": "v3 updated",
     "lastCommitUser": "lts-dev "
   }
 }
