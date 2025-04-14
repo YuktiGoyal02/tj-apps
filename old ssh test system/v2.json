@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "6dd5561e-9f2f-46a0-bfca-073d08ddb29b",
-          "name": "old ssh test system update",
+          "name": "old ssh test system",
           "slug": "6dd5561e-9f2f-46a0-bfca-073d08ddb29b",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-04-11T16:28:08.796Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-04-11T16:28:57.927Z",
+          "updatedAt": "2025-04-14T05:12:07.867Z",
           "editingVersion": {
             "id": "4e9bd154-c4f6-46e8-99d2-87117b865b1a",
             "name": "v2",
