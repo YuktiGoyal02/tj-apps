@@ -36,10 +36,10 @@
             "showViewerNavigation": true,
             "homePageId": "90190798-45c8-4075-b51e-81d11c5f13ed",
             "appId": "27b10233-80f2-4eb9-b2b3-0d748142597f",
-            "currentEnvironmentId": "d4821532-9c2a-4b08-b94f-d8e98b9c50e9",
+            "currentEnvironmentId": "1eddee04-5e5a-43a1-8028-bd73bbb8ef7e",
             "promotedFrom": null,
             "createdAt": "2025-04-14T05:48:16.539Z",
-            "updatedAt": "2025-04-14T05:48:16.518Z"
+            "updatedAt": "2025-04-14T05:49:34.907Z"
           },
           "components": [],
           "pages": [
@@ -82,10 +82,10 @@
               "showViewerNavigation": true,
               "homePageId": "90190798-45c8-4075-b51e-81d11c5f13ed",
               "appId": "27b10233-80f2-4eb9-b2b3-0d748142597f",
-              "currentEnvironmentId": "d4821532-9c2a-4b08-b94f-d8e98b9c50e9",
+              "currentEnvironmentId": "1eddee04-5e5a-43a1-8028-bd73bbb8ef7e",
               "promotedFrom": null,
               "createdAt": "2025-04-14T05:48:16.539Z",
-              "updatedAt": "2025-04-14T05:48:16.518Z"
+              "updatedAt": "2025-04-14T05:49:34.907Z"
             }
           ],
           "appEnvironments": [
