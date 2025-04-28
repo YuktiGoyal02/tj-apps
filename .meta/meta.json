@@ -705,10 +705,10 @@
   },
   "b07f7c1c-4eef-4be2-989c-b7ef461d8308": {
     "gitAppName": "admin app1 renamed",
-    "lastCommitMessage": "Version v2 Created of app admin app1 renamed",
+    "lastCommitMessage": "Version v2 is renamed to v2 test",
     "gitVersionId": "dc46fd6e-3e6a-4bfd-be3d-66c10bdaad9f",
-    "lastpushDate": "2025-04-28T06:20:37.648Z",
-    "gitVersionName": "v2",
+    "lastpushDate": "2025-04-28T06:21:18.204Z",
+    "gitVersionName": "v2 test",
     "lastCommitUser": "The Developer"
   }
 }
