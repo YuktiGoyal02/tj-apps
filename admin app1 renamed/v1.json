@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "b07f7c1c-4eef-4be2-989c-b7ef461d8308",
-          "name": "admin app1",
+          "name": "admin app1 renamed",
           "slug": "b07f7c1c-4eef-4be2-989c-b7ef461d8308",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-04-28T06:03:27.772Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-04-28T06:03:27.771Z",
+          "updatedAt": "2025-04-28T06:05:35.291Z",
           "editingVersion": {
             "id": "1ad5355d-1f91-4cdc-8523-5eca1053a152",
             "name": "v1",
