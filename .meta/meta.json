@@ -704,10 +704,10 @@
     "lastCommitUser": "The Developer"
   },
   "b07f7c1c-4eef-4be2-989c-b7ef461d8308": {
-    "gitAppName": "admin app1 renamed",
-    "lastCommitMessage": "App admin app1 is renamed to admin app1 renamed",
+    "gitAppName": "admin app1",
+    "lastCommitMessage": "App admin app1 renamed is renamed to admin app1",
     "gitVersionId": "1ad5355d-1f91-4cdc-8523-5eca1053a152",
-    "lastpushDate": "2025-04-28T06:05:39.229Z",
+    "lastpushDate": "2025-04-28T06:06:26.964Z",
     "gitVersionName": "v1",
     "lastCommitUser": "The Developer"
   }
