@@ -761,10 +761,10 @@
   },
   "1e84245a-5da3-4ea1-a783-2f6508ca9bdb": {
     "gitAppName": "ssh app 8",
-    "lastCommitMessage": "Version v5 is renamed to v5-parent",
-    "gitVersionId": "fe9f1fe8-1fd7-4bd1-92b0-b5bdb491ea13",
-    "lastpushDate": "2025-04-29T08:21:00.705Z",
-    "gitVersionName": "v5-parent",
-    "lastCommitUser": "Yukti "
+    "lastCommitMessage": " v5-parent-child1 Version of app ssh app 8 promoted from development to staging",
+    "gitVersionId": "433e06e1-956c-4665-a1f2-5b5c5f47c8a5",
+    "lastpushDate": "2025-04-29T08:25:19.711Z",
+    "gitVersionName": "v5-parent-child1",
+    "lastCommitUser": "build1 "
   }
 }
