@@ -20,7 +20,7 @@
           "updatedAt": "2025-04-29T13:42:26.321Z",
           "editingVersion": {
             "id": "352776f3-7363-43a4-89a3-22fd3eed7e5a",
-            "name": "v8",
+            "name": "v8- rename",
             "definition": null,
             "globalSettings": {
               "hideHeader": false,
@@ -46,7 +46,7 @@
             "currentEnvironmentId": "936e8166-d0d0-471b-a09c-065ad402b1a9",
             "promotedFrom": null,
             "createdAt": "2025-04-29T13:43:37.352Z",
-            "updatedAt": "2025-04-29T13:43:37.336Z"
+            "updatedAt": "2025-04-29T13:44:10.968Z"
           },
           "components": [
             {
@@ -972,7 +972,7 @@
               "dataSourceId": "61c3ce7a-4c05-4e10-8d5b-cf587e0a5162",
               "appVersionId": "352776f3-7363-43a4-89a3-22fd3eed7e5a",
               "createdAt": "2025-04-29T13:43:37.336Z",
-              "updatedAt": "2025-04-29T13:43:37.336Z"
+              "updatedAt": "2025-04-29T13:43:42.224Z"
             }
           ],
           "dataSources": [
@@ -1076,7 +1076,7 @@
           "appVersions": [
             {
               "id": "352776f3-7363-43a4-89a3-22fd3eed7e5a",
-              "name": "v8",
+              "name": "v8- rename",
               "definition": null,
               "globalSettings": {
                 "hideHeader": false,
@@ -1102,7 +1102,7 @@
               "currentEnvironmentId": "936e8166-d0d0-471b-a09c-065ad402b1a9",
               "promotedFrom": null,
               "createdAt": "2025-04-29T13:43:37.352Z",
-              "updatedAt": "2025-04-29T13:43:37.336Z"
+              "updatedAt": "2025-04-29T13:44:10.968Z"
             }
           ],
           "appEnvironments": [
