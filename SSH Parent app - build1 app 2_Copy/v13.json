@@ -507,7 +507,7 @@
               },
               "validation": {},
               "createdAt": "2025-04-29T16:55:33.180Z",
-              "updatedAt": "2025-04-29T16:55:36.956Z",
+              "updatedAt": "2025-04-29T16:57:30.968Z",
               "layouts": [
                 {
                   "id": "e44311ec-8e25-469e-bd3c-986be0132465",
@@ -1153,78 +1153,6 @@
           "events": [],
           "dataQueries": [
             {
-              "id": "d914a34a-d331-4501-afcc-9378ba382af7",
-              "name": "SMPL_query_1",
-              "options": {
-                "mode": "sql",
-                "transformationLanguage": "javascript",
-                "enableTransformation": false,
-                "query": "SELECT tablename \nFROM pg_catalog.pg_tables \nWHERE schemaname='public';",
-                "runOnPageLoad": true
-              },
-              "dataSourceId": "80345519-0632-427a-8712-05b27f4f6947",
-              "appVersionId": "9d847351-0a78-4a49-9512-7a53fea8f2ff",
-              "createdAt": "2025-04-29T16:55:33.180Z",
-              "updatedAt": "2025-04-29T16:55:34.822Z"
-            },
-            {
-              "id": "7cc2f54a-d507-45b5-90cb-aafefe2f1720",
-              "name": "postgresql1",
-              "options": {
-                "mode": "sql",
-                "transformationLanguage": "javascript",
-                "enableTransformation": false,
-                "runOnPageLoad": true,
-                "query": "select * from persons;"
-              },
-              "dataSourceId": "2e525990-8d97-4f18-893e-e583eaaec8f3",
-              "appVersionId": "9d847351-0a78-4a49-9512-7a53fea8f2ff",
-              "createdAt": "2025-04-29T16:55:33.180Z",
-              "updatedAt": "2025-04-29T16:55:34.951Z"
-            },
-            {
-              "id": "b709f558-c67b-49dd-83d1-1d058224c072",
-              "name": "restapi2",
-              "options": {
-                "method": "get",
-                "url": "{{globals.environment.name}}",
-                "url_params": [
-                  [
-                    "",
-                    ""
-                  ]
-                ],
-                "headers": [
-                  [
-                    "",
-                    ""
-                  ]
-                ],
-                "cookies": [
-                  [
-                    "",
-                    ""
-                  ]
-                ],
-                "body": [
-                  [
-                    "",
-                    ""
-                  ]
-                ],
-                "json_body": null,
-                "body_toggle": false,
-                "retry_network_errors": true,
-                "transformationLanguage": "javascript",
-                "enableTransformation": false,
-                "runOnPageLoad": true
-              },
-              "dataSourceId": "0e265b14-9388-42da-af5d-5a14a98a3db1",
-              "appVersionId": "9d847351-0a78-4a49-9512-7a53fea8f2ff",
-              "createdAt": "2025-04-29T16:55:33.180Z",
-              "updatedAt": "2025-04-29T16:55:36.971Z"
-            },
-            {
               "id": "0dae5a6d-33a7-4bc4-ab6f-0b0a62312852",
               "name": "restapi1",
               "options": {
@@ -1269,7 +1197,79 @@
               "dataSourceId": "c69e0cd3-8bb8-407f-b3f3-7c4ae5d32a98",
               "appVersionId": "9d847351-0a78-4a49-9512-7a53fea8f2ff",
               "createdAt": "2025-04-29T16:55:33.180Z",
-              "updatedAt": "2025-04-29T16:55:38.089Z"
+              "updatedAt": "2025-04-29T16:57:26.685Z"
+            },
+            {
+              "id": "b709f558-c67b-49dd-83d1-1d058224c072",
+              "name": "restapi2",
+              "options": {
+                "method": "get",
+                "url": "{{globals.environment.name}}",
+                "url_params": [
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "headers": [
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "cookies": [
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "body": [
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "json_body": null,
+                "body_toggle": false,
+                "retry_network_errors": true,
+                "transformationLanguage": "javascript",
+                "enableTransformation": false,
+                "runOnPageLoad": true
+              },
+              "dataSourceId": "0e265b14-9388-42da-af5d-5a14a98a3db1",
+              "appVersionId": "9d847351-0a78-4a49-9512-7a53fea8f2ff",
+              "createdAt": "2025-04-29T16:55:33.180Z",
+              "updatedAt": "2025-04-29T16:57:27.788Z"
+            },
+            {
+              "id": "7cc2f54a-d507-45b5-90cb-aafefe2f1720",
+              "name": "postgresql1",
+              "options": {
+                "mode": "sql",
+                "transformationLanguage": "javascript",
+                "enableTransformation": false,
+                "runOnPageLoad": true,
+                "query": "select * from persons;"
+              },
+              "dataSourceId": "2e525990-8d97-4f18-893e-e583eaaec8f3",
+              "appVersionId": "9d847351-0a78-4a49-9512-7a53fea8f2ff",
+              "createdAt": "2025-04-29T16:55:33.180Z",
+              "updatedAt": "2025-04-29T16:57:28.745Z"
+            },
+            {
+              "id": "d914a34a-d331-4501-afcc-9378ba382af7",
+              "name": "SMPL_query_1",
+              "options": {
+                "mode": "sql",
+                "transformationLanguage": "javascript",
+                "enableTransformation": false,
+                "query": "SELECT tablename \nFROM pg_catalog.pg_tables \nWHERE schemaname='public';",
+                "runOnPageLoad": true
+              },
+              "dataSourceId": "80345519-0632-427a-8712-05b27f4f6947",
+              "appVersionId": "9d847351-0a78-4a49-9512-7a53fea8f2ff",
+              "createdAt": "2025-04-29T16:55:33.180Z",
+              "updatedAt": "2025-04-29T16:57:30.963Z"
             }
           ],
           "dataSources": [
@@ -1334,16 +1334,16 @@
               "updatedAt": "2025-04-29T16:55:33.197Z"
             },
             {
-              "id": "80345519-0632-427a-8712-05b27f4f6947",
-              "name": "Sample data source",
-              "kind": "postgresql",
-              "type": "sample",
+              "id": "0e265b14-9388-42da-af5d-5a14a98a3db1",
+              "name": "restapi",
+              "kind": "restapi",
+              "type": "default",
               "pluginId": null,
               "appVersionId": null,
               "organizationId": "d47bd631-9abc-4ddd-b4c5-883cdd5fb8d8",
               "scope": "global",
-              "createdAt": "2025-04-29T11:57:20.233Z",
-              "updatedAt": "2025-04-29T11:57:20.233Z"
+              "createdAt": "2025-04-29T11:59:48.631Z",
+              "updatedAt": "2025-04-29T12:00:32.769Z"
             },
             {
               "id": "2e525990-8d97-4f18-893e-e583eaaec8f3",
@@ -1358,16 +1358,16 @@
               "updatedAt": "2025-04-29T11:59:41.884Z"
             },
             {
-              "id": "0e265b14-9388-42da-af5d-5a14a98a3db1",
-              "name": "restapi",
-              "kind": "restapi",
-              "type": "default",
+              "id": "80345519-0632-427a-8712-05b27f4f6947",
+              "name": "Sample data source",
+              "kind": "postgresql",
+              "type": "sample",
               "pluginId": null,
               "appVersionId": null,
               "organizationId": "d47bd631-9abc-4ddd-b4c5-883cdd5fb8d8",
               "scope": "global",
-              "createdAt": "2025-04-29T11:59:48.631Z",
-              "updatedAt": "2025-04-29T12:00:32.769Z"
+              "createdAt": "2025-04-29T11:57:20.233Z",
+              "updatedAt": "2025-04-29T11:57:20.233Z"
             }
           ],
           "appVersions": [
