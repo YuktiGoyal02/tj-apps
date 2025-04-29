@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "24600081-3cb0-4c93-a9c1-e8687680809c",
-          "name": "SSH Parent app - child",
+          "name": "SSH Parent app",
           "slug": "24600081-3cb0-4c93-a9c1-e8687680809c",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-04-29T12:37:32.049Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-04-29T13:16:21.432Z",
+          "updatedAt": "2025-04-29T13:17:12.815Z",
           "editingVersion": {
             "id": "250f7e47-4000-4c78-90ab-de2dbf78f426",
             "name": "v4 - prod",

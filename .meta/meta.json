@@ -792,10 +792,10 @@
     "lastCommitUser": "build1 "
   },
   "24600081-3cb0-4c93-a9c1-e8687680809c": {
-    "gitAppName": "SSH Parent app - child",
-    "lastCommitMessage": "App SSH Parent app is renamed to SSH Parent app - child",
+    "gitAppName": "SSH Parent app",
+    "lastCommitMessage": "App SSH Parent app - child is renamed to SSH Parent app",
     "gitVersionId": "22cabb74-1460-44c1-84ff-fcdc7e863dbb",
-    "lastpushDate": "2025-04-29T13:16:26.216Z",
+    "lastpushDate": "2025-04-29T13:17:16.903Z",
     "gitVersionName": "v3",
     "lastCommitUser": "build1 "
   }
