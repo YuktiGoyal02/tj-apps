@@ -20,7 +20,7 @@
           "updatedAt": "2025-04-29T12:43:41.334Z",
           "editingVersion": {
             "id": "250f7e47-4000-4c78-90ab-de2dbf78f426",
-            "name": "v4 - stag",
+            "name": "v4 - prod",
             "definition": null,
             "globalSettings": {
               "hideHeader": false,
@@ -36,10 +36,10 @@
             "showViewerNavigation": true,
             "homePageId": "d33598e4-9e37-404a-a984-564fc9b73fb6",
             "appId": "24600081-3cb0-4c93-a9c1-e8687680809c",
-            "currentEnvironmentId": "2c905d84-0c2e-4ffb-8606-7bfb91c74e81",
+            "currentEnvironmentId": "3e01fb40-fac1-46a2-984b-d155d0f8be75",
             "promotedFrom": null,
             "createdAt": "2025-04-29T12:53:47.322Z",
-            "updatedAt": "2025-04-29T12:54:55.438Z"
+            "updatedAt": "2025-04-29T12:56:05.850Z"
           },
           "components": [
             {
