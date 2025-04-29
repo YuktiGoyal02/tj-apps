@@ -5,19 +5,19 @@
         "appV2": {
           "type": "front-end",
           "id": "24600081-3cb0-4c93-a9c1-e8687680809c",
-          "name": "SSH Parent app",
+          "name": "SSH Parent app - child",
           "slug": "24600081-3cb0-4c93-a9c1-e8687680809c",
           "isPublic": null,
           "isMaintenanceOn": false,
           "icon": "sun",
           "organizationId": "d47bd631-9abc-4ddd-b4c5-883cdd5fb8d8",
-          "currentVersionId": null,
+          "currentVersionId": "250f7e47-4000-4c78-90ab-de2dbf78f426",
           "userId": "04984526-e0d0-4067-bcbe-5e313e8228c1",
           "workflowApiToken": null,
           "workflowEnabled": false,
           "createdAt": "2025-04-29T12:37:32.049Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-04-29T12:43:41.334Z",
+          "updatedAt": "2025-04-29T13:16:21.432Z",
           "editingVersion": {
             "id": "250f7e47-4000-4c78-90ab-de2dbf78f426",
             "name": "v4 - prod",
@@ -508,7 +508,7 @@
               },
               "validation": {},
               "createdAt": "2025-04-29T12:51:02.944Z",
-              "updatedAt": "2025-04-29T12:51:24.475Z",
+              "updatedAt": "2025-04-29T13:06:04.726Z",
               "layouts": [
                 {
                   "id": "e1e743b9-d399-4c3e-b509-79113da61696",
@@ -762,21 +762,6 @@
           "events": [],
           "dataQueries": [
             {
-              "id": "a3611351-8ca3-400c-a624-3f4453c724e0",
-              "name": "SMPL_query_1",
-              "options": {
-                "mode": "sql",
-                "transformationLanguage": "javascript",
-                "enableTransformation": false,
-                "query": "SELECT tablename \nFROM pg_catalog.pg_tables \nWHERE schemaname='public';",
-                "runOnPageLoad": true
-              },
-              "dataSourceId": "80345519-0632-427a-8712-05b27f4f6947",
-              "appVersionId": "22cabb74-1460-44c1-84ff-fcdc7e863dbb",
-              "createdAt": "2025-04-29T12:51:02.944Z",
-              "updatedAt": "2025-04-29T12:51:22.796Z"
-            },
-            {
               "id": "e57622e0-a981-4ed2-b41a-770a010938dc",
               "name": "restapi2",
               "options": {
@@ -816,7 +801,7 @@
               "dataSourceId": "0e265b14-9388-42da-af5d-5a14a98a3db1",
               "appVersionId": "22cabb74-1460-44c1-84ff-fcdc7e863dbb",
               "createdAt": "2025-04-29T12:51:02.944Z",
-              "updatedAt": "2025-04-29T12:51:22.836Z"
+              "updatedAt": "2025-04-29T13:06:05.517Z"
             },
             {
               "id": "bba92d3a-f766-4304-a178-945027348b1d",
@@ -831,7 +816,7 @@
               "dataSourceId": "2e525990-8d97-4f18-893e-e583eaaec8f3",
               "appVersionId": "22cabb74-1460-44c1-84ff-fcdc7e863dbb",
               "createdAt": "2025-04-29T12:51:02.944Z",
-              "updatedAt": "2025-04-29T12:51:23.786Z"
+              "updatedAt": "2025-04-29T13:06:04.229Z"
             },
             {
               "id": "fa0d85a4-7064-4500-be6d-5fa78c64bab7",
@@ -878,7 +863,22 @@
               "dataSourceId": "c4d1d988-8f9c-4828-932b-380de37e920b",
               "appVersionId": "22cabb74-1460-44c1-84ff-fcdc7e863dbb",
               "createdAt": "2025-04-29T12:51:02.944Z",
-              "updatedAt": "2025-04-29T12:51:24.474Z"
+              "updatedAt": "2025-04-29T13:06:04.677Z"
+            },
+            {
+              "id": "a3611351-8ca3-400c-a624-3f4453c724e0",
+              "name": "SMPL_query_1",
+              "options": {
+                "mode": "sql",
+                "transformationLanguage": "javascript",
+                "enableTransformation": false,
+                "query": "SELECT tablename \nFROM pg_catalog.pg_tables \nWHERE schemaname='public';",
+                "runOnPageLoad": true
+              },
+              "dataSourceId": "80345519-0632-427a-8712-05b27f4f6947",
+              "appVersionId": "22cabb74-1460-44c1-84ff-fcdc7e863dbb",
+              "createdAt": "2025-04-29T12:51:02.944Z",
+              "updatedAt": "2025-04-29T13:06:05.471Z"
             }
           ],
           "dataSources": [
@@ -893,18 +893,6 @@
               "scope": "local",
               "createdAt": "2025-04-29T12:51:02.944Z",
               "updatedAt": "2025-04-29T12:51:02.944Z"
-            },
-            {
-              "id": "80345519-0632-427a-8712-05b27f4f6947",
-              "name": "Sample data source",
-              "kind": "postgresql",
-              "type": "sample",
-              "pluginId": null,
-              "appVersionId": null,
-              "organizationId": "d47bd631-9abc-4ddd-b4c5-883cdd5fb8d8",
-              "scope": "global",
-              "createdAt": "2025-04-29T11:57:20.233Z",
-              "updatedAt": "2025-04-29T11:57:20.233Z"
             },
             {
               "id": "0e265b14-9388-42da-af5d-5a14a98a3db1",
@@ -929,6 +917,18 @@
               "scope": "global",
               "createdAt": "2025-04-29T11:59:00.290Z",
               "updatedAt": "2025-04-29T11:59:41.884Z"
+            },
+            {
+              "id": "80345519-0632-427a-8712-05b27f4f6947",
+              "name": "Sample data source",
+              "kind": "postgresql",
+              "type": "sample",
+              "pluginId": null,
+              "appVersionId": null,
+              "organizationId": "d47bd631-9abc-4ddd-b4c5-883cdd5fb8d8",
+              "scope": "global",
+              "createdAt": "2025-04-29T11:57:20.233Z",
+              "updatedAt": "2025-04-29T11:57:20.233Z"
             }
           ],
           "appVersions": [
