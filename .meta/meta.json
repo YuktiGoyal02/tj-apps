@@ -817,10 +817,10 @@
   },
   "0c0dfb3b-f1d7-4183-bcd4-70493ed0bc82": {
     "gitAppName": "http Parent app",
-    "lastCommitMessage": "Version v2 Created of app http Parent app",
+    "lastCommitMessage": "Version v2 is renamed to v2 test",
     "gitVersionId": "e71c9063-4c71-46fc-9dd8-7f1e329138fe",
-    "lastpushDate": "2025-04-29T18:51:01.429Z",
-    "gitVersionName": "v2",
+    "lastpushDate": "2025-04-29T18:51:20.611Z",
+    "gitVersionName": "v2 test",
     "lastCommitUser": "Yukti "
   }
 }
