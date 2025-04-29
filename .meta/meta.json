@@ -816,10 +816,10 @@
     "lastCommitUser": "build1 "
   },
   "0c0dfb3b-f1d7-4183-bcd4-70493ed0bc82": {
-    "gitAppName": "http Parent app renamed",
-    "lastCommitMessage": "App http Parent app is renamed to http Parent app renamed",
+    "gitAppName": "http Parent app",
+    "lastCommitMessage": "App http Parent app renamed is renamed to http Parent app",
     "gitVersionId": "15f29618-7a00-42af-91bb-46917b6a3f6d",
-    "lastpushDate": "2025-04-29T18:37:40.508Z",
+    "lastpushDate": "2025-04-29T18:38:11.672Z",
     "gitVersionName": "v1",
     "lastCommitUser": "Yukti "
   }
