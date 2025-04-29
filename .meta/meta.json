@@ -793,10 +793,10 @@
   },
   "24600081-3cb0-4c93-a9c1-e8687680809c": {
     "gitAppName": "SSH Parent app",
-    "lastCommitMessage": "Version v10ws1 - stag is renamed to v10ws1 - prod",
-    "gitVersionId": "290e5b29-c042-4046-9b3a-9ea9020f1eb7",
-    "lastpushDate": "2025-04-29T14:16:46.196Z",
-    "gitVersionName": "v10ws1 - prod",
+    "lastCommitMessage": "Version v11 Created of app SSH Parent app",
+    "gitVersionId": "cfa9dffe-f665-4f5d-a33d-07728052dd24",
+    "lastpushDate": "2025-04-29T14:21:41.830Z",
+    "gitVersionName": "v11",
     "lastCommitUser": "build2 "
   }
 }
