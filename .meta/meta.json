@@ -793,10 +793,10 @@
   },
   "24600081-3cb0-4c93-a9c1-e8687680809c": {
     "gitAppName": "SSH Parent app",
-    "lastCommitMessage": "Version v7 is renamed to v7 - childv",
-    "gitVersionId": "41eccee9-ea0a-45b4-b713-7359c9bc2ed6",
-    "lastpushDate": "2025-04-29T13:43:04.803Z",
-    "gitVersionName": "v7 - childv",
+    "lastCommitMessage": "Version v8 Created of app SSH Parent app",
+    "gitVersionId": "352776f3-7363-43a4-89a3-22fd3eed7e5a",
+    "lastpushDate": "2025-04-29T13:43:41.586Z",
+    "gitVersionName": "v8",
     "lastCommitUser": "build1 "
   }
 }
