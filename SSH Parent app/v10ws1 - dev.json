@@ -20,7 +20,7 @@
           "updatedAt": "2025-04-29T14:12:41.161Z",
           "editingVersion": {
             "id": "290e5b29-c042-4046-9b3a-9ea9020f1eb7",
-            "name": "v10ws1",
+            "name": "v10ws1 - dev",
             "definition": null,
             "globalSettings": {
               "hideHeader": false,
@@ -46,7 +46,7 @@
             "currentEnvironmentId": "b709ee70-5df9-4f53-a99c-75c10a036f47",
             "promotedFrom": null,
             "createdAt": "2025-04-29T14:13:23.578Z",
-            "updatedAt": "2025-04-29T14:13:23.273Z"
+            "updatedAt": "2025-04-29T14:13:50.104Z"
           },
           "components": [
             {
@@ -507,7 +507,7 @@
               },
               "validation": {},
               "createdAt": "2025-04-29T14:13:23.273Z",
-              "updatedAt": "2025-04-29T14:13:23.273Z",
+              "updatedAt": "2025-04-29T14:13:29.442Z",
               "layouts": [
                 {
                   "id": "d735efbc-95a3-476f-842c-a3789b89b4a7",
@@ -955,53 +955,6 @@
           "events": [],
           "dataQueries": [
             {
-              "id": "7198251f-a4d4-42f5-8807-9a4725fcd41f",
-              "name": "restapi1",
-              "options": {
-                "method": "get",
-                "url": "http://34.66.166.236:4000/{{globals.environment.name}}",
-                "url_params": [
-                  [
-                    "",
-                    ""
-                  ]
-                ],
-                "headers": [
-                  [
-                    "customHeader",
-                    "key=value"
-                  ],
-                  [
-                    "",
-                    ""
-                  ]
-                ],
-                "cookies": [
-                  [
-                    "",
-                    ""
-                  ]
-                ],
-                "body": [
-                  [
-                    "",
-                    ""
-                  ]
-                ],
-                "json_body": null,
-                "body_toggle": false,
-                "retry_network_errors": true,
-                "transformationLanguage": "javascript",
-                "enableTransformation": false,
-                "arrayValuesChanged": true,
-                "runOnPageLoad": true
-              },
-              "dataSourceId": "33cabbf3-7354-44ad-865b-da79262ad48c",
-              "appVersionId": "290e5b29-c042-4046-9b3a-9ea9020f1eb7",
-              "createdAt": "2025-04-29T14:13:23.273Z",
-              "updatedAt": "2025-04-29T14:13:23.273Z"
-            },
-            {
               "id": "50f792ac-d502-4e96-97f3-0291470a5b9b",
               "name": "SMPL_query_1",
               "options": {
@@ -1072,6 +1025,53 @@
               "appVersionId": "290e5b29-c042-4046-9b3a-9ea9020f1eb7",
               "createdAt": "2025-04-29T14:13:23.273Z",
               "updatedAt": "2025-04-29T14:13:25.989Z"
+            },
+            {
+              "id": "7198251f-a4d4-42f5-8807-9a4725fcd41f",
+              "name": "restapi1",
+              "options": {
+                "method": "get",
+                "url": "http://34.66.166.236:4000/{{globals.environment.name}}",
+                "url_params": [
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "headers": [
+                  [
+                    "customHeader",
+                    "key=value"
+                  ],
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "cookies": [
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "body": [
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "json_body": null,
+                "body_toggle": false,
+                "retry_network_errors": true,
+                "transformationLanguage": "javascript",
+                "enableTransformation": false,
+                "arrayValuesChanged": true,
+                "runOnPageLoad": true
+              },
+              "dataSourceId": "33cabbf3-7354-44ad-865b-da79262ad48c",
+              "appVersionId": "290e5b29-c042-4046-9b3a-9ea9020f1eb7",
+              "createdAt": "2025-04-29T14:13:23.273Z",
+              "updatedAt": "2025-04-29T14:13:28.549Z"
             }
           ],
           "dataSources": [
@@ -1175,7 +1175,7 @@
           "appVersions": [
             {
               "id": "290e5b29-c042-4046-9b3a-9ea9020f1eb7",
-              "name": "v10ws1",
+              "name": "v10ws1 - dev",
               "definition": null,
               "globalSettings": {
                 "hideHeader": false,
@@ -1201,7 +1201,7 @@
               "currentEnvironmentId": "b709ee70-5df9-4f53-a99c-75c10a036f47",
               "promotedFrom": null,
               "createdAt": "2025-04-29T14:13:23.578Z",
-              "updatedAt": "2025-04-29T14:13:23.273Z"
+              "updatedAt": "2025-04-29T14:13:50.104Z"
             }
           ],
           "appEnvironments": [
