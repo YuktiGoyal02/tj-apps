@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "0c0dfb3b-f1d7-4183-bcd4-70493ed0bc82",
-          "name": "http Parent app",
+          "name": "http Parent app renamed",
           "slug": "0c0dfb3b-f1d7-4183-bcd4-70493ed0bc82",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-04-29T18:36:48.256Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-04-29T18:36:48.254Z",
+          "updatedAt": "2025-04-29T18:37:38.137Z",
           "editingVersion": {
             "id": "15f29618-7a00-42af-91bb-46917b6a3f6d",
             "name": "v1",
