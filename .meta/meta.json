@@ -617,10 +617,10 @@
   },
   "b957d334-b49a-4b62-9844-8afe31e77789": {
     "gitAppName": "http Parent app 1",
-    "lastCommitMessage": "Version v3rename test is renamed to v3rename test test",
-    "gitVersionId": "24de47ba-b62c-4c08-ba2c-8275c939b45b",
-    "lastpushDate": "2025-04-30T13:56:10.512Z",
-    "gitVersionName": "v3rename test test",
+    "lastCommitMessage": "Version v4 Created of app http Parent app 1",
+    "gitVersionId": "1c25e056-a391-4eb8-9590-176081938ae2",
+    "lastpushDate": "2025-04-30T13:57:44.947Z",
+    "gitVersionName": "v4",
     "lastCommitUser": "build2 "
   }
 }
