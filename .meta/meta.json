@@ -849,10 +849,10 @@
   },
   "6959e452-1649-408b-bbe4-1e83878ac642": {
     "gitAppName": "new app ssh 2",
-    "lastCommitMessage": " v1 Version of app new app ssh 2 promoted from development to staging",
-    "gitVersionId": "07fabc12-2c51-4d56-93ae-771df80a7865",
-    "lastpushDate": "2025-04-30T08:36:22.539Z",
-    "gitVersionName": "v1",
-    "lastCommitUser": "build1 "
+    "lastCommitMessage": "Version v2 Created of app new app ssh 2",
+    "gitVersionId": "9f54c265-238c-4b2c-ad72-955938a3f2e2",
+    "lastpushDate": "2025-04-30T08:40:08.538Z",
+    "gitVersionName": "v2",
+    "lastCommitUser": "The Developer"
   }
 }
