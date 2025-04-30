@@ -5,19 +5,19 @@
         "appV2": {
           "type": "front-end",
           "id": "4a03bf49-2490-403e-86c6-d7cb7c7d3668",
-          "name": "Parent f1 re",
+          "name": "Parent f1",
           "slug": "4a03bf49-2490-403e-86c6-d7cb7c7d3668",
           "isPublic": null,
           "isMaintenanceOn": false,
           "icon": "home",
           "organizationId": "1c35c095-1819-485b-89d7-24968edc8231",
-          "currentVersionId": null,
+          "currentVersionId": "e5643b00-4a81-4f2e-9597-be63564ce412",
           "userId": "064142f3-d322-4bab-afe7-713cfae35e1c",
           "workflowApiToken": null,
           "workflowEnabled": false,
           "createdAt": "2025-04-30T12:18:29.600Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-04-30T12:18:55.652Z",
+          "updatedAt": "2025-04-30T12:22:55.771Z",
           "editingVersion": {
             "id": "e5643b00-4a81-4f2e-9597-be63564ce412",
             "name": "v2 re",
@@ -36,10 +36,10 @@
             "showViewerNavigation": true,
             "homePageId": "b1d75b1e-2125-4797-97ca-b50b17901485",
             "appId": "4a03bf49-2490-403e-86c6-d7cb7c7d3668",
-            "currentEnvironmentId": "701678b7-9ae3-406e-b2f8-15441152a369",
+            "currentEnvironmentId": "17dde0cf-3da9-4534-af5d-32ee8f03ec34",
             "promotedFrom": null,
             "createdAt": "2025-04-30T12:20:03.183Z",
-            "updatedAt": "2025-04-30T12:20:59.538Z"
+            "updatedAt": "2025-04-30T12:21:28.241Z"
           },
           "components": [
             {
@@ -186,10 +186,10 @@
               "showViewerNavigation": true,
               "homePageId": "b1d75b1e-2125-4797-97ca-b50b17901485",
               "appId": "4a03bf49-2490-403e-86c6-d7cb7c7d3668",
-              "currentEnvironmentId": "701678b7-9ae3-406e-b2f8-15441152a369",
+              "currentEnvironmentId": "17dde0cf-3da9-4534-af5d-32ee8f03ec34",
               "promotedFrom": null,
               "createdAt": "2025-04-30T12:20:03.183Z",
-              "updatedAt": "2025-04-30T12:20:59.538Z"
+              "updatedAt": "2025-04-30T12:21:28.241Z"
             }
           ],
           "appEnvironments": [
