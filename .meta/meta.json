@@ -833,10 +833,10 @@
   },
   "7dd9ccb0-5adc-4b01-a6ae-72ccf205ecea": {
     "gitAppName": "old app ssh 2",
-    "lastCommitMessage": "Version v2 is renamed to v2-dev",
-    "gitVersionId": "06ae8e87-502b-4448-9eb5-a2a21cb73bec",
-    "lastpushDate": "2025-04-30T05:58:47.273Z",
-    "gitVersionName": "v2-dev",
+    "lastCommitMessage": "Version v3 Created of app old app ssh 2",
+    "gitVersionId": "5879fc03-6732-4bdb-a765-7cb01359180a",
+    "lastpushDate": "2025-04-30T05:59:24.617Z",
+    "gitVersionName": "v3",
     "lastCommitUser": "The Developer"
   }
 }
