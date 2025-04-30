@@ -913,10 +913,10 @@
   },
   "4a03bf49-2490-403e-86c6-d7cb7c7d3668": {
     "gitAppName": "Parent f1",
-    "lastCommitMessage": " v3 ret Version of app Parent f1 promoted from development to staging",
-    "gitVersionId": "6d1e2a32-aa61-4d55-8e91-687c5b4c6193",
-    "lastpushDate": "2025-04-30T12:24:42.170Z",
-    "gitVersionName": "v3 ret",
-    "lastCommitUser": "build1 "
+    "lastCommitMessage": "btn 2 in v4",
+    "gitVersionId": "2283826c-1441-423a-8aac-fa057ddd18c1",
+    "lastpushDate": "2025-04-30T12:27:01.910Z",
+    "gitVersionName": "v4",
+    "lastCommitUser": "The Developer"
   }
 }
