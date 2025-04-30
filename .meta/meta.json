@@ -913,10 +913,10 @@
   },
   "4a03bf49-2490-403e-86c6-d7cb7c7d3668": {
     "gitAppName": "Parent f1",
-    "lastCommitMessage": "b4 in v5 in child",
+    "lastCommitMessage": "Version v5 is renamed to v5 rename",
     "gitVersionId": "9ef6dd21-a1ae-4aef-8474-be721419cf01",
-    "lastpushDate": "2025-04-30T12:31:32.465Z",
-    "gitVersionName": "v5",
+    "lastpushDate": "2025-04-30T12:32:24.668Z",
+    "gitVersionName": "v5 rename",
     "lastCommitUser": "build1 "
   }
 }

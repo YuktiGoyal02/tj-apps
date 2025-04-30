@@ -20,7 +20,7 @@
           "updatedAt": "2025-04-30T12:30:35.840Z",
           "editingVersion": {
             "id": "9ef6dd21-a1ae-4aef-8474-be721419cf01",
-            "name": "v5",
+            "name": "v5 rename",
             "definition": null,
             "globalSettings": {
               "hideHeader": false,
@@ -46,7 +46,7 @@
             "currentEnvironmentId": "0ed8022d-eee1-4443-b185-d8fdcd9c5142",
             "promotedFrom": null,
             "createdAt": "2025-04-30T12:30:58.747Z",
-            "updatedAt": "2025-04-30T12:30:58.729Z"
+            "updatedAt": "2025-04-30T12:32:20.354Z"
           },
           "components": [
             {
@@ -535,7 +535,7 @@
           "appVersions": [
             {
               "id": "9ef6dd21-a1ae-4aef-8474-be721419cf01",
-              "name": "v5",
+              "name": "v5 rename",
               "definition": null,
               "globalSettings": {
                 "hideHeader": false,
@@ -561,7 +561,7 @@
               "currentEnvironmentId": "0ed8022d-eee1-4443-b185-d8fdcd9c5142",
               "promotedFrom": null,
               "createdAt": "2025-04-30T12:30:58.747Z",
-              "updatedAt": "2025-04-30T12:30:58.729Z"
+              "updatedAt": "2025-04-30T12:32:20.354Z"
             }
           ],
           "appEnvironments": [
