@@ -20,7 +20,7 @@
           "updatedAt": "2025-04-30T13:34:24.456Z",
           "editingVersion": {
             "id": "3b2eff5f-5bd7-49f3-99ba-da8cde925bf1",
-            "name": "v2 reupdate",
+            "name": "v2 update",
             "definition": null,
             "globalSettings": {
               "hideHeader": false,
@@ -46,7 +46,7 @@
             "currentEnvironmentId": "063758d7-8b8e-4f9e-bcb1-d894cdde88ac",
             "promotedFrom": null,
             "createdAt": "2025-04-30T13:32:36.809Z",
-            "updatedAt": "2025-04-30T13:46:27.774Z"
+            "updatedAt": "2025-04-30T13:48:06.175Z"
           },
           "components": [
             {
