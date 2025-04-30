@@ -241,7 +241,7 @@
               },
               "validation": {},
               "createdAt": "2025-04-30T07:32:32.618Z",
-              "updatedAt": "2025-04-30T07:36:05.786Z",
+              "updatedAt": "2025-04-30T07:37:11.719Z",
               "layouts": [
                 {
                   "id": "b3f16ccd-ee5f-4234-bdc7-b8f6c323ffd3",
@@ -963,78 +963,6 @@
           "events": [],
           "dataQueries": [
             {
-              "id": "83a3faee-a40b-41ae-aa4f-c6071b782b44",
-              "name": "SMPL_query_1",
-              "options": {
-                "mode": "sql",
-                "transformationLanguage": "javascript",
-                "enableTransformation": false,
-                "query": "SELECT tablename \nFROM pg_catalog.pg_tables \nWHERE schemaname='public';",
-                "runOnPageLoad": true
-              },
-              "dataSourceId": "6ae3c519-08e9-421f-8e5f-cdaa1c902f16",
-              "appVersionId": "a3d392d3-d994-4220-8912-2ec2f5cb9934",
-              "createdAt": "2025-04-30T07:32:32.618Z",
-              "updatedAt": "2025-04-30T07:36:02.216Z"
-            },
-            {
-              "id": "f1ec27b4-e7e0-4c3e-956c-759b41fa260a",
-              "name": "restapi2",
-              "options": {
-                "method": "get",
-                "url": "{{globals.environment.name}}",
-                "url_params": [
-                  [
-                    "",
-                    ""
-                  ]
-                ],
-                "headers": [
-                  [
-                    "",
-                    ""
-                  ]
-                ],
-                "cookies": [
-                  [
-                    "",
-                    ""
-                  ]
-                ],
-                "body": [
-                  [
-                    "",
-                    ""
-                  ]
-                ],
-                "json_body": null,
-                "body_toggle": false,
-                "retry_network_errors": true,
-                "transformationLanguage": "javascript",
-                "enableTransformation": false,
-                "runOnPageLoad": true
-              },
-              "dataSourceId": "195cab0d-7b46-4f77-a6cf-7c3c6d324724",
-              "appVersionId": "a3d392d3-d994-4220-8912-2ec2f5cb9934",
-              "createdAt": "2025-04-30T07:32:32.618Z",
-              "updatedAt": "2025-04-30T07:36:02.305Z"
-            },
-            {
-              "id": "7cc87636-7020-42cf-865a-95790e92069b",
-              "name": "postgresql1",
-              "options": {
-                "mode": "sql",
-                "transformationLanguage": "javascript",
-                "enableTransformation": false,
-                "query": "select * from persons;",
-                "runOnPageLoad": true
-              },
-              "dataSourceId": "7257128f-a896-47bf-b478-d1c59e0ce62e",
-              "appVersionId": "a3d392d3-d994-4220-8912-2ec2f5cb9934",
-              "createdAt": "2025-04-30T07:32:32.618Z",
-              "updatedAt": "2025-04-30T07:36:03.256Z"
-            },
-            {
               "id": "f87f5f31-7fbf-4881-b466-c3f77623c527",
               "name": "restapi1",
               "options": {
@@ -1079,7 +1007,79 @@
               "dataSourceId": "e207dae4-386c-4e93-bd98-74eea9fd1aee",
               "appVersionId": "a3d392d3-d994-4220-8912-2ec2f5cb9934",
               "createdAt": "2025-04-30T07:32:32.618Z",
-              "updatedAt": "2025-04-30T07:36:05.752Z"
+              "updatedAt": "2025-04-30T07:37:07.808Z"
+            },
+            {
+              "id": "7cc87636-7020-42cf-865a-95790e92069b",
+              "name": "postgresql1",
+              "options": {
+                "mode": "sql",
+                "transformationLanguage": "javascript",
+                "enableTransformation": false,
+                "query": "select * from persons;",
+                "runOnPageLoad": true
+              },
+              "dataSourceId": "7257128f-a896-47bf-b478-d1c59e0ce62e",
+              "appVersionId": "a3d392d3-d994-4220-8912-2ec2f5cb9934",
+              "createdAt": "2025-04-30T07:32:32.618Z",
+              "updatedAt": "2025-04-30T07:37:08.892Z"
+            },
+            {
+              "id": "f1ec27b4-e7e0-4c3e-956c-759b41fa260a",
+              "name": "restapi2",
+              "options": {
+                "method": "get",
+                "url": "{{globals.environment.name}}",
+                "url_params": [
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "headers": [
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "cookies": [
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "body": [
+                  [
+                    "",
+                    ""
+                  ]
+                ],
+                "json_body": null,
+                "body_toggle": false,
+                "retry_network_errors": true,
+                "transformationLanguage": "javascript",
+                "enableTransformation": false,
+                "runOnPageLoad": true
+              },
+              "dataSourceId": "195cab0d-7b46-4f77-a6cf-7c3c6d324724",
+              "appVersionId": "a3d392d3-d994-4220-8912-2ec2f5cb9934",
+              "createdAt": "2025-04-30T07:32:32.618Z",
+              "updatedAt": "2025-04-30T07:37:11.712Z"
+            },
+            {
+              "id": "83a3faee-a40b-41ae-aa4f-c6071b782b44",
+              "name": "SMPL_query_1",
+              "options": {
+                "mode": "sql",
+                "transformationLanguage": "javascript",
+                "enableTransformation": false,
+                "query": "SELECT tablename \nFROM pg_catalog.pg_tables \nWHERE schemaname='public';",
+                "runOnPageLoad": true
+              },
+              "dataSourceId": "6ae3c519-08e9-421f-8e5f-cdaa1c902f16",
+              "appVersionId": "a3d392d3-d994-4220-8912-2ec2f5cb9934",
+              "createdAt": "2025-04-30T07:32:32.618Z",
+              "updatedAt": "2025-04-30T07:37:12.578Z"
             }
           ],
           "dataSources": [
@@ -1144,16 +1144,16 @@
               "updatedAt": "2025-04-30T07:32:32.618Z"
             },
             {
-              "id": "6ae3c519-08e9-421f-8e5f-cdaa1c902f16",
-              "name": "Sample data source",
+              "id": "7257128f-a896-47bf-b478-d1c59e0ce62e",
+              "name": "postgresql",
               "kind": "postgresql",
-              "type": "sample",
+              "type": "default",
               "pluginId": null,
               "appVersionId": null,
               "organizationId": "b36783c3-a10c-49f6-9ba9-96a890f86afe",
               "scope": "global",
-              "createdAt": "2025-04-30T04:41:59.454Z",
-              "updatedAt": "2025-04-30T04:41:59.454Z"
+              "createdAt": "2025-04-30T05:46:49.445Z",
+              "updatedAt": "2025-04-30T05:47:53.709Z"
             },
             {
               "id": "195cab0d-7b46-4f77-a6cf-7c3c6d324724",
@@ -1168,16 +1168,16 @@
               "updatedAt": "2025-04-30T05:46:49.445Z"
             },
             {
-              "id": "7257128f-a896-47bf-b478-d1c59e0ce62e",
-              "name": "postgresql",
+              "id": "6ae3c519-08e9-421f-8e5f-cdaa1c902f16",
+              "name": "Sample data source",
               "kind": "postgresql",
-              "type": "default",
+              "type": "sample",
               "pluginId": null,
               "appVersionId": null,
               "organizationId": "b36783c3-a10c-49f6-9ba9-96a890f86afe",
               "scope": "global",
-              "createdAt": "2025-04-30T05:46:49.445Z",
-              "updatedAt": "2025-04-30T05:47:53.709Z"
+              "createdAt": "2025-04-30T04:41:59.454Z",
+              "updatedAt": "2025-04-30T04:41:59.454Z"
             }
           ],
           "appVersions": [
