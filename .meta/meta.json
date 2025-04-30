@@ -617,10 +617,10 @@
   },
   "b957d334-b49a-4b62-9844-8afe31e77789": {
     "gitAppName": "http Parent app 1",
-    "lastCommitMessage": "Version v2 Created of app http Parent app 1",
+    "lastCommitMessage": "Version v2 is renamed to v2 re",
     "gitVersionId": "6ef59c2c-17ee-4b87-9b9d-21aff85e43e8",
-    "lastpushDate": "2025-04-30T13:30:41.252Z",
-    "gitVersionName": "v2",
+    "lastpushDate": "2025-04-30T13:30:55.546Z",
+    "gitVersionName": "v2 re",
     "lastCommitUser": "The Developer"
   }
 }
