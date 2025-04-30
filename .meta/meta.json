@@ -825,10 +825,10 @@
   },
   "931e442f-95da-4dc4-8dc2-5b3933e43574": {
     "gitAppName": "old app ssh 1",
-    "lastCommitMessage": "button pushed",
-    "gitVersionId": "f0cf878e-5eca-43d3-8bb2-e22d9d84ea8f",
-    "lastpushDate": "2025-04-30T04:41:39.646Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 Created of app old app ssh 1",
+    "gitVersionId": "b6a2a0a3-f23a-4a01-bc5c-b814593350da",
+    "lastpushDate": "2025-04-30T04:44:03.352Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "The Developer"
   }
 }
