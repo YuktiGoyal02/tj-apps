@@ -897,10 +897,10 @@
   },
   "765e1583-4870-4e53-913c-705b0fe661ab": {
     "gitAppName": "parent test 1",
-    "lastCommitMessage": "btn 2 build1",
-    "gitVersionId": "eef7755b-eea9-4e88-a073-66bb55a94b87",
-    "lastpushDate": "2025-04-30T11:03:20.172Z",
+    "lastCommitMessage": "3 btn build2",
+    "gitVersionId": "48db6856-0549-45ba-b726-d35553cfebf4",
+    "lastpushDate": "2025-04-30T11:04:31.797Z",
     "gitVersionName": "v1",
-    "lastCommitUser": "build1 "
+    "lastCommitUser": "build2 "
   }
 }
