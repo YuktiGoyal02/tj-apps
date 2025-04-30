@@ -913,10 +913,10 @@
   },
   "4a03bf49-2490-403e-86c6-d7cb7c7d3668": {
     "gitAppName": "Parent f1",
-    "lastCommitMessage": "b9 in promoted version in parent V8",
-    "gitVersionId": "5be9d553-2621-491b-af21-7dbc1abf1c70",
-    "lastpushDate": "2025-04-30T12:45:41.220Z",
-    "gitVersionName": "V8",
+    "lastCommitMessage": "text field in v4 by child",
+    "gitVersionId": "405c846d-bb32-4bfe-b64e-dd122ffada6c",
+    "lastpushDate": "2025-04-30T12:51:35.129Z",
+    "gitVersionName": "v4",
     "lastCommitUser": "build1 "
   }
 }
