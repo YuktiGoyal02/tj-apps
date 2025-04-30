@@ -912,11 +912,11 @@
     "lastCommitUser": "The Developer"
   },
   "4a03bf49-2490-403e-86c6-d7cb7c7d3668": {
-    "gitAppName": "Parent f1",
-    "lastCommitMessage": "input text by build2",
-    "gitVersionId": "f768b61e-9411-4a6f-b115-fe19d6e4a2fb",
-    "lastpushDate": "2025-04-30T13:02:04.243Z",
+    "gitAppName": "Parent f1 re",
+    "lastCommitMessage": "App Parent f1 is renamed to Parent f1 re",
+    "gitVersionId": "0c9a263e-551d-4bc3-80c9-7f6fd9436e99",
+    "lastpushDate": "2025-04-30T13:09:27.763Z",
     "gitVersionName": "v9",
-    "lastCommitUser": "build2 "
+    "lastCommitUser": "The Developer"
   }
 }
