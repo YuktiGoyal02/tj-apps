@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "7dd9ccb0-5adc-4b01-a6ae-72ccf205ecea",
-          "name": "old app ssh 2",
+          "name": "old app ssh 2 renamed",
           "slug": "7dd9ccb0-5adc-4b01-a6ae-72ccf205ecea",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-04-30T04:49:04.743Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-04-30T05:44:30.626Z",
+          "updatedAt": "2025-04-30T05:51:54.387Z",
           "editingVersion": {
             "id": "06ae8e87-502b-4448-9eb5-a2a21cb73bec",
             "name": "v2",
@@ -234,7 +234,7 @@
               },
               "validation": {},
               "createdAt": "2025-04-30T05:44:41.169Z",
-              "updatedAt": "2025-04-30T05:44:44.709Z",
+              "updatedAt": "2025-04-30T05:51:41.703Z",
               "layouts": [
                 {
                   "id": "549a25a2-6d2a-49dd-9d30-1f3644dbc2b7",
@@ -698,7 +698,7 @@
               },
               "validation": {},
               "createdAt": "2025-04-30T05:44:56.927Z",
-              "updatedAt": "2025-04-30T05:45:12.568Z",
+              "updatedAt": "2025-04-30T05:51:08.254Z",
               "layouts": [
                 {
                   "id": "3f8e820a-abe0-4bea-bc10-24f6ce7a259f",
@@ -801,7 +801,7 @@
               "dataSourceId": "4b5b4040-8b05-48ee-b1ba-ac8e91057ea2",
               "appVersionId": "06ae8e87-502b-4448-9eb5-a2a21cb73bec",
               "createdAt": "2025-04-30T05:44:41.169Z",
-              "updatedAt": "2025-04-30T05:44:41.589Z"
+              "updatedAt": "2025-04-30T05:51:40.342Z"
             },
             {
               "id": "15cabfa3-02a3-4d0c-aa55-c3e3936da885",
@@ -816,7 +816,7 @@
               "dataSourceId": "43e35379-c52a-4391-a3d5-125867de7d9d",
               "appVersionId": "06ae8e87-502b-4448-9eb5-a2a21cb73bec",
               "createdAt": "2025-04-30T05:44:41.169Z",
-              "updatedAt": "2025-04-30T05:44:42.302Z"
+              "updatedAt": "2025-04-30T05:51:41.059Z"
             },
             {
               "id": "c8c64c5b-af68-4ffe-858f-9abee3f776cc",
@@ -863,7 +863,7 @@
               "dataSourceId": "18f3cd5c-906f-4915-b710-6aa14590ec91",
               "appVersionId": "06ae8e87-502b-4448-9eb5-a2a21cb73bec",
               "createdAt": "2025-04-30T05:44:41.169Z",
-              "updatedAt": "2025-04-30T05:44:44.707Z"
+              "updatedAt": "2025-04-30T05:51:41.702Z"
             },
             {
               "id": "35ecefae-8344-40db-879a-f69f58b03be6",
@@ -878,7 +878,7 @@
               "dataSourceId": "4ab01a1d-7d60-4b14-a9da-6df8be156d75",
               "appVersionId": "06ae8e87-502b-4448-9eb5-a2a21cb73bec",
               "createdAt": "2025-04-30T05:44:53.785Z",
-              "updatedAt": "2025-04-30T05:45:02.077Z"
+              "updatedAt": "2025-04-30T05:51:42.540Z"
             }
           ],
           "dataSources": [
@@ -1632,5 +1632,5 @@
       }
     }
   ],
-  "tooljet_version": "3.5.31-ee-lts"
+  "tooljet_version": "3.5.33-ee-lts"
 }
