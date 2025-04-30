@@ -20,7 +20,7 @@
           "updatedAt": "2025-04-30T05:53:05.281Z",
           "editingVersion": {
             "id": "06ae8e87-502b-4448-9eb5-a2a21cb73bec",
-            "name": "v2",
+            "name": "v2-dev",
             "definition": null,
             "globalSettings": {
               "hideHeader": false,
@@ -39,7 +39,7 @@
             "currentEnvironmentId": "d26c6724-8412-4283-ab7c-6b26c31eec2c",
             "promotedFrom": null,
             "createdAt": "2025-04-30T05:44:41.179Z",
-            "updatedAt": "2025-04-30T05:44:41.169Z"
+            "updatedAt": "2025-04-30T05:58:42.889Z"
           },
           "components": [
             {
@@ -1010,18 +1010,6 @@
               "updatedAt": "2025-04-30T04:34:57.498Z"
             },
             {
-              "id": "43e35379-c52a-4391-a3d5-125867de7d9d",
-              "name": "postgresql",
-              "kind": "postgresql",
-              "type": "default",
-              "pluginId": null,
-              "appVersionId": null,
-              "organizationId": "cfcc97a8-0e36-4539-8043-fc040e16a697",
-              "scope": "global",
-              "createdAt": "2025-04-30T04:49:20.743Z",
-              "updatedAt": "2025-04-30T04:51:40.609Z"
-            },
-            {
               "id": "4b5b4040-8b05-48ee-b1ba-ac8e91057ea2",
               "name": "restapi",
               "kind": "restapi",
@@ -1032,12 +1020,24 @@
               "scope": "global",
               "createdAt": "2025-04-30T04:49:33.950Z",
               "updatedAt": "2025-04-30T04:50:19.067Z"
+            },
+            {
+              "id": "43e35379-c52a-4391-a3d5-125867de7d9d",
+              "name": "postgresql",
+              "kind": "postgresql",
+              "type": "default",
+              "pluginId": null,
+              "appVersionId": null,
+              "organizationId": "cfcc97a8-0e36-4539-8043-fc040e16a697",
+              "scope": "global",
+              "createdAt": "2025-04-30T04:49:20.743Z",
+              "updatedAt": "2025-04-30T04:51:40.609Z"
             }
           ],
           "appVersions": [
             {
               "id": "06ae8e87-502b-4448-9eb5-a2a21cb73bec",
-              "name": "v2",
+              "name": "v2-dev",
               "definition": null,
               "globalSettings": {
                 "hideHeader": false,
@@ -1056,7 +1056,7 @@
               "currentEnvironmentId": "d26c6724-8412-4283-ab7c-6b26c31eec2c",
               "promotedFrom": null,
               "createdAt": "2025-04-30T05:44:41.179Z",
-              "updatedAt": "2025-04-30T05:44:41.169Z"
+              "updatedAt": "2025-04-30T05:58:42.889Z"
             }
           ],
           "appEnvironments": [
