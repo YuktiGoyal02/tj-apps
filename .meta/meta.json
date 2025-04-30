@@ -617,11 +617,11 @@
   },
   "b957d334-b49a-4b62-9844-8afe31e77789": {
     "gitAppName": "http Parent app 1",
-    "lastCommitMessage": "Version v5 is renamed to v5 renam",
-    "gitVersionId": "5c1aca69-2400-412f-a4d7-482d11e4c101",
-    "lastpushDate": "2025-04-30T14:20:40.645Z",
+    "lastCommitMessage": " v5 renam Version of app http Parent app 1 promoted from development to staging",
+    "gitVersionId": "07a43cb9-f3e5-4e49-8be1-d799090f3df4",
+    "lastpushDate": "2025-04-30T14:21:18.296Z",
     "gitVersionName": "v5 renam",
-    "lastCommitUser": "build2 "
+    "lastCommitUser": "build1 "
   },
   "0832f6bb-1c03-477d-b0b8-fe8fb80e40d2": {
     "gitAppName": "test 11111",
