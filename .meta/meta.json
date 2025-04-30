@@ -616,10 +616,10 @@
     "lastCommitUser": "lts-dev "
   },
   "b957d334-b49a-4b62-9844-8afe31e77789": {
-    "gitAppName": "http Parent app 1",
-    "lastCommitMessage": "App http Parent app 1 created",
+    "gitAppName": "http Parent app 1 renamed",
+    "lastCommitMessage": "App http Parent app 1 re is renamed to http Parent app 1 renamed",
     "gitVersionId": "16f1613e-726e-4641-8834-9ca7c5dda257",
-    "lastpushDate": "2025-04-30T13:25:44.089Z",
+    "lastpushDate": "2025-04-30T13:29:09.323Z",
     "gitVersionName": "v1",
     "lastCommitUser": "The Developer"
   }
