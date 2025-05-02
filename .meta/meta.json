@@ -929,10 +929,10 @@
   },
   "89f3c29d-c7d7-49ca-bdcb-5e087b96a838": {
     "gitAppName": "ee http pull app pr 12",
-    "lastCommitMessage": "text in v1",
-    "gitVersionId": "e17c8e10-5b46-45db-b49a-ee3afa5df5bc",
-    "lastpushDate": "2025-05-02T12:17:50.593Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "commit in v2",
+    "gitVersionId": "d7703a9d-b5ed-41d0-893f-97b555c13df6",
+    "lastpushDate": "2025-05-02T14:42:25.340Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "end2 "
   },
   "12824b6c-151a-445a-90c2-a5c1df925817": {
