@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "00fdf3ae-3725-42b4-8bdc-5cf833e8ac94",
-          "name": "ssh pull app",
+          "name": "ssh pull app re",
           "slug": "00fdf3ae-3725-42b4-8bdc-5cf833e8ac94",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-05-02T07:50:12.037Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-05-02T07:50:12.036Z",
+          "updatedAt": "2025-05-02T11:00:43.886Z",
           "editingVersion": {
             "id": "bdd086c9-dd90-444e-9680-08962ffd1d34",
             "name": "v1",
@@ -130,5 +130,5 @@
       }
     }
   ],
-  "tooljet_version": "3.5.31-ee-lts"
+  "tooljet_version": "3.5.33-ee-lts"
 }
