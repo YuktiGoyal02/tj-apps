@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "8eddf2c0-f644-4734-baf8-f79487bf35f7",
-          "name": "final app ssh 1 ch - build1 ",
+          "name": "final app ssh 1 ch - build1",
           "slug": "8eddf2c0-f644-4734-baf8-f79487bf35f7",
           "isPublic": false,
           "isMaintenanceOn": false,
@@ -17,10 +17,10 @@
           "workflowEnabled": false,
           "createdAt": "2025-05-02T06:51:02.864Z",
           "creationMode": "GIT",
-          "updatedAt": "2025-05-02T06:51:55.256Z",
+          "updatedAt": "2025-05-02T06:55:54.072Z",
           "editingVersion": {
             "id": "f821e39d-0b3a-4b62-97b1-467ba828733c",
-            "name": "v5",
+            "name": "v5 re",
             "definition": null,
             "globalSettings": {
               "hideHeader": false,
@@ -46,7 +46,7 @@
             "currentEnvironmentId": "0ed8022d-eee1-4443-b185-d8fdcd9c5142",
             "promotedFrom": null,
             "createdAt": "2025-05-02T06:54:58.787Z",
-            "updatedAt": "2025-05-02T06:54:58.773Z"
+            "updatedAt": "2025-05-02T06:56:03.547Z"
           },
           "components": [
             {
@@ -1338,7 +1338,7 @@
           "appVersions": [
             {
               "id": "f821e39d-0b3a-4b62-97b1-467ba828733c",
-              "name": "v5",
+              "name": "v5 re",
               "definition": null,
               "globalSettings": {
                 "hideHeader": false,
@@ -1364,7 +1364,7 @@
               "currentEnvironmentId": "0ed8022d-eee1-4443-b185-d8fdcd9c5142",
               "promotedFrom": null,
               "createdAt": "2025-05-02T06:54:58.787Z",
-              "updatedAt": "2025-05-02T06:54:58.773Z"
+              "updatedAt": "2025-05-02T06:56:03.547Z"
             }
           ],
           "appEnvironments": [
