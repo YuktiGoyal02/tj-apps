@@ -934,5 +934,13 @@
     "lastpushDate": "2025-05-02T12:17:50.593Z",
     "gitVersionName": "v1",
     "lastCommitUser": "end2 "
+  },
+  "12824b6c-151a-445a-90c2-a5c1df925817": {
+    "gitAppName": "test http commit",
+    "lastCommitMessage": "App test http commit created",
+    "gitVersionId": "4a52ebb0-6498-4767-b2ac-4b3b2eb1d9a8",
+    "lastpushDate": "2025-05-02T12:23:50.790Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "lts-dev "
   }
 }
