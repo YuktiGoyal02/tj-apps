@@ -673,10 +673,10 @@
   },
   "00fdf3ae-3725-42b4-8bdc-5cf833e8ac94": {
     "gitAppName": "ssh pull app re",
-    "lastCommitMessage": "Version v2 Created of app ssh pull app re",
+    "lastCommitMessage": "Version v2 is renamed to v2re",
     "gitVersionId": "fc4702fa-783b-4d52-b9bf-75369f9d4f43",
-    "lastpushDate": "2025-05-02T11:02:47.067Z",
-    "gitVersionName": "v2",
+    "lastpushDate": "2025-05-02T11:03:43.652Z",
+    "gitVersionName": "v2re",
     "lastCommitUser": "lts-dev "
   }
 }
