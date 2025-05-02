@@ -673,10 +673,10 @@
   },
   "00fdf3ae-3725-42b4-8bdc-5cf833e8ac94": {
     "gitAppName": "ssh pull app ch re",
-    "lastCommitMessage": "btn 5 by build1",
-    "gitVersionId": "c4c8cd9a-c250-42b5-8a77-ec2620d18126",
-    "lastpushDate": "2025-05-02T11:17:33.271Z",
-    "gitVersionName": "v4 re",
+    "lastCommitMessage": "Version v5 Created of app ssh pull app ch re",
+    "gitVersionId": "0f29c346-8f14-476a-893b-0907ca59658f",
+    "lastpushDate": "2025-05-02T11:18:47.074Z",
+    "gitVersionName": "v5",
     "lastCommitUser": "end1 "
   }
 }
