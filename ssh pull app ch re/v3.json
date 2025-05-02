@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "00fdf3ae-3725-42b4-8bdc-5cf833e8ac94",
-          "name": "ssh pull app re",
+          "name": "ssh pull app ch re",
           "slug": "00fdf3ae-3725-42b4-8bdc-5cf833e8ac94",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-05-02T07:50:12.037Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-05-02T11:00:43.886Z",
+          "updatedAt": "2025-05-02T11:10:06.802Z",
           "editingVersion": {
             "id": "9a5b2dfd-a605-4080-957e-5615c3fe4796",
             "name": "v3",
