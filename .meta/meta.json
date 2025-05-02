@@ -928,10 +928,10 @@
     "lastCommitUser": "build1 "
   },
   "89f3c29d-c7d7-49ca-bdcb-5e087b96a838": {
-    "gitAppName": "ee http pull app",
-    "lastCommitMessage": "btn 1",
+    "gitAppName": "ee http pull app pr",
+    "lastCommitMessage": "App ee http pull app is renamed to ee http pull app pr",
     "gitVersionId": "b442ed28-ce06-41a7-adb4-8a86eeee2748",
-    "lastpushDate": "2025-05-02T12:05:00.602Z",
+    "lastpushDate": "2025-05-02T12:08:41.973Z",
     "gitVersionName": "v1",
     "lastCommitUser": "lts-dev "
   }

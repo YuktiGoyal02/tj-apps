@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "89f3c29d-c7d7-49ca-bdcb-5e087b96a838",
-          "name": "ee http pull app",
+          "name": "ee http pull app pr",
           "slug": "89f3c29d-c7d7-49ca-bdcb-5e087b96a838",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-05-02T07:52:39.110Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-05-02T07:52:39.110Z",
+          "updatedAt": "2025-05-02T12:08:41.053Z",
           "editingVersion": {
             "id": "b442ed28-ce06-41a7-adb4-8a86eeee2748",
             "name": "v1",
