@@ -673,10 +673,10 @@
   },
   "00fdf3ae-3725-42b4-8bdc-5cf833e8ac94": {
     "gitAppName": "ssh pull app ch re",
-    "lastCommitMessage": " v5 Version of app ssh pull app ch re promoted from development to staging",
-    "gitVersionId": "30667fc2-e875-482e-84a9-a9ad151e1896",
-    "lastpushDate": "2025-05-02T11:36:54.005Z",
+    "lastCommitMessage": "b5 in v5",
+    "gitVersionId": "24a41bc2-e57c-4089-b2fd-fad654975c8d",
+    "lastpushDate": "2025-05-02T11:37:29.687Z",
     "gitVersionName": "v5",
-    "lastCommitUser": "lts-dev "
+    "lastCommitUser": "end2 "
   }
 }
