@@ -950,5 +950,13 @@
     "lastpushDate": "2025-05-15T08:10:44.150Z",
     "gitVersionName": "v5",
     "lastCommitUser": "The Developer"
+  },
+  "76ba21dc-2955-4ad7-aa25-70efba25c433": {
+    "gitAppName": "admissions-(global)-gitlab",
+    "lastCommitMessage": "App admissions-(global)-ssh is renamed to admissions-(global)-gitlab",
+    "gitVersionId": "c76c08eb-1d79-4763-8fd9-c85f1423d465",
+    "lastpushDate": "2025-05-15T14:58:07.250Z",
+    "gitVersionName": "v4",
+    "lastCommitUser": "The Developer"
   }
 }
