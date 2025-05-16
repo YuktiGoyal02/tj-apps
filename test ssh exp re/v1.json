@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "f7e53211-8b12-4808-87cd-b141a4912eb4",
-          "name": "test ssh exp",
+          "name": "test ssh exp re",
           "slug": "f7e53211-8b12-4808-87cd-b141a4912eb4",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-05-16T13:09:45.399Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-05-16T13:09:45.398Z",
+          "updatedAt": "2025-05-16T13:11:53.841Z",
           "editingVersion": {
             "id": "261beb38-d725-4575-83e8-8b7b9e4c810b",
             "name": "v1",
