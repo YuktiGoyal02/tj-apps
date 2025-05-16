@@ -977,10 +977,10 @@
   },
   "f7e53211-8b12-4808-87cd-b141a4912eb4": {
     "gitAppName": "test ssh exp re",
-    "lastCommitMessage": "btn",
-    "gitVersionId": "261beb38-d725-4575-83e8-8b7b9e4c810b",
-    "lastpushDate": "2025-05-16T13:13:15.658Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 Created of app test ssh exp re",
+    "gitVersionId": "095113a1-5283-429c-94a0-27c9f7e360f2",
+    "lastpushDate": "2025-05-16T13:14:09.675Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "The Developer"
   }
 }
