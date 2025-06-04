@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "2fa6cb57-a81c-4c4f-9552-3bab9415430c",
-          "name": "app new check",
+          "name": "app new check test",
           "slug": "2fa6cb57-a81c-4c4f-9552-3bab9415430c",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-06-04T05:58:12.263Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-04T05:58:12.261Z",
+          "updatedAt": "2025-06-04T06:01:19.523Z",
           "editingVersion": {
             "id": "039e47be-2c03-4ffb-bc90-aa78d9dc802c",
             "name": "v1",
