@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "12c25d52-00db-4661-a557-d54fe68e3e87",
-          "name": "app cloud",
+          "name": "app cloud rename check",
           "slug": "12c25d52-00db-4661-a557-d54fe68e3e87",
           "isPublic": false,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-06-04T06:06:49.670Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-04T06:06:49.661Z",
+          "updatedAt": "2025-06-04T06:08:09.468Z",
           "editingVersion": {
             "id": "db784438-886f-465b-ab74-52158475c479",
             "name": "v1",
