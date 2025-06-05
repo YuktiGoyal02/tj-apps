@@ -518,6 +518,246 @@
                   "updatedAt": "2025-06-05T10:16:40.594Z"
                 }
               ]
+            },
+            {
+              "id": "4b5e692e-f8ea-4107-a88f-fe160050efd1",
+              "name": "button2",
+              "type": "Button",
+              "pageId": "d0057fed-ae9d-4c52-b7a0-8695a0303c5e",
+              "parent": null,
+              "properties": {
+                "text": {
+                  "value": "Button"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "tooltip": {
+                  "value": ""
+                }
+              },
+              "general": {},
+              "styles": {
+                "textColor": {
+                  "value": "#FFFFFF"
+                },
+                "borderColor": {
+                  "value": "#4368E3"
+                },
+                "loaderColor": {
+                  "value": "#FFFFFF"
+                },
+                "borderRadius": {
+                  "value": "{{6}}"
+                },
+                "backgroundColor": {
+                  "value": "#4368E3"
+                },
+                "iconColor": {
+                  "value": "#FFFFFF"
+                },
+                "direction": {
+                  "value": "left"
+                },
+                "padding": {
+                  "value": "default"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000090"
+                },
+                "icon": {
+                  "value": "IconAlignBoxBottomLeft"
+                },
+                "iconVisibility": {
+                  "value": false
+                },
+                "type": {
+                  "value": "primary"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2025-06-05T10:24:13.885Z",
+              "updatedAt": "2025-06-05T10:24:13.885Z",
+              "layouts": [
+                {
+                  "id": "4847ac43-c158-4ff9-8922-a9eaf7208e6f",
+                  "type": "desktop",
+                  "top": 150,
+                  "left": 30,
+                  "width": 4,
+                  "height": 40,
+                  "componentId": "4b5e692e-f8ea-4107-a88f-fe160050efd1",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-06-05T10:24:13.885Z"
+                },
+                {
+                  "id": "c9d3fa2c-5627-41ab-82cd-d0625b468567",
+                  "type": "mobile",
+                  "top": 150,
+                  "left": 30,
+                  "width": 4,
+                  "height": 40,
+                  "componentId": "4b5e692e-f8ea-4107-a88f-fe160050efd1",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-06-05T10:24:13.885Z"
+                }
+              ]
+            },
+            {
+              "id": "e013fb2c-41db-4a4e-8f35-982579cf79c8",
+              "name": "textinput2",
+              "type": "TextInput",
+              "pageId": "d0057fed-ae9d-4c52-b7a0-8695a0303c5e",
+              "parent": null,
+              "properties": {
+                "value": {
+                  "value": ""
+                },
+                "label": {
+                  "value": "Label"
+                },
+                "placeholder": {
+                  "value": "Enter your input"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "tooltip": {
+                  "value": ""
+                }
+              },
+              "general": {},
+              "styles": {
+                "textColor": {
+                  "value": "#1B1F24"
+                },
+                "borderColor": {
+                  "value": "#CCD1D5"
+                },
+                "accentColor": {
+                  "value": "#4368E3"
+                },
+                "errTextColor": {
+                  "value": "#D72D39"
+                },
+                "borderRadius": {
+                  "value": "{{6}}"
+                },
+                "backgroundColor": {
+                  "value": "#fff"
+                },
+                "iconColor": {
+                  "value": "#CFD3D859"
+                },
+                "direction": {
+                  "value": "left"
+                },
+                "width": {
+                  "value": "{{33}}"
+                },
+                "alignment": {
+                  "value": "side"
+                },
+                "color": {
+                  "value": "#1B1F24"
+                },
+                "auto": {
+                  "value": "{{true}}"
+                },
+                "padding": {
+                  "value": "default"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                },
+                "icon": {
+                  "value": "IconHome2"
+                },
+                "iconVisibility": {
+                  "value": false
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {
+                "mandatory": {
+                  "value": "{{false}}"
+                },
+                "regex": {
+                  "value": ""
+                },
+                "minLength": {
+                  "value": ""
+                },
+                "maxLength": {
+                  "value": ""
+                },
+                "customRule": {
+                  "value": ""
+                }
+              },
+              "createdAt": "2025-06-05T10:24:18.133Z",
+              "updatedAt": "2025-06-05T10:24:18.133Z",
+              "layouts": [
+                {
+                  "id": "cc108e94-b585-4dd2-af32-6b8becdf1062",
+                  "type": "desktop",
+                  "top": 150,
+                  "left": 19,
+                  "width": 10,
+                  "height": 40,
+                  "componentId": "e013fb2c-41db-4a4e-8f35-982579cf79c8",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-06-05T10:24:18.133Z"
+                },
+                {
+                  "id": "b54662af-f105-44f7-b631-f57365537d43",
+                  "type": "mobile",
+                  "top": 150,
+                  "left": 19,
+                  "width": 10,
+                  "height": 40,
+                  "componentId": "e013fb2c-41db-4a4e-8f35-982579cf79c8",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-06-05T10:24:18.133Z"
+                }
+              ]
             }
           ],
           "pages": [
