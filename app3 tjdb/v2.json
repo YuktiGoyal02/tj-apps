@@ -1081,6 +1081,143 @@
                   "updatedAt": "2025-06-05T10:55:03.970Z"
                 }
               ]
+            },
+            {
+              "id": "5ff50362-4425-476d-a879-9934e22a06ec",
+              "name": "textinput3",
+              "type": "TextInput",
+              "pageId": "e59f7ef4-fab7-4cda-a1a0-58a5230653d8",
+              "parent": null,
+              "properties": {
+                "value": {
+                  "value": ""
+                },
+                "label": {
+                  "value": "Label"
+                },
+                "placeholder": {
+                  "value": "Enter your input"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "tooltip": {
+                  "value": ""
+                }
+              },
+              "general": {},
+              "styles": {
+                "textColor": {
+                  "value": "#1B1F24"
+                },
+                "borderColor": {
+                  "value": "#CCD1D5"
+                },
+                "accentColor": {
+                  "value": "#4368E3"
+                },
+                "errTextColor": {
+                  "value": "#D72D39"
+                },
+                "borderRadius": {
+                  "value": "{{6}}"
+                },
+                "backgroundColor": {
+                  "value": "#fff"
+                },
+                "iconColor": {
+                  "value": "#CFD3D859"
+                },
+                "direction": {
+                  "value": "left"
+                },
+                "width": {
+                  "value": "{{33}}"
+                },
+                "alignment": {
+                  "value": "side"
+                },
+                "color": {
+                  "value": "#1B1F24"
+                },
+                "auto": {
+                  "value": "{{true}}"
+                },
+                "padding": {
+                  "value": "default"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                },
+                "icon": {
+                  "value": "IconHome2"
+                },
+                "iconVisibility": {
+                  "value": false
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {
+                "mandatory": {
+                  "value": "{{false}}"
+                },
+                "regex": {
+                  "value": ""
+                },
+                "minLength": {
+                  "value": ""
+                },
+                "maxLength": {
+                  "value": ""
+                },
+                "customRule": {
+                  "value": ""
+                }
+              },
+              "createdAt": "2025-06-05T10:58:00.650Z",
+              "updatedAt": "2025-06-05T10:58:00.650Z",
+              "layouts": [
+                {
+                  "id": "4b9e4860-a7d0-4ba7-9ea8-545f8b8befe0",
+                  "type": "desktop",
+                  "top": 360,
+                  "left": 27,
+                  "width": 10,
+                  "height": 40,
+                  "componentId": "5ff50362-4425-476d-a879-9934e22a06ec",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-06-05T10:58:00.650Z"
+                },
+                {
+                  "id": "fc7f78e7-de52-4590-a1fd-2ae82451d321",
+                  "type": "mobile",
+                  "top": 360,
+                  "left": 27,
+                  "width": 10,
+                  "height": 40,
+                  "componentId": "5ff50362-4425-476d-a879-9934e22a06ec",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-06-05T10:58:00.650Z"
+                }
+              ]
             }
           ],
           "pages": [
