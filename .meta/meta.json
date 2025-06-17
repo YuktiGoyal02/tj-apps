@@ -1065,10 +1065,10 @@
   },
   "a525d64b-103d-4534-8512-d6c508d02417": {
     "gitAppName": "ssh2 name",
-    "lastCommitMessage": "btn1",
-    "gitVersionId": "9a6465f0-111f-43a9-8302-a14280890209",
-    "lastpushDate": "2025-06-17T04:49:42.522Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 Created of app ssh2 name",
+    "gitVersionId": "61d30a9a-f8ef-4be9-a985-ecd4f803a996",
+    "lastpushDate": "2025-06-17T04:50:35.070Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "yukti "
   }
 }
