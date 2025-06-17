@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "a525d64b-103d-4534-8512-d6c508d02417",
-          "name": "ssh2",
+          "name": "ssh2 name",
           "slug": "a525d64b-103d-4534-8512-d6c508d02417",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-06-17T04:46:20.030Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-17T04:46:20.030Z",
+          "updatedAt": "2025-06-17T04:47:42.352Z",
           "editingVersion": {
             "id": "9a6465f0-111f-43a9-8302-a14280890209",
             "name": "v1",

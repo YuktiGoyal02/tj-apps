@@ -1064,10 +1064,10 @@
     "lastCommitUser": "yukti "
   },
   "a525d64b-103d-4534-8512-d6c508d02417": {
-    "gitAppName": "ssh2",
-    "lastCommitMessage": "App ssh2 created",
+    "gitAppName": "ssh2 name",
+    "lastCommitMessage": "App ssh2 is renamed to ssh2 name",
     "gitVersionId": "9a6465f0-111f-43a9-8302-a14280890209",
-    "lastpushDate": "2025-06-17T04:46:52.037Z",
+    "lastpushDate": "2025-06-17T04:47:54.165Z",
     "gitVersionName": "v1",
     "lastCommitUser": "yukti "
   }
