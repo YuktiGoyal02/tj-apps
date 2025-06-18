@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "710f5264-63a1-4353-81f8-22c53919fa63",
-          "name": "custom b app",
+          "name": "custom b",
           "slug": "710f5264-63a1-4353-81f8-22c53919fa63",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-06-18T06:53:01.295Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-18T06:53:01.294Z",
+          "updatedAt": "2025-06-18T08:07:35.562Z",
           "editingVersion": {
             "id": "e103f398-04a4-40d7-9576-d61355b8bfc8",
             "name": "v1",
