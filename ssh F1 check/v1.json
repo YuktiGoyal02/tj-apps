@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "16622220-9dec-4c10-af13-766315a599b1",
-          "name": "ssh F1",
+          "name": "ssh F1 check",
           "slug": "16622220-9dec-4c10-af13-766315a599b1",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-06-18T14:05:10.350Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-18T14:05:10.350Z",
+          "updatedAt": "2025-06-18T14:06:41.472Z",
           "editingVersion": {
             "id": "f1b3d713-ce64-46b0-9a00-2575a7dbd0fb",
             "name": "v1",
