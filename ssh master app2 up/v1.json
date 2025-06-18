@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "e8ef1fd5-9031-4abf-a442-f889cdb87b5c",
-          "name": "ssh master app2",
+          "name": "ssh master app2 up",
           "slug": "e8ef1fd5-9031-4abf-a442-f889cdb87b5c",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-06-18T11:49:56.327Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-18T11:49:56.327Z",
+          "updatedAt": "2025-06-18T11:53:43.936Z",
           "editingVersion": {
             "id": "d5b49919-1dbf-4a7c-b0f9-60b093f3d166",
             "name": "v1",
