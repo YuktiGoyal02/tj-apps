@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "13d3576d-25d7-45c5-ac01-ab8b3f5f0018",
-          "name": "github master app F1",
+          "name": "github master app F1 ch",
           "slug": "13d3576d-25d7-45c5-ac01-ab8b3f5f0018",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-06-18T13:49:36.578Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-18T13:49:36.577Z",
+          "updatedAt": "2025-06-18T13:53:01.311Z",
           "editingVersion": {
             "id": "d122d8b7-943d-4225-8324-0cc3ded03615",
             "name": "v1",
