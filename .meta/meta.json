@@ -1104,10 +1104,10 @@
     "lastCommitUser": "The Developer"
   },
   "70ab5085-53a5-40ce-9c14-8494793769ec": {
-    "gitAppName": "github master app 1",
-    "lastCommitMessage": "input in github",
+    "gitAppName": "github master app 1 upd",
+    "lastCommitMessage": "App github master app 1 is renamed to github master app 1 upd",
     "gitVersionId": "ad1cbe73-cdfb-41f5-a41f-2238af246706",
-    "lastpushDate": "2025-06-18T09:18:20.063Z",
+    "lastpushDate": "2025-06-18T12:34:52.890Z",
     "gitVersionName": "v1",
     "lastCommitUser": "The Developer"
   },
