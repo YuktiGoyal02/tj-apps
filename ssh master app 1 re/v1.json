@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "cc2d1bf5-b699-4c2f-822f-cf2124f7f224",
-          "name": "ssh master app 1",
+          "name": "ssh master app 1 re",
           "slug": "cc2d1bf5-b699-4c2f-822f-cf2124f7f224",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -15,13 +15,9 @@
           "userId": "a6c18d3c-aaf9-4f02-87b5-88213b10c60e",
           "workflowApiToken": null,
           "workflowEnabled": false,
-          "isInitialisedFromPrompt": false,
-          "appGeneratedFromPrompt": false,
-          "appBuilderMode": "visual",
-          "aiGenerationMetadata": null,
           "createdAt": "2025-06-18T09:09:06.618Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-18T09:09:06.617Z",
+          "updatedAt": "2025-06-18T10:06:08.313Z",
           "editingVersion": {
             "id": "0f0674cc-01cd-4ce8-a68a-3a853393b9a7",
             "name": "v1",
@@ -238,5 +234,5 @@
       }
     }
   ],
-  "tooljet_version": "3.5.53-ee-lts"
+  "tooljet_version": "3.14.0-ee"
 }
