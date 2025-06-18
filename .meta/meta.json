@@ -1113,10 +1113,10 @@
   },
   "e8ef1fd5-9031-4abf-a442-f889cdb87b5c": {
     "gitAppName": "ssh master app2 up",
-    "lastCommitMessage": "App ssh master app2 is renamed to ssh master app2 up",
-    "gitVersionId": "d5b49919-1dbf-4a7c-b0f9-60b093f3d166",
-    "lastpushDate": "2025-06-18T11:53:55.965Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 Created of app ssh master app2 up",
+    "gitVersionId": "871bc07c-4b1c-4674-8f31-fa31fe5f7272",
+    "lastpushDate": "2025-06-18T11:55:39.992Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "The Developer"
   }
 }
