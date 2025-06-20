@@ -1169,10 +1169,10 @@
   },
   "9a337557-a400-4bd3-947f-92455da1f434": {
     "gitAppName": "ssh 1 reupdate",
-    "lastCommitMessage": "Version v7 is renamed to v7 test after promote",
-    "gitVersionId": "dbe68c83-f1d9-4923-9537-fbe1e9661634",
-    "lastpushDate": "2025-06-20T11:49:58.857Z",
-    "gitVersionName": "v7 test after promote",
+    "lastCommitMessage": "Version v7 Created of app ssh 1 reupdate",
+    "gitVersionId": "b253c417-fe8c-47af-b820-29b17fd51e1d",
+    "lastpushDate": "2025-06-20T11:56:21.326Z",
+    "gitVersionName": "v7",
     "lastCommitUser": "build1 "
   }
 }
