@@ -1168,11 +1168,11 @@
     "lastCommitUser": "Yukti "
   },
   "9a337557-a400-4bd3-947f-92455da1f434": {
-    "gitAppName": "ssh 1",
-    "lastCommitMessage": "b2 in v1",
+    "gitAppName": "ssh 1 reupdate",
+    "lastCommitMessage": "App ssh 1 is renamed to ssh 1 reupdate",
     "gitVersionId": "1f9d9b65-21ad-4139-af05-4523f1a45b9e",
-    "lastpushDate": "2025-06-20T10:55:57.677Z",
+    "lastpushDate": "2025-06-20T11:11:32.720Z",
     "gitVersionName": "v1",
-    "lastCommitUser": "build1 "
+    "lastCommitUser": "Yukti "
   }
 }

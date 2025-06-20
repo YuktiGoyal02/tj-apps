@@ -5,7 +5,7 @@
         "appV2": {
           "type": "front-end",
           "id": "9a337557-a400-4bd3-947f-92455da1f434",
-          "name": "ssh 1",
+          "name": "ssh 1 reupdate",
           "slug": "9a337557-a400-4bd3-947f-92455da1f434",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-06-20T10:36:37.188Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-20T10:53:24.786Z",
+          "updatedAt": "2025-06-20T11:11:23.470Z",
           "editingVersion": {
             "id": "e4e0fe68-9399-42b7-9567-7919db65204c",
             "name": "v3",
