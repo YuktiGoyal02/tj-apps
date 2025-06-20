@@ -1169,10 +1169,10 @@
   },
   "9a337557-a400-4bd3-947f-92455da1f434": {
     "gitAppName": "ssh 1 reupdate",
-    "lastCommitMessage": " v4 ch Version of app ssh 1 reupdate promoted from development to staging",
-    "gitVersionId": "90e79ca9-d22c-416f-8f72-329a5207dc88",
-    "lastpushDate": "2025-06-20T11:23:46.217Z",
-    "gitVersionName": "v4 ch",
-    "lastCommitUser": "Yukti "
+    "lastCommitMessage": "Version v6 Created of app ssh 1 reupdate",
+    "gitVersionId": "b5004d17-0827-4385-bff5-303708bbc3ad",
+    "lastpushDate": "2025-06-20T11:31:24.243Z",
+    "gitVersionName": "v6",
+    "lastCommitUser": "build1 "
   }
 }
