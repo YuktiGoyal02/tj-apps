@@ -1153,10 +1153,10 @@
   },
   "e77514d8-1005-4d00-b6fe-3eb885bf4e41": {
     "gitAppName": "ssh a2",
-    "lastCommitMessage": "App ssh a2 created",
-    "gitVersionId": "6f131ee4-5d95-4010-b053-2db6c98cb4b7",
-    "lastpushDate": "2025-06-20T10:17:41.603Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 Created of app ssh a2",
+    "gitVersionId": "21fee7c1-6744-4015-9413-3c54d9491b86",
+    "lastpushDate": "2025-06-20T10:21:04.252Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "Yukti "
   }
 }
