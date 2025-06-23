@@ -19,8 +19,8 @@
           "creationMode": "DEFAULT",
           "updatedAt": "2025-06-23T11:48:05.931Z",
           "editingVersion": {
-            "id": "f559a765-7b1f-4d7d-9a6e-09fc8316d2e1",
-            "name": "v1",
+            "id": "f9f415c1-09df-435f-b403-80d1cfb06ba6",
+            "name": "v2",
             "definition": null,
             "globalSettings": {
               "hideHeader": false,
@@ -34,19 +34,19 @@
             },
             "pageSettings": null,
             "showViewerNavigation": true,
-            "homePageId": "22e93eb0-39d6-427c-9eb6-66b18f858ca1",
+            "homePageId": "26a46af5-83fb-4446-9009-92c7d953a9b1",
             "appId": "8c712454-ac5a-40b9-91fa-60aee5bc591e",
             "currentEnvironmentId": "6cfd2600-91e6-43b9-933e-4a5e3b2bd63a",
             "promotedFrom": null,
-            "createdAt": "2025-06-23T11:48:05.983Z",
-            "updatedAt": "2025-06-23T11:48:05.931Z"
+            "createdAt": "2025-06-23T12:05:34.829Z",
+            "updatedAt": "2025-06-23T12:05:34.818Z"
           },
           "components": [
             {
-              "id": "e2422cb3-0c64-4b51-894e-2eb62e59969a",
+              "id": "11599a6c-5d0d-493c-9e7a-d3a7f9e49e9b",
               "name": "button1",
               "type": "Button",
-              "pageId": "22e93eb0-39d6-427c-9eb6-66b18f858ca1",
+              "pageId": "26a46af5-83fb-4446-9009-92c7d953a9b1",
               "parent": null,
               "properties": {
                 "text": {
@@ -118,47 +118,47 @@
                 }
               },
               "validation": {},
-              "createdAt": "2025-06-23T11:51:50.986Z",
-              "updatedAt": "2025-06-23T11:51:50.986Z",
+              "createdAt": "2025-06-23T12:05:34.818Z",
+              "updatedAt": "2025-06-23T12:05:34.818Z",
               "layouts": [
                 {
-                  "id": "5fa67c0f-df40-46b1-849f-80c9fd6c37de",
+                  "id": "a33ee7c0-f11f-498f-8825-266b3208a307",
                   "type": "desktop",
                   "top": 60,
                   "left": 4,
                   "width": 4,
                   "height": 40,
-                  "componentId": "e2422cb3-0c64-4b51-894e-2eb62e59969a",
+                  "componentId": "11599a6c-5d0d-493c-9e7a-d3a7f9e49e9b",
                   "dimensionUnit": "count",
-                  "updatedAt": "2025-06-23T11:51:50.986Z"
+                  "updatedAt": "2025-06-23T12:05:34.818Z"
                 },
                 {
-                  "id": "8dfc8275-7932-42de-b1ee-23c42d896939",
+                  "id": "f9a868d7-4789-411a-804a-0f75a2cc2e39",
                   "type": "mobile",
                   "top": 60,
                   "left": 4,
                   "width": 4,
                   "height": 40,
-                  "componentId": "e2422cb3-0c64-4b51-894e-2eb62e59969a",
+                  "componentId": "11599a6c-5d0d-493c-9e7a-d3a7f9e49e9b",
                   "dimensionUnit": "count",
-                  "updatedAt": "2025-06-23T11:51:50.986Z"
+                  "updatedAt": "2025-06-23T12:05:34.818Z"
                 }
               ]
             }
           ],
           "pages": [
             {
-              "id": "22e93eb0-39d6-427c-9eb6-66b18f858ca1",
+              "id": "26a46af5-83fb-4446-9009-92c7d953a9b1",
               "name": "Home",
               "handle": "home",
               "index": 1,
               "disabled": null,
               "hidden": null,
               "icon": null,
-              "createdAt": "2025-06-23T11:48:05.931Z",
-              "updatedAt": "2025-06-23T11:48:06.125Z",
-              "autoComputeLayout": true,
-              "appVersionId": "f559a765-7b1f-4d7d-9a6e-09fc8316d2e1",
+              "createdAt": "2025-06-23T12:05:34.818Z",
+              "updatedAt": "2025-06-23T12:05:35.029Z",
+              "autoComputeLayout": false,
+              "appVersionId": "f9f415c1-09df-435f-b403-80d1cfb06ba6",
               "pageGroupIndex": 1,
               "pageGroupId": null,
               "isPageGroup": false
@@ -169,8 +169,8 @@
           "dataSources": [],
           "appVersions": [
             {
-              "id": "f559a765-7b1f-4d7d-9a6e-09fc8316d2e1",
-              "name": "v1",
+              "id": "f9f415c1-09df-435f-b403-80d1cfb06ba6",
+              "name": "v2",
               "definition": null,
               "globalSettings": {
                 "hideHeader": false,
@@ -184,12 +184,12 @@
               },
               "pageSettings": null,
               "showViewerNavigation": true,
-              "homePageId": "22e93eb0-39d6-427c-9eb6-66b18f858ca1",
+              "homePageId": "26a46af5-83fb-4446-9009-92c7d953a9b1",
               "appId": "8c712454-ac5a-40b9-91fa-60aee5bc591e",
               "currentEnvironmentId": "6cfd2600-91e6-43b9-933e-4a5e3b2bd63a",
               "promotedFrom": null,
-              "createdAt": "2025-06-23T11:48:05.983Z",
-              "updatedAt": "2025-06-23T11:48:05.931Z"
+              "createdAt": "2025-06-23T12:05:34.829Z",
+              "updatedAt": "2025-06-23T12:05:34.818Z"
             }
           ],
           "appEnvironments": [
