@@ -1249,10 +1249,10 @@
   },
   "2bd1635a-475f-456d-b344-ed8d9e57dc94": {
     "gitAppName": "gss1 name",
-    "lastCommitMessage": "App gss1 is renamed to gss1 name",
-    "gitVersionId": "5160e1c8-a6a0-4101-89fd-fdaef5383971",
-    "lastpushDate": "2025-06-24T07:59:26.155Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 Created of app gss1 name",
+    "gitVersionId": "455147ba-1fbc-441b-8c0e-a6611239c7d0",
+    "lastpushDate": "2025-06-24T08:01:27.022Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "Yukti "
   }
 }
