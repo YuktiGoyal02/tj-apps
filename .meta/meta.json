@@ -1273,10 +1273,10 @@
   },
   "94feb3d9-9513-48d6-b065-9ed887df2709": {
     "gitAppName": "gh1 test",
-    "lastCommitMessage": "btn1",
-    "gitVersionId": "130b0baa-efc3-495f-8a9a-0b6654aa6b37",
-    "lastpushDate": "2025-06-24T12:18:37.945Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 Created of app gh1 test",
+    "gitVersionId": "5bf72519-1b0b-428f-a4c2-41e3d0be3f9f",
+    "lastpushDate": "2025-06-24T12:19:41.124Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "Yukti "
   }
 }
