@@ -20,7 +20,7 @@
           "updatedAt": "2025-06-24T10:28:49.918Z",
           "editingVersion": {
             "id": "c677d5dd-6308-4917-b20e-7c50e1f226e4",
-            "name": "v7",
+            "name": "v7 upd",
             "definition": null,
             "globalSettings": {
               "hideHeader": false,
@@ -46,7 +46,7 @@
             "currentEnvironmentId": "5f3126a4-7ce7-4c61-871d-b55940e85fc4",
             "promotedFrom": null,
             "createdAt": "2025-06-24T11:33:33.246Z",
-            "updatedAt": "2025-06-24T11:33:33.242Z"
+            "updatedAt": "2025-06-24T11:39:09.033Z"
           },
           "components": [
             {
@@ -577,7 +577,7 @@
           "appVersions": [
             {
               "id": "c677d5dd-6308-4917-b20e-7c50e1f226e4",
-              "name": "v7",
+              "name": "v7 upd",
               "definition": null,
               "globalSettings": {
                 "hideHeader": false,
@@ -603,7 +603,7 @@
               "currentEnvironmentId": "5f3126a4-7ce7-4c61-871d-b55940e85fc4",
               "promotedFrom": null,
               "createdAt": "2025-06-24T11:33:33.246Z",
-              "updatedAt": "2025-06-24T11:33:33.242Z"
+              "updatedAt": "2025-06-24T11:39:09.033Z"
             }
           ],
           "appEnvironments": [
