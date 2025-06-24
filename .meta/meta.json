@@ -1265,10 +1265,10 @@
   },
   "d8532a92-0d97-40fa-b462-258e0e224994": {
     "gitAppName": "gss3",
-    "lastCommitMessage": " v7 upd Version of app gss3 promoted from development to staging",
-    "gitVersionId": "c677d5dd-6308-4917-b20e-7c50e1f226e4",
-    "lastpushDate": "2025-06-24T11:41:05.673Z",
-    "gitVersionName": "v7 upd",
-    "lastCommitUser": "Yukti "
+    "lastCommitMessage": "input in v6",
+    "gitVersionId": "45b8a712-9e8c-4fef-aa4b-d6269ede2778",
+    "lastpushDate": "2025-06-24T11:44:23.223Z",
+    "gitVersionName": "v6",
+    "lastCommitUser": "build1 "
   }
 }
