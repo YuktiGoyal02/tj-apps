@@ -1264,11 +1264,11 @@
     "lastCommitUser": "build1 "
   },
   "d8532a92-0d97-40fa-b462-258e0e224994": {
-    "gitAppName": "gss3 te",
-    "lastCommitMessage": " v3 Version of app gss3 te promoted from development to staging",
+    "gitAppName": "gss3",
+    "lastCommitMessage": "App gss3 te is renamed to gss3",
     "gitVersionId": "6390bdd7-4a5d-4c87-beda-98b515f8b745",
-    "lastpushDate": "2025-06-24T10:16:12.373Z",
+    "lastpushDate": "2025-06-24T10:23:00.050Z",
     "gitVersionName": "v3",
-    "lastCommitUser": "Yukti "
+    "lastCommitUser": "build1 "
   }
 }

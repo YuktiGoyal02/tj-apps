@@ -5,7 +5,7 @@
         "appV2": {
           "id": "d8532a92-0d97-40fa-b462-258e0e224994",
           "type": "front-end",
-          "name": "gss3 te",
+          "name": "gss3",
           "slug": "d8532a92-0d97-40fa-b462-258e0e224994",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-06-24T09:56:32.345Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-24T10:15:10.235Z",
+          "updatedAt": "2025-06-24T10:22:17.551Z",
           "editingVersion": {
             "id": "6390bdd7-4a5d-4c87-beda-98b515f8b745",
             "name": "v3",
