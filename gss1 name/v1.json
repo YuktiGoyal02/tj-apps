@@ -5,7 +5,7 @@
         "appV2": {
           "id": "2bd1635a-475f-456d-b344-ed8d9e57dc94",
           "type": "front-end",
-          "name": "gss1",
+          "name": "gss1 name",
           "slug": "2bd1635a-475f-456d-b344-ed8d9e57dc94",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-06-24T07:55:21.813Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-24T07:55:21.812Z",
+          "updatedAt": "2025-06-24T07:59:12.999Z",
           "editingVersion": {
             "id": "5160e1c8-a6a0-4101-89fd-fdaef5383971",
             "name": "v1",
