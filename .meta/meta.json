@@ -1273,9 +1273,9 @@
   },
   "94feb3d9-9513-48d6-b065-9ed887df2709": {
     "gitAppName": "gh1 test",
-    "lastCommitMessage": " v2 upup Version of app gh1 test promoted from development to staging",
-    "gitVersionId": "e69cca02-b188-4cbc-9b34-99539f9c6e37",
-    "lastpushDate": "2025-06-24T12:46:03.162Z",
+    "lastCommitMessage": "hcb",
+    "gitVersionId": "d64d28cd-d059-457e-a268-5f1c9a4fc904",
+    "lastpushDate": "2025-06-24T12:47:53.591Z",
     "gitVersionName": "v2 upup",
     "lastCommitUser": "build1 "
   }
