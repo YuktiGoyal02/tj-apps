@@ -1305,10 +1305,10 @@
   },
   "16404c97-63d0-4155-a4c2-304fe69a3555": {
     "gitAppName": "ssh m1 re",
-    "lastCommitMessage": "pass",
-    "gitVersionId": "a7473536-ddce-479b-ae87-f5e5d0787a0e",
-    "lastpushDate": "2025-06-26T07:49:05.976Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": " v2 Version of app ssh m1 re promoted from development to staging",
+    "gitVersionId": "dceb5c41-8a51-4b7b-8420-2fdc49d33976",
+    "lastpushDate": "2025-06-26T07:50:51.750Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "build1 "
   }
 }
