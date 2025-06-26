@@ -1305,10 +1305,10 @@
   },
   "16404c97-63d0-4155-a4c2-304fe69a3555": {
     "gitAppName": "ssh m1 re",
-    "lastCommitMessage": "App ssh m1 is renamed to ssh m1 re",
-    "gitVersionId": "f61a84f7-6c80-4f05-9923-ba1e0cb1153e",
-    "lastpushDate": "2025-06-26T06:32:21.501Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": "Version v2 Created of app ssh m1 re",
+    "gitVersionId": "00c01c3c-c887-4a5f-b4da-87d78ab6dea5",
+    "lastpushDate": "2025-06-26T07:12:26.092Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "yukti "
   }
 }
