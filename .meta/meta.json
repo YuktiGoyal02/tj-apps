@@ -1057,11 +1057,11 @@
   },
   "142f1cfb-b167-4f1e-9aaf-6d85bfc0dc5e": {
     "gitAppName": "ssh1",
-    "lastCommitMessage": "App ssh1 created",
-    "gitVersionId": "47df82a3-e305-498e-bd87-a078a387132a",
-    "lastpushDate": "2025-06-17T04:45:34.651Z",
-    "gitVersionName": "v1",
-    "lastCommitUser": "yukti "
+    "lastCommitMessage": "Version v1 is renamed to v1 wkje",
+    "gitVersionId": "e7e4e768-b8c5-4b43-8097-678c4132eab1",
+    "lastpushDate": "2025-06-26T05:13:44.734Z",
+    "gitVersionName": "v1 wkje",
+    "lastCommitUser": "Yukti "
   },
   "a525d64b-103d-4534-8512-d6c508d02417": {
     "gitAppName": "ssh2 name",
