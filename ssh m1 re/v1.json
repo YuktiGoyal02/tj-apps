@@ -5,7 +5,7 @@
         "appV2": {
           "id": "16404c97-63d0-4155-a4c2-304fe69a3555",
           "type": "front-end",
-          "name": "ssh m1",
+          "name": "ssh m1 re",
           "slug": "16404c97-63d0-4155-a4c2-304fe69a3555",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -17,7 +17,7 @@
           "workflowEnabled": false,
           "createdAt": "2025-06-26T06:31:09.634Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-06-26T06:31:09.633Z",
+          "updatedAt": "2025-06-26T06:32:10.354Z",
           "editingVersion": {
             "id": "f61a84f7-6c80-4f05-9923-ba1e0cb1153e",
             "name": "v1",
