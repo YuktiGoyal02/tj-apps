@@ -24,7 +24,7 @@
           "updatedAt": "2025-07-11T08:22:26.703Z",
           "editingVersion": {
             "id": "db78927a-8730-4f49-8a73-c3fbcf1fa190",
-            "name": "v2",
+            "name": "v2 tesr",
             "definition": null,
             "globalSettings": {
               "hideHeader": false,
@@ -43,7 +43,7 @@
             "currentEnvironmentId": "782d5829-8147-4f21-9c65-b22765079c69",
             "promotedFrom": null,
             "createdAt": "2025-07-11T08:31:14.604Z",
-            "updatedAt": "2025-07-11T08:31:14.591Z"
+            "updatedAt": "2025-07-11T08:32:23.561Z"
           },
           "components": [
             {
@@ -178,7 +178,7 @@
           "appVersions": [
             {
               "id": "db78927a-8730-4f49-8a73-c3fbcf1fa190",
-              "name": "v2",
+              "name": "v2 tesr",
               "definition": null,
               "globalSettings": {
                 "hideHeader": false,
@@ -197,7 +197,7 @@
               "currentEnvironmentId": "782d5829-8147-4f21-9c65-b22765079c69",
               "promotedFrom": null,
               "createdAt": "2025-07-11T08:31:14.604Z",
-              "updatedAt": "2025-07-11T08:31:14.591Z"
+              "updatedAt": "2025-07-11T08:32:23.561Z"
             }
           ],
           "appEnvironments": [
