@@ -1361,10 +1361,10 @@
   },
   "1a3e92d1-5eb9-4955-bc85-136c091af8fe": {
     "gitAppName": "cgh app1 renamed",
-    "lastCommitMessage": "Version v4 Created of app cgh app1 renamed",
+    "lastCommitMessage": "Version v4 is renamed to v4 test check",
     "gitVersionId": "8225f6c2-1c48-4ffb-b064-604cd74d2b4c",
-    "lastpushDate": "2025-07-12T11:58:55.956Z",
-    "gitVersionName": "v4",
+    "lastpushDate": "2025-07-12T12:01:27.827Z",
+    "gitVersionName": "v4 test check",
     "lastCommitUser": "build1 "
   }
 }
