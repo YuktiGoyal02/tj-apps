@@ -1385,10 +1385,10 @@
   },
   "850de97d-d9c3-447b-aa9b-8864ea20fe3a": {
     "gitAppName": "cssh app1 test",
-    "lastCommitMessage": "Version v2 Created of app cssh app1 test",
+    "lastCommitMessage": "Version v2 is renamed to v2 test",
     "gitVersionId": "3cd70643-5396-4200-add6-47b584bbbec0",
-    "lastpushDate": "2025-07-14T05:13:16.342Z",
-    "gitVersionName": "v2",
+    "lastpushDate": "2025-07-14T05:14:30.078Z",
+    "gitVersionName": "v2 test",
     "lastCommitUser": "Yukti "
   }
 }
