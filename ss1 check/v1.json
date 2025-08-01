@@ -5,7 +5,7 @@
         "appV2": {
           "id": "6c113852-e1f0-42e6-ae08-6d87254af950",
           "type": "front-end",
-          "name": "ss1 test",
+          "name": "ss1 check",
           "slug": "6c113852-e1f0-42e6-ae08-6d87254af950",
           "isPublic": false,
           "isMaintenanceOn": false,
@@ -21,7 +21,7 @@
           "aiGenerationMetadata": null,
           "createdAt": "2025-08-01T10:30:24.115Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-08-01T10:30:36.988Z",
+          "updatedAt": "2025-08-01T10:31:19.848Z",
           "editingVersion": {
             "id": "25f4b8e6-7f66-4163-85ca-5b4145326f07",
             "name": "v1",
