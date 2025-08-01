@@ -44,7 +44,111 @@
             "createdAt": "2025-08-01T10:30:24.128Z",
             "updatedAt": "2025-08-01T10:30:24.115Z"
           },
-          "components": [],
+          "components": [
+            {
+              "id": "eacdbbe6-8b60-4be7-af9b-436354ede4ae",
+              "name": "button1",
+              "type": "Button",
+              "pageId": "81dfbb13-7dbf-4048-aaaf-ed82ba5f347c",
+              "parent": null,
+              "properties": {
+                "text": {
+                  "value": "Button"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "tooltip": {
+                  "value": ""
+                }
+              },
+              "general": {},
+              "styles": {
+                "textColor": {
+                  "value": "#FFFFFF"
+                },
+                "borderColor": {
+                  "value": "var(--cc-primary-brand)"
+                },
+                "loaderColor": {
+                  "value": "var(--cc-surface1-surface)"
+                },
+                "borderRadius": {
+                  "value": "{{6}}"
+                },
+                "backgroundColor": {
+                  "value": "var(--cc-primary-brand)"
+                },
+                "iconColor": {
+                  "value": "var(--cc-default-icon)"
+                },
+                "direction": {
+                  "value": "left"
+                },
+                "padding": {
+                  "value": "default"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000090"
+                },
+                "icon": {
+                  "value": "IconAlignBoxBottomLeft"
+                },
+                "iconVisibility": {
+                  "value": false
+                },
+                "type": {
+                  "value": "primary"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2025-08-01T10:31:41.384Z",
+              "updatedAt": "2025-08-01T10:31:41.384Z",
+              "layouts": [
+                {
+                  "id": "7beaed6e-b622-465b-b3ee-9db8cfa328da",
+                  "type": "desktop",
+                  "top": 40,
+                  "left": 1,
+                  "width": 4,
+                  "height": 40,
+                  "componentId": "eacdbbe6-8b60-4be7-af9b-436354ede4ae",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-08-01T10:31:41.384Z"
+                },
+                {
+                  "id": "1ba8b59e-2d0e-4e51-a17e-ac3f162ffdb9",
+                  "type": "mobile",
+                  "top": 40,
+                  "left": 1,
+                  "width": 4,
+                  "height": 40,
+                  "componentId": "eacdbbe6-8b60-4be7-af9b-436354ede4ae",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2025-08-01T10:31:41.384Z"
+                }
+              ]
+            }
+          ],
           "pages": [
             {
               "id": "81dfbb13-7dbf-4048-aaaf-ed82ba5f347c",
