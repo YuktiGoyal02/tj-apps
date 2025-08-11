@@ -125,19 +125,19 @@
               "updatedAt": "2025-08-11T07:31:41.868Z",
               "layouts": [
                 {
-                  "id": "173b863d-c4fb-4f04-839d-911a7d0e8b34",
-                  "type": "mobile",
-                  "top": 50,
-                  "left": 8,
+                  "id": "5f5f09f2-727b-47bd-b61b-7fa255711748",
+                  "type": "desktop",
+                  "top": 60,
+                  "left": 3,
                   "width": 4,
                   "height": 40,
                   "componentId": "6fb184ed-8bbc-42c2-9664-a298200aac1a",
                   "dimensionUnit": "count",
-                  "updatedAt": "2025-08-11T07:31:41.868Z"
+                  "updatedAt": "2025-08-11T07:31:43.699Z"
                 },
                 {
-                  "id": "5f5f09f2-727b-47bd-b61b-7fa255711748",
-                  "type": "desktop",
+                  "id": "173b863d-c4fb-4f04-839d-911a7d0e8b34",
+                  "type": "mobile",
                   "top": 50,
                   "left": 8,
                   "width": 4,
