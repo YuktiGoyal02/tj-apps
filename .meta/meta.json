@@ -1408,10 +1408,10 @@
     "lastCommitUser": "yukti "
   },
   "b945254c-9e50-4985-83f7-87a3175abfd5": {
-    "gitAppName": "appt1",
-    "lastCommitMessage": "App appt1 created",
+    "gitAppName": "appt1 rename",
+    "lastCommitMessage": "App appt1 is renamed to appt1 rename",
     "gitVersionId": "ec3afdfe-b3ec-4a03-9bd5-57000636c117",
-    "lastpushDate": "2025-08-11T07:31:25.910Z",
+    "lastpushDate": "2025-08-11T07:31:43.008Z",
     "gitVersionName": "v1",
     "lastCommitUser": "Yukti "
   }
