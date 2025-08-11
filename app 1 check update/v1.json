@@ -5,7 +5,7 @@
         "appV2": {
           "id": "b03fa0b0-ecd9-4591-835e-178bda00dd65",
           "type": "front-end",
-          "name": "app 1 check",
+          "name": "app 1 check update",
           "slug": "b03fa0b0-ecd9-4591-835e-178bda00dd65",
           "isPublic": null,
           "isMaintenanceOn": false,
@@ -21,7 +21,7 @@
           "aiGenerationMetadata": null,
           "createdAt": "2025-08-11T09:03:02.537Z",
           "creationMode": "DEFAULT",
-          "updatedAt": "2025-08-11T09:03:02.534Z",
+          "updatedAt": "2025-08-11T09:31:44.071Z",
           "editingVersion": {
             "id": "986d1138-216d-4f0f-aef0-155983ebc1b6",
             "name": "v1",
