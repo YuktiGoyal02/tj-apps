@@ -1446,5 +1446,13 @@
     "lastpushDate": "2025-08-21T07:42:40.681Z",
     "gitVersionName": "v2",
     "lastCommitUser": "Yukti "
+  },
+  "fd309b6d-d145-4db4-b059-37a50768d3c0": {
+    "gitAppName": "newapp",
+    "lastCommitMessage": " v1 Version of app newapp promoted from development to staging",
+    "gitVersionId": "28bda781-f72a-439f-9f3a-6a7c0877b701",
+    "lastpushDate": "2025-10-31T11:22:24.629Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "yukti "
   }
 }
