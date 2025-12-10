@@ -1454,5 +1454,13 @@
     "lastpushDate": "2025-10-31T11:22:24.629Z",
     "gitVersionName": "v1",
     "lastCommitUser": "yukti "
+  },
+  "befb71bf-e710-41c7-aa10-f3b53403a7a3": {
+    "gitAppName": "GitHub Issue Similarity Finder_Copy",
+    "lastCommitMessage": " v1 Version of app GitHub Issue Similarity Finder_Copy promoted from development to staging",
+    "gitVersionId": "2664daf6-ba8b-4875-9d78-6145f801ab64",
+    "lastpushDate": "2025-12-10T05:20:25.825Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "Ajith Tooljet"
   }
 }
