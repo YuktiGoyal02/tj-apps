@@ -1,0 +1,293 @@
+{
+  "app": [
+    {
+      "definition": {
+        "appV2": {
+          "id": "c1d2542d-de36-4cd0-83cc-5f2f49a20010",
+          "type": "front-end",
+          "name": "admin app1",
+          "slug": "c1d2542d-de36-4cd0-83cc-5f2f49a20010",
+          "isPublic": false,
+          "isMaintenanceOn": false,
+          "icon": "server",
+          "organizationId": "e335b9be-476e-449b-b75b-84d959e413e5",
+          "currentVersionId": null,
+          "userId": "2d3b3de6-b523-4fac-b979-15b1d5ed8c6e",
+          "workflowApiToken": null,
+          "workflowEnabled": false,
+          "isInitialisedFromPrompt": false,
+          "appGeneratedFromPrompt": false,
+          "appBuilderMode": "visual",
+          "aiGenerationMetadata": null,
+          "createdAt": "2026-01-30T13:21:08.320Z",
+          "creationMode": "DEFAULT",
+          "updatedAt": "2026-01-30T13:21:08.319Z",
+          "__loaded": true,
+          "editingVersion": {
+            "id": "0e948bbd-1b07-4612-91a7-469f2c2008a6",
+            "name": "v1",
+            "definition": null,
+            "globalSettings": {
+              "appInMaintenance": false,
+              "canvasMaxWidth": 100,
+              "canvasMaxWidthType": "%",
+              "canvasMaxHeight": 2400,
+              "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+              "backgroundFxQuery": "",
+              "appMode": "light"
+            },
+            "pageSettings": null,
+            "showViewerNavigation": true,
+            "homePageId": "6530a96b-83b2-4791-8714-01bedb9c63fe",
+            "appId": "c1d2542d-de36-4cd0-83cc-5f2f49a20010",
+            "currentEnvironmentId": "e44269ff-a93a-4837-ac93-5272ebca2a74",
+            "promotedFrom": null,
+            "parentVersionId": null,
+            "status": "PUBLISHED",
+            "description": "",
+            "publishedAt": null,
+            "releasedAt": null,
+            "createdAt": "2026-01-30T13:21:08.636Z",
+            "updatedAt": "2026-01-30T13:25:04.796Z"
+          },
+          "components": [
+            {
+              "id": "818cbd1a-82bb-4c0b-aca7-ceb35d2c517c",
+              "name": "textinput1",
+              "type": "TextInput",
+              "pageId": "6530a96b-83b2-4791-8714-01bedb9c63fe",
+              "parent": null,
+              "properties": {
+                "value": {
+                  "value": "{{globals.environment.name}}"
+                },
+                "label": {
+                  "value": "Label"
+                },
+                "placeholder": {
+                  "value": "Enter your input"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "tooltip": {
+                  "value": ""
+                }
+              },
+              "general": {},
+              "styles": {
+                "textColor": {
+                  "value": "var(--cc-primary-text)"
+                },
+                "borderColor": {
+                  "value": "var(--cc-default-border)"
+                },
+                "accentColor": {
+                  "value": "var(--cc-primary-brand)"
+                },
+                "errTextColor": {
+                  "value": "var(--cc-error-systemStatus)"
+                },
+                "borderRadius": {
+                  "value": "{{6}}"
+                },
+                "backgroundColor": {
+                  "value": "var(--cc-surface1-surface)"
+                },
+                "iconColor": {
+                  "value": "var(--cc-default-icon)"
+                },
+                "direction": {
+                  "value": "left"
+                },
+                "width": {
+                  "value": "{{33}}"
+                },
+                "alignment": {
+                  "value": "side"
+                },
+                "color": {
+                  "value": "var(--cc-primary-text)"
+                },
+                "auto": {
+                  "value": "{{true}}"
+                },
+                "padding": {
+                  "value": "default"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                },
+                "icon": {
+                  "value": "IconHome2"
+                },
+                "iconVisibility": {
+                  "value": false
+                },
+                "widthType": {
+                  "value": "ofComponent"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {
+                "mandatory": {
+                  "value": "{{false}}"
+                },
+                "regex": {
+                  "value": ""
+                },
+                "minLength": {
+                  "value": ""
+                },
+                "maxLength": {
+                  "value": ""
+                },
+                "customRule": {
+                  "value": ""
+                }
+              },
+              "createdAt": "2026-01-30T13:21:18.657Z",
+              "updatedAt": "2026-01-30T13:21:29.999Z",
+              "layouts": [
+                {
+                  "id": "4a792a22-37d9-4c0b-8639-1ef99f21989d",
+                  "type": "desktop",
+                  "top": 70,
+                  "left": 14,
+                  "width": 10,
+                  "height": 40,
+                  "componentId": "818cbd1a-82bb-4c0b-aca7-ceb35d2c517c",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2026-01-30T13:21:18.657Z"
+                },
+                {
+                  "id": "0149a086-52dd-4427-aeef-add13f9b9221",
+                  "type": "mobile",
+                  "top": 70,
+                  "left": 14,
+                  "width": 10,
+                  "height": 40,
+                  "componentId": "818cbd1a-82bb-4c0b-aca7-ceb35d2c517c",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2026-01-30T13:21:18.657Z"
+                }
+              ]
+            }
+          ],
+          "pages": [
+            {
+              "id": "6530a96b-83b2-4791-8714-01bedb9c63fe",
+              "name": "Home",
+              "handle": "home",
+              "index": 1,
+              "disabled": null,
+              "hidden": null,
+              "icon": null,
+              "createdAt": "2026-01-30T13:21:08.319Z",
+              "updatedAt": "2026-01-30T13:21:10.810Z",
+              "autoComputeLayout": true,
+              "appVersionId": "0e948bbd-1b07-4612-91a7-469f2c2008a6",
+              "pageGroupIndex": 1,
+              "pageGroupId": null,
+              "isPageGroup": false,
+              "url": null,
+              "openIn": "new_tab",
+              "type": "default",
+              "appId": ""
+            }
+          ],
+          "events": [],
+          "dataQueries": [],
+          "dataSources": [],
+          "appVersions": [
+            {
+              "id": "0e948bbd-1b07-4612-91a7-469f2c2008a6",
+              "name": "v1",
+              "definition": null,
+              "globalSettings": {
+                "appInMaintenance": false,
+                "canvasMaxWidth": 100,
+                "canvasMaxWidthType": "%",
+                "canvasMaxHeight": 2400,
+                "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+                "backgroundFxQuery": "",
+                "appMode": "light"
+              },
+              "pageSettings": null,
+              "showViewerNavigation": true,
+              "homePageId": "6530a96b-83b2-4791-8714-01bedb9c63fe",
+              "appId": "c1d2542d-de36-4cd0-83cc-5f2f49a20010",
+              "currentEnvironmentId": "e44269ff-a93a-4837-ac93-5272ebca2a74",
+              "promotedFrom": null,
+              "parentVersionId": null,
+              "status": "PUBLISHED",
+              "description": "",
+              "publishedAt": null,
+              "releasedAt": null,
+              "createdAt": "2026-01-30T13:21:08.636Z",
+              "updatedAt": "2026-01-30T13:25:04.796Z"
+            }
+          ],
+          "appEnvironments": [
+            {
+              "id": "8490bd7b-b15a-4803-b2cf-88ffab91938c",
+              "organizationId": "e335b9be-476e-449b-b75b-84d959e413e5",
+              "name": "development",
+              "isDefault": false,
+              "priority": 1,
+              "enabled": true,
+              "createdAt": "2023-04-26T19:44:06.852Z",
+              "updatedAt": "2023-04-26T19:44:06.852Z"
+            },
+            {
+              "id": "e44269ff-a93a-4837-ac93-5272ebca2a74",
+              "organizationId": "e335b9be-476e-449b-b75b-84d959e413e5",
+              "name": "staging",
+              "isDefault": false,
+              "priority": 2,
+              "enabled": true,
+              "createdAt": "2023-04-26T19:44:06.852Z",
+              "updatedAt": "2023-04-26T19:44:06.852Z"
+            },
+            {
+              "id": "75c4706c-b96b-46d4-af70-0d95ea08c029",
+              "organizationId": "e335b9be-476e-449b-b75b-84d959e413e5",
+              "name": "production",
+              "isDefault": true,
+              "priority": 3,
+              "enabled": true,
+              "createdAt": "2023-04-26T19:44:06.852Z",
+              "updatedAt": "2023-04-26T19:44:06.852Z"
+            }
+          ],
+          "dataSourceOptions": [],
+          "schemaDetails": {
+            "multiPages": true,
+            "multiEnv": true,
+            "globalDataSources": true
+          },
+          "modules": []
+        }
+      }
+    }
+  ],
+  "tooljet_version": "3.20.80-cloud-lts"
+}
