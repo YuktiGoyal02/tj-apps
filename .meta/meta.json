@@ -1510,5 +1510,13 @@
     "lastpushDate": "2026-01-30T13:35:37.220Z",
     "gitVersionName": "v1",
     "lastCommitUser": "yukti "
+  },
+  "69bc1eae-3ec1-452f-b134-fc73d49269eb": {
+    "gitAppName": "test app1",
+    "lastCommitMessage": " v2 Version of app test app1 promoted from development to staging",
+    "gitVersionId": "a5e7afff-447a-4622-8eaf-3f6183564f7f",
+    "lastpushDate": "2026-02-02T11:13:30.902Z",
+    "gitVersionName": "v2",
+    "lastCommitUser": "Ajith Tooljet"
   }
 }
