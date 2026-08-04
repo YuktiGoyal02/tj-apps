@@ -1,0 +1,573 @@
+{
+  "tooljet_database": [
+    {
+      "id": "110a1838-fd35-4626-90af-0dd710c7a6b7",
+      "table_name": "test1",
+      "schema": {
+        "columns": [
+          {
+            "column_name": "id",
+            "data_type": "integer",
+            "column_default": "nextval(\"110a1838-fd35-4626-90af-0dd710c7a6b7_id_seq\"",
+            "character_maximum_length": null,
+            "numeric_precision": 32,
+            "constraints_type": {
+              "is_not_null": true,
+              "is_primary_key": true,
+              "is_unique": false
+            },
+            "keytype": "PRIMARY KEY",
+            "configurations": {}
+          },
+          {
+            "column_name": "name",
+            "data_type": "character varying",
+            "column_default": null,
+            "character_maximum_length": null,
+            "numeric_precision": null,
+            "constraints_type": {
+              "is_not_null": false,
+              "is_primary_key": false,
+              "is_unique": false
+            },
+            "keytype": "",
+            "configurations": {}
+          },
+          {
+            "column_name": "age",
+            "data_type": "integer",
+            "column_default": null,
+            "character_maximum_length": null,
+            "numeric_precision": 32,
+            "constraints_type": {
+              "is_not_null": false,
+              "is_primary_key": false,
+              "is_unique": false
+            },
+            "keytype": "",
+            "configurations": {}
+          }
+        ],
+        "foreign_keys": []
+      }
+    }
+  ],
+  "app": [
+    {
+      "definition": {
+        "appV2": {
+          "id": "b9074666-d980-46e7-b492-cd2dd4307eed",
+          "type": "front-end",
+          "name": "tapp1",
+          "slug": "b9074666-d980-46e7-b492-cd2dd4307eed",
+          "isPublic": false,
+          "isMaintenanceOn": false,
+          "icon": "server",
+          "organizationId": "e335b9be-476e-449b-b75b-84d959e413e5",
+          "currentVersionId": null,
+          "userId": "2d3b3de6-b523-4fac-b979-15b1d5ed8c6e",
+          "workflowApiToken": null,
+          "workflowEnabled": false,
+          "isInitialisedFromPrompt": false,
+          "appGeneratedFromPrompt": false,
+          "appBuilderMode": "visual",
+          "aiGenerationMetadata": null,
+          "createdAt": "2026-08-04T11:31:43.668Z",
+          "creationMode": "DEFAULT",
+          "updatedAt": "2026-08-04T11:31:43.668Z",
+          "__loaded": true,
+          "editingVersion": {
+            "id": "199ad58d-9bf0-4f44-8291-1760773977ea",
+            "name": "v1",
+            "definition": null,
+            "globalSettings": {
+              "appInMaintenance": false,
+              "canvasMaxWidth": 100,
+              "canvasMaxWidthType": "%",
+              "canvasMaxHeight": 2400,
+              "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+              "backgroundFxQuery": "",
+              "appMode": "light"
+            },
+            "pageSettings": null,
+            "showViewerNavigation": true,
+            "homePageId": "71dfeb9d-8fc0-4b0b-80c5-6137d11c17ff",
+            "appId": "b9074666-d980-46e7-b492-cd2dd4307eed",
+            "currentEnvironmentId": "e44269ff-a93a-4837-ac93-5272ebca2a74",
+            "promotedFrom": null,
+            "parentVersionId": null,
+            "status": "PUBLISHED",
+            "description": "",
+            "publishedAt": null,
+            "releasedAt": null,
+            "createdAt": "2026-08-04T11:31:43.809Z",
+            "updatedAt": "2026-08-04T11:32:21.476Z"
+          },
+          "components": [
+            {
+              "id": "bbc54dee-3adc-42f9-bf73-0b2bb21e432e",
+              "name": "table1",
+              "type": "Table",
+              "pageId": "71dfeb9d-8fc0-4b0b-80c5-6137d11c17ff",
+              "parent": null,
+              "properties": {
+                "title": {
+                  "value": "Table"
+                },
+                "visible": {
+                  "value": "{{true}}"
+                },
+                "loadingState": {
+                  "value": "{{false}}"
+                },
+                "dataSourceSelector": {
+                  "value": "rawJson"
+                },
+                "data": {
+                  "value": "{{queries.caeca6bb-054d-4541-8b2d-ec7df23f5ca5.data}}"
+                },
+                "useDynamicColumn": {
+                  "value": "{{false}}"
+                },
+                "columnData": {
+                  "value": "{{[{name: 'email', key: 'email', id: '1'}, {name: 'Full name', key: 'name', id: '2', isEditable: true}]}}"
+                },
+                "rowsPerPage": {
+                  "value": "{{10}}"
+                },
+                "serverSidePagination": {
+                  "value": "{{false}}"
+                },
+                "enableNextButton": {
+                  "value": "{{true}}"
+                },
+                "enablePrevButton": {
+                  "value": "{{true}}"
+                },
+                "totalRecords": {
+                  "value": "{{10}}"
+                },
+                "enablePagination": {
+                  "value": "{{true}}"
+                },
+                "serverSideSort": {
+                  "value": "{{false}}"
+                },
+                "serverSideFilter": {
+                  "value": "{{false}}"
+                },
+                "displaySearchBox": {
+                  "value": "{{true}}"
+                },
+                "showDownloadButton": {
+                  "value": "{{true}}"
+                },
+                "showFilterButton": {
+                  "value": "{{true}}"
+                },
+                "autogenerateColumns": {
+                  "value": true,
+                  "generateNestedColumns": true
+                },
+                "isAllColumnsEditable": {
+                  "value": "{{false}}"
+                },
+                "columns": {
+                  "value": [
+                    {
+                      "name": "id",
+                      "key": "id",
+                      "id": "e3ecbf7fa52c4d7210a93edb8f43776267a489bad52bd108be9588f790126737",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnSize": 30,
+                      "columnType": "string"
+                    },
+                    {
+                      "name": "name",
+                      "key": "name",
+                      "id": "5d2a3744a006388aadd012fcc15cc0dbcb5f9130e0fbb64c558561c97118754a",
+                      "autogenerated": true,
+                      "fxActiveFields": [],
+                      "columnSize": 130,
+                      "columnType": "string"
+                    },
+                    {
+                      "id": "8d1684c7-4f17-4927-9995-fa18f5cdf2d3",
+                      "name": "age",
+                      "key": "age",
+                      "columnType": "number",
+                      "autogenerated": true
+                    }
+                  ]
+                },
+                "showBulkUpdateActions": {
+                  "value": "{{true}}"
+                },
+                "showBulkSelector": {
+                  "value": "{{false}}"
+                },
+                "highlightSelectedRow": {
+                  "value": "{{false}}"
+                },
+                "columnSizes": {
+                  "value": "{{({})}}"
+                },
+                "actions": {
+                  "value": []
+                },
+                "enabledSort": {
+                  "value": "{{true}}"
+                },
+                "hideColumnSelectorButton": {
+                  "value": "{{false}}"
+                },
+                "defaultSelectedRow": {
+                  "value": "{{{\"id\":1}}}"
+                },
+                "showAddNewRowButton": {
+                  "value": "{{true}}"
+                },
+                "showRefreshButton": {
+                  "value": "{{false}}"
+                },
+                "allowSelection": {
+                  "value": "{{true}}"
+                },
+                "visibility": {
+                  "value": "{{true}}"
+                },
+                "collapseWhenHidden": {
+                  "value": "{{false}}"
+                },
+                "disabledState": {
+                  "value": "{{false}}"
+                },
+                "dynamicHeight": {
+                  "value": "{{false}}"
+                },
+                "selectRowOnCellEdit": {
+                  "value": "{{false}}"
+                },
+                "enableExpandableRows": {
+                  "value": "{{false}}"
+                },
+                "expansionHeight": {
+                  "value": "{{229}}"
+                },
+                "disableRowDeselection": {
+                  "value": "{{false}}"
+                }
+              },
+              "general": {},
+              "styles": {
+                "cssClass": {
+                  "value": ""
+                },
+                "columnTitleColor": {
+                  "value": "var(--cc-primary-text)"
+                },
+                "columnBackgroundColor": {
+                  "value": "var(--cc-surface1-surface)"
+                },
+                "containerBackgroundColor": {
+                  "value": "var(--cc-surface1-surface)"
+                },
+                "textColor": {
+                  "value": "var(--cc-primary-text)"
+                },
+                "selectedRowColor": {
+                  "value": "var(--cc-surface2-surface)"
+                },
+                "columnHeaderWrap": {
+                  "value": "fixed"
+                },
+                "headerCasing": {
+                  "value": "none"
+                },
+                "actionButtonRadius": {
+                  "value": "0"
+                },
+                "cellSize": {
+                  "value": "regular"
+                },
+                "borderRadius": {
+                  "value": "6"
+                },
+                "borderColor": {
+                  "value": "var(--cc-weak-border)"
+                },
+                "tableType": {
+                  "value": "table-classic"
+                },
+                "maxRowHeight": {
+                  "value": "auto"
+                },
+                "maxRowHeightValue": {
+                  "value": "{{0}}"
+                },
+                "contentWrap": {
+                  "value": "{{false}}"
+                },
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000090"
+                },
+                "padding": {
+                  "value": "default"
+                }
+              },
+              "generalStyles": {
+                "boxShadow": {
+                  "value": "0px 0px 0px 0px #00000040"
+                }
+              },
+              "displayPreferences": {
+                "showOnDesktop": {
+                  "value": "{{true}}"
+                },
+                "showOnMobile": {
+                  "value": "{{false}}"
+                }
+              },
+              "validation": {},
+              "createdAt": "2026-08-04T11:32:06.215Z",
+              "updatedAt": "2026-08-04T11:32:14.085Z",
+              "layouts": [
+                {
+                  "id": "6e15a4e6-2fbf-43f2-8764-39ad10f053c5",
+                  "type": "desktop",
+                  "top": 70,
+                  "left": 3,
+                  "width": 25,
+                  "height": 460,
+                  "widthPx": null,
+                  "fillWidth": null,
+                  "componentId": "bbc54dee-3adc-42f9-bf73-0b2bb21e432e",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2026-08-04T11:32:06.215Z"
+                },
+                {
+                  "id": "cfb07be5-2056-47e4-95d7-7cd45276cc21",
+                  "type": "mobile",
+                  "top": 70,
+                  "left": 3,
+                  "width": 25,
+                  "height": 460,
+                  "widthPx": null,
+                  "fillWidth": null,
+                  "componentId": "bbc54dee-3adc-42f9-bf73-0b2bb21e432e",
+                  "dimensionUnit": "count",
+                  "updatedAt": "2026-08-04T11:32:06.215Z"
+                }
+              ]
+            }
+          ],
+          "pages": [
+            {
+              "id": "71dfeb9d-8fc0-4b0b-80c5-6137d11c17ff",
+              "name": "Home",
+              "handle": "home",
+              "index": 1,
+              "disabled": null,
+              "hidden": null,
+              "icon": null,
+              "createdAt": "2026-08-04T11:31:43.668Z",
+              "updatedAt": "2026-08-04T11:31:45.837Z",
+              "autoComputeLayout": true,
+              "appVersionId": "199ad58d-9bf0-4f44-8291-1760773977ea",
+              "pageGroupIndex": 1,
+              "pageGroupId": null,
+              "isPageGroup": false,
+              "url": null,
+              "openIn": "new_tab",
+              "type": "default",
+              "pageHeader": {
+                "border": "var(--cc-weak-border)",
+                "height": 60,
+                "showOnMobile": false,
+                "showOnDesktop": false,
+                "backgroundColor": "var(--cc-surface1-surface)"
+              },
+              "pageFooter": {
+                "border": "var(--cc-weak-border)",
+                "height": 60,
+                "showOnMobile": false,
+                "showOnDesktop": false,
+                "backgroundColor": "var(--cc-surface1-surface)"
+              },
+              "appId": ""
+            }
+          ],
+          "events": [],
+          "dataQueries": [
+            {
+              "id": "caeca6bb-054d-4541-8b2d-ec7df23f5ca5",
+              "name": "tooljetdb1",
+              "options": {
+                "operation": "list_rows",
+                "transformationLanguage": "javascript",
+                "enableTransformation": false,
+                "table_name": "",
+                "table_id": "110a1838-fd35-4626-90af-0dd710c7a6b7",
+                "join_table": {
+                  "joins": [
+                    {
+                      "id": 1785843114371,
+                      "conditions": {
+                        "operator": "AND",
+                        "conditionsList": [
+                          {
+                            "operator": "=",
+                            "leftField": {
+                              "table": "110a1838-fd35-4626-90af-0dd710c7a6b7"
+                            }
+                          }
+                        ]
+                      },
+                      "joinType": "INNER"
+                    }
+                  ],
+                  "from": {
+                    "name": "110a1838-fd35-4626-90af-0dd710c7a6b7",
+                    "type": "Table"
+                  },
+                  "fields": []
+                },
+                "delete_rows": {
+                  "limit": 1,
+                  "order_column": "id"
+                },
+                "list_rows": {},
+                "runOnPageLoad": true
+              },
+              "dataSourceId": "784e0603-cf39-4f8a-8b2f-ade8c494af5e",
+              "appVersionId": "199ad58d-9bf0-4f44-8291-1760773977ea",
+              "createdAt": "2026-08-04T11:31:51.095Z",
+              "updatedAt": "2026-08-04T11:32:25.367Z"
+            }
+          ],
+          "dataSources": [
+            {
+              "id": "784e0603-cf39-4f8a-8b2f-ade8c494af5e",
+              "name": "tooljetdbdefault",
+              "kind": "tooljetdb",
+              "type": "static",
+              "pluginId": null,
+              "appVersionId": null,
+              "organizationId": "e335b9be-476e-449b-b75b-84d959e413e5",
+              "scope": "global",
+              "createdAt": "2023-01-10T10:12:01.590Z",
+              "updatedAt": "2023-01-10T10:12:01.590Z"
+            }
+          ],
+          "dataQueryFolders": [],
+          "dataQueryFolderMappings": [
+            {
+              "id": "0c6e8d12-43ac-42c1-b0df-94ae563b2820",
+              "parentId": null,
+              "childId": "caeca6bb-054d-4541-8b2d-ec7df23f5ca5",
+              "childType": "query",
+              "index": 0,
+              "createdAt": "2026-08-04T11:31:51.118Z",
+              "updatedAt": "2026-08-04T11:31:51.118Z"
+            }
+          ],
+          "appVersions": [
+            {
+              "id": "199ad58d-9bf0-4f44-8291-1760773977ea",
+              "name": "v1",
+              "definition": null,
+              "globalSettings": {
+                "appInMaintenance": false,
+                "canvasMaxWidth": 100,
+                "canvasMaxWidthType": "%",
+                "canvasMaxHeight": 2400,
+                "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+                "backgroundFxQuery": "",
+                "appMode": "light"
+              },
+              "pageSettings": null,
+              "showViewerNavigation": true,
+              "homePageId": "71dfeb9d-8fc0-4b0b-80c5-6137d11c17ff",
+              "appId": "b9074666-d980-46e7-b492-cd2dd4307eed",
+              "currentEnvironmentId": "e44269ff-a93a-4837-ac93-5272ebca2a74",
+              "promotedFrom": null,
+              "parentVersionId": null,
+              "status": "PUBLISHED",
+              "description": "",
+              "publishedAt": null,
+              "releasedAt": null,
+              "createdAt": "2026-08-04T11:31:43.809Z",
+              "updatedAt": "2026-08-04T11:32:21.476Z"
+            }
+          ],
+          "appEnvironments": [
+            {
+              "id": "8490bd7b-b15a-4803-b2cf-88ffab91938c",
+              "organizationId": "e335b9be-476e-449b-b75b-84d959e413e5",
+              "name": "development",
+              "isDefault": false,
+              "priority": 1,
+              "enabled": true,
+              "createdAt": "2023-04-26T19:44:06.852Z",
+              "updatedAt": "2023-04-26T19:44:06.852Z"
+            },
+            {
+              "id": "e44269ff-a93a-4837-ac93-5272ebca2a74",
+              "organizationId": "e335b9be-476e-449b-b75b-84d959e413e5",
+              "name": "staging",
+              "isDefault": false,
+              "priority": 2,
+              "enabled": true,
+              "createdAt": "2023-04-26T19:44:06.852Z",
+              "updatedAt": "2023-04-26T19:44:06.852Z"
+            },
+            {
+              "id": "75c4706c-b96b-46d4-af70-0d95ea08c029",
+              "organizationId": "e335b9be-476e-449b-b75b-84d959e413e5",
+              "name": "production",
+              "isDefault": true,
+              "priority": 3,
+              "enabled": true,
+              "createdAt": "2023-04-26T19:44:06.852Z",
+              "updatedAt": "2023-04-26T19:44:06.852Z"
+            }
+          ],
+          "dataSourceOptions": [
+            {
+              "id": "90eec781-d6b9-43f3-9767-ca26e04d62d5",
+              "dataSourceId": "784e0603-cf39-4f8a-8b2f-ade8c494af5e",
+              "environmentId": "75c4706c-b96b-46d4-af70-0d95ea08c029",
+              "options": null,
+              "createdAt": "2023-01-10T10:12:01.593Z",
+              "updatedAt": "2023-01-10T10:12:01.593Z"
+            },
+            {
+              "id": "e66d73c6-a617-4358-a051-f9df304721b3",
+              "dataSourceId": "784e0603-cf39-4f8a-8b2f-ade8c494af5e",
+              "environmentId": "8490bd7b-b15a-4803-b2cf-88ffab91938c",
+              "options": null,
+              "createdAt": "2023-01-10T10:12:01.593Z",
+              "updatedAt": "2023-01-10T10:12:01.593Z"
+            },
+            {
+              "id": "4c7d998d-d7bc-49f5-a54f-6d0690f92c52",
+              "dataSourceId": "784e0603-cf39-4f8a-8b2f-ade8c494af5e",
+              "environmentId": "e44269ff-a93a-4837-ac93-5272ebca2a74",
+              "options": null,
+              "createdAt": "2023-01-10T10:12:01.593Z",
+              "updatedAt": "2023-01-10T10:12:01.593Z"
+            }
+          ],
+          "schemaDetails": {
+            "multiPages": true,
+            "multiEnv": true,
+            "globalDataSources": true
+          },
+          "modules": []
+        }
+      }
+    }
+  ],
+  "tooljet_version": "3.20.197-cloud-lts"
+}
